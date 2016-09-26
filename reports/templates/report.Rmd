@@ -1,0 +1,18 @@
+```{r echo=FALSE}
+read_chunk('../helpers/report.R')
+```
+
+# Title
+
+* **Observation.**
+
+    - Something
+
+* **Take out.**
+
+    - something else
+
+```{r echo = FALSE, fig.cap='Example of a graph', example}
+```
+
+***
