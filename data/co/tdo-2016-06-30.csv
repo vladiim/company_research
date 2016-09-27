@@ -1,2 +1,368 @@
-"","ticker","date","name","est","sector","industry","industry_group","marcap","invested_capital","total_equity","total_debt","pretax_income","dividends","roic"
-"1","TDO",2016-06-30,NA,NA,"Energy","Oil & Gas E&P",NA,7600,13,13,NA,-10.29,0,-0.791538461538462
+"","ticker","date","variable","value"
+"1","TDO",2016-06-30,"Address","Level 5, 164 Flinders Lane, 3000"
+"2","TDO",2016-06-30,"City/Country:","Melbourne, Australia"
+"3","TDO",2016-06-30,"Company sector name:","Energy"
+"4","TDO",2016-06-30,"End of fiscal year:","30 June 2016"
+"5","TDO",2016-06-30,"Industry group name","Oil & Gas - E&P"
+"6","TDO",2016-06-30,"Industry name:","Oil & Gas E&P"
+"7","TDO",2016-06-30,"Web address:","http://www.3doil.com.au"
+"8","TDO",2016-06-30,"Assets Turnover","-"
+"9","TDO",2016-06-30,"Book-Value pS","0.05"
+"10","TDO",2016-06-30,"Cash Flow pS","-0.01"
+"11","TDO",2016-06-30,"Cash pS","0.02"
+"12","TDO",2016-06-30,"Current Ratio","4.31"
+"13","TDO",2016-06-30,"Dividend pS (DPS)","-"
+"14","TDO",2016-06-30,"Dividend Yield","-"
+"15","TDO",2016-06-30,"Domestic Sales","-"
+"16","TDO",2016-06-30,"Earnings pS (EPS)","-0.04"
+"17","TDO",2016-06-30,"EBITDA Margin","-"
+"18","TDO",2016-06-30,"Effective Tax Rate","-"
+"19","TDO",2016-06-30,"Foreign Sales","-"
+"20","TDO",2016-06-30,"Free Cash Flow pS","-0.03"
+"21","TDO",2016-06-30,"Gross gearing","7.10"
+"22","TDO",2016-06-30,"Gross Profit Margin","-"
+"23","TDO",2016-06-30,"Interest Cover","-"
+"24","TDO",2016-06-30,"Latest Shares Outstanding","237.52"
+"25","TDO",2016-06-30,"Leverage Ratio (Assets/Equity)","1.08"
+"26","TDO",2016-06-30,"LT Debt/Total Capital","-"
+"27","TDO",2016-06-30,"Market Capitalisation","7.60"
+"28","TDO",2016-06-30,"Net Debt","-3.02"
+"29","TDO",2016-06-30,"PE Ratio","-0.74"
+"30","TDO",2016-06-30,"Pre-Tax Profit Margin","-"
+"31","TDO",2016-06-30,"Research & Devlopment (R&D) as ...","-"
+"32","TDO",2016-06-30,"Return on Assets (ROA)","-0.53"
+"33","TDO",2016-06-30,"Return on Capital Invested (ROC...","-0.57"
+"34","TDO",2016-06-30,"Return on Equity (ROE)","-0.57"
+"35","TDO",2016-06-30,"Sales per Employee","-"
+"36","TDO",2016-06-30,"Selling, General & Adm/tive (SG...","-"
+"37","TDO",2016-06-30,"Spread","0.01"
+"38","TDO",2016-06-30,"Tangible Book-Value pS","0.04"
+"39","TDO",2016-06-30,"TDO KEY FIGURES (at previous day's close)",NA
+"40","TDO",2016-06-30,"Total Debt/Equity (Gearing Rati...","-"
+"41","TDO",2016-06-30,"Working Capital pS","0.05"
+"42","TDO",2016-06-30,"Yesterday's Close","0.03"
+"43","TDO",2016-06-30,"1 Month","0.02"
+"44","TDO",2016-06-30,"1 Month","0.03"
+"45","TDO",2016-06-30,"1 Week","0.02"
+"46","TDO",2016-06-30,"1 Week","0.03"
+"47","TDO",2016-06-30,"1 Year","0.05"
+"48","TDO",2016-06-30,"1 Year","0.09"
+"49","TDO",2016-06-30,"3 Months","0.02"
+"50","TDO",2016-06-30,"3 Months","0.03"
+"51","TDO",2016-06-30,"3 Years","0.14"
+"52","TDO",2016-06-30,"3 Years","0.11"
+"53","TDO",2016-06-30,"5 Years","0.14"
+"54","TDO",2016-06-30,"5 Years","0.13"
+"55","TDO",2016-06-30,"6 Months","0.03"
+"56","TDO",2016-06-30,"6 Months","0.04"
+"57","TDO",2016-06-30,"Period †","High"
+"58","TDO",2016-06-30,"Period †","Open"
+"59","TDO",2016-06-30,"","1 year"
+"60","TDO",2016-06-30,"","LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell
+			
+		
+
+	
+				
+					FTSE
+				
+			
+		
+				
+					UKX
+				
+			
+		
+				FTSE 100
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					IOF
+				
+			
+		
+				Iofina
+			
+		
+
+	
+				
+					FX
+				
+			
+		
+				
+					GBPUSD
+				
+			
+		
+				UK Sterlin..
+			
+		
+			
+
+						
+						Stocks you've viewed will appear in this box, letting you easily return to quotes you've seen previously.Register now to create your own custom streaming stock watchlist."
+"61","TDO",2016-06-30,"CFO growth","-"
+"62","TDO",2016-06-30,"Diluted continuous EPS growth","-"
+"63","TDO",2016-06-30,"Diluted EPS growth","-"
+"64","TDO",2016-06-30,"Dividend growth","-"
+"65","TDO",2016-06-30,"Equity per share growth","-0.44"
+"66","TDO",2016-06-30,"FCF growth","-"
+"67","TDO",2016-06-30,"Net income cont growth","-"
+"68","TDO",2016-06-30,"Net income growth","-"
+"69","TDO",2016-06-30,"Operating income growth","-"
+"70","TDO",2016-06-30,"Operating revenue growth","0.00"
+"71","TDO",2016-06-30,"Revenue growth","0.00"
+"72","TDO",2016-06-30,"TDO Growth Ratios (30 June 2016)",NA
+"73","TDO",2016-06-30,"Amortization","0.04"
+"74","TDO",2016-06-30,"Basic EPS","-0.04"
+"75","TDO",2016-06-30,"Basic EPS from Continuing Ope...","-0.04"
+"76","TDO",2016-06-30,"Basic EPS from Discontinued O...","0.00"
+"77","TDO",2016-06-30,"Basic EPS,Continuing and Disc...","-0.04"
+"78","TDO",2016-06-30,"Basic Weighted Average Shares...","237.52"
+"79","TDO",2016-06-30,"Calculated Tax Effect Of Unus...","0.00"
+"80","TDO",2016-06-30,"Depreciation","0.01"
+"81","TDO",2016-06-30,"Depreciation and Amortization","0.06"
+"82","TDO",2016-06-30,"Depreciation,Reconciled","0.06"
+"83","TDO",2016-06-30,"Diluted EPS","-0.04"
+"84","TDO",2016-06-30,"Diluted EPS from Continuing O...","-0.04"
+"85","TDO",2016-06-30,"Diluted EPS from Discontinued...","0.00"
+"86","TDO",2016-06-30,"Diluted EPS,Continuing and Di...","-0.04"
+"87","TDO",2016-06-30,"Diluted Weighted Average Shar...","237.52"
+"88","TDO",2016-06-30,"Discontinued Operations","0.00"
+"89","TDO",2016-06-30,"Earning Before Interest and T...","-10.67"
+"90","TDO",2016-06-30,"Earning Before Interest Tax D...","-10.61"
+"91","TDO",2016-06-30,"General and Administrative Ex...","1.20"
+"92","TDO",2016-06-30,"Interest and Dividend Income","0.06"
+"93","TDO",2016-06-30,"Interest Income-Non Operating","0.06"
+"94","TDO",2016-06-30,"Interest Income/Expense,Net-N...","0.06"
+"95","TDO",2016-06-30,"Minority Interest","0.00"
+"96","TDO",2016-06-30,"Net Income","-10.29"
+"97","TDO",2016-06-30,"Net Income Available to Commo...","-10.29"
+"98","TDO",2016-06-30,"Net Income from Continuing an...","-10.29"
+"99","TDO",2016-06-30,"Net Income from Continuing Op...","-10.29"
+"100","TDO",2016-06-30,"Net Income from Continuing Op...","-10.29"
+"101","TDO",2016-06-30,"Net Income Including Noncontr...","-10.29"
+"102","TDO",2016-06-30,"Net Interest Income","0.06"
+"103","TDO",2016-06-30,"Non Operating Expense","0.06"
+"104","TDO",2016-06-30,"Non Operating Income","0.27"
+"105","TDO",2016-06-30,"Normalized Basic EPS","-0.04"
+"106","TDO",2016-06-30,"Normalized Diluted EPS","-0.04"
+"107","TDO",2016-06-30,"Normalized Income","-10.29"
+"108","TDO",2016-06-30,"Operating Expenses","10.67"
+"109","TDO",2016-06-30,"Operating Income","-10.67"
+"110","TDO",2016-06-30,"Operating Revenue","0.00"
+"111","TDO",2016-06-30,"Other Income/Expense,Net","0.27"
+"112","TDO",2016-06-30,"Preferred Stock Dividends","0.00"
+"113","TDO",2016-06-30,"Pretax Income","-10.33"
+"114","TDO",2016-06-30,"Provision for Income Tax","-0.04"
+"115","TDO",2016-06-30,"Rent and Landing Fees","0.09"
+"116","TDO",2016-06-30,"Salary and Benefit","1.03"
+"117","TDO",2016-06-30,"Selling,General and Administr...","1.20"
+"118","TDO",2016-06-30,"Tax rate for calculations","0.00"
+"119","TDO",2016-06-30,"TDO Income Statement 30 June 2016 (AUD)",NA
+"120","TDO",2016-06-30,"Total Revenue","0.00"
+"121","TDO",2016-06-30,"Assets turnover","-"
+"122","TDO",2016-06-30,"Capital expenditure sales ratio","-"
+"123","TDO",2016-06-30,"Cash conversion cycle","-"
+"124","TDO",2016-06-30,"Days in inventory","-"
+"125","TDO",2016-06-30,"Days in payment","-"
+"126","TDO",2016-06-30,"Days in sales","-"
+"127","TDO",2016-06-30,"FCF net income ratio","-"
+"128","TDO",2016-06-30,"FCF sales ratio","-"
+"129","TDO",2016-06-30,"Fixed assets turnover","-"
+"130","TDO",2016-06-30,"Inventory turnover","-"
+"131","TDO",2016-06-30,"Payable turnover","-"
+"132","TDO",2016-06-30,"Receivable turnover","-"
+"133","TDO",2016-06-30,"ROA","-0.53"
+"134","TDO",2016-06-30,"ROE","-0.57"
+"135","TDO",2016-06-30,"ROIC","-0.57"
+"136","TDO",2016-06-30,"TDO Efficency Ratios (30 June 2016)",NA
+"137","TDO",2016-06-30,"Current ratio","4.31"
+"138","TDO",2016-06-30,"Debt equity ratio","-"
+"139","TDO",2016-06-30,"Debt total capital ratio","-"
+"140","TDO",2016-06-30,"Financial leverage","1.08"
+"141","TDO",2016-06-30,"Quick ratio","4.29"
+"142","TDO",2016-06-30,"TDO Financial Health Ratios (30 June 2016)",NA
+"143","TDO",2016-06-30,"Total debt to equity","-"
+"144","TDO",2016-06-30,"Avg gross margin","-"
+"145","TDO",2016-06-30,"Avg net profit","-"
+"146","TDO",2016-06-30,"Avg post tax margin","-"
+"147","TDO",2016-06-30,"Avg pre tax marginr","-"
+"148","TDO",2016-06-30,"Avg ret assets","-0.17"
+"149","TDO",2016-06-30,"Avg ret commonr","-0.18"
+"150","TDO",2016-06-30,"Avg ret invested capital","-0.18"
+"151","TDO",2016-06-30,"Growth ann capital spending","0.06"
+"152","TDO",2016-06-30,"Growth ann gross profit","-"
+"153","TDO",2016-06-30,"TDO Avearge Growth Ratios Over 5 Years (30 June 2016)",NA
+"154","TDO",2016-06-30,"EBIT margin","-"
+"155","TDO",2016-06-30,"EBITDA margin","-"
+"156","TDO",2016-06-30,"EBT margin","-"
+"157","TDO",2016-06-30,"Gross margin","-"
+"158","TDO",2016-06-30,"Inc per employee tot ops","-"
+"159","TDO",2016-06-30,"Interest coverage","-"
+"160","TDO",2016-06-30,"Net margin","-"
+"161","TDO",2016-06-30,"Normalized net profit margin","-"
+"162","TDO",2016-06-30,"Operating margin","-"
+"163","TDO",2016-06-30,"Sales per employee","-"
+"164","TDO",2016-06-30,"Tax rate","-"
+"165","TDO",2016-06-30,"TDO Profitability Ratios (-)",NA
+"166","TDO",2016-06-30,"Book value per share","0.06"
+"167","TDO",2016-06-30,"Cash return","-"
+"168","TDO",2016-06-30,"CF per share","-0.01"
+"169","TDO",2016-06-30,"Div payout 5 year","-"
+"170","TDO",2016-06-30,"Div payout tot ops","-"
+"171","TDO",2016-06-30,"Div rate","-"
+"172","TDO",2016-06-30,"Dividend yield","-"
+"173","TDO",2016-06-30,"Growth ann sales per share 5 ye...","-"
+"174","TDO",2016-06-30,"Payout ratio","0.00"
+"175","TDO",2016-06-30,"Price to book","0.37"
+"176","TDO",2016-06-30,"Price to cash flow","-1.50"
+"177","TDO",2016-06-30,"Price to EPS","-0.49"
+"178","TDO",2016-06-30,"Price to free cash flow","-0.65"
+"179","TDO",2016-06-30,"Price to sales","10,000.00"
+"180","TDO",2016-06-30,"Ratio PE 5 year high","-3.95"
+"181","TDO",2016-06-30,"Ratio PE 5 year low","-0.47"
+"182","TDO",2016-06-30,"Sales per share","0.00"
+"183","TDO",2016-06-30,"Sustainable growth rate","-0.46"
+"184","TDO",2016-06-30,"TDO Valuation Ratios (30 June 2016)",NA
+"185","TDO",2016-06-30,"Accounts Payable","0.07"
+"186","TDO",2016-06-30,"Accounts Receivable,Non-Curre...","0.00"
+"187","TDO",2016-06-30,"Accumulated Depreciation","-0.13"
+"188","TDO",2016-06-30,"Accumulated Gains/ Losses Not...","0.07"
+"189","TDO",2016-06-30,"Capital Stock","52.66"
+"190","TDO",2016-06-30,"Cash","4.01"
+"191","TDO",2016-06-30,"Cash and Cash Equivalents","4.01"
+"192","TDO",2016-06-30,"Cash,Cash Equivalents,and Sho...","4.01"
+"193","TDO",2016-06-30,"Common Stock","52.66"
+"194","TDO",2016-06-30,"Common Stock Equity","13.00"
+"195","TDO",2016-06-30,"Current Assets","4.13"
+"196","TDO",2016-06-30,"Current Liabilities","0.96"
+"197","TDO",2016-06-30,"Goodwill and Other Intangible...","0.20"
+"198","TDO",2016-06-30,"Gross Property,Plant,and Equi...","9.79"
+"199","TDO",2016-06-30,"Invested Capital","13.00"
+"200","TDO",2016-06-30,"Investments and Advances","0.00"
+"201","TDO",2016-06-30,"Net Property,Plant,and Equipm...","9.66"
+"202","TDO",2016-06-30,"Net Tangible Assets","12.80"
+"203","TDO",2016-06-30,"Ordinary Shares Number","237.52"
+"204","TDO",2016-06-30,"Other Current Liabilities","0.13"
+"205","TDO",2016-06-30,"Other Intangible Assets","0.20"
+"206","TDO",2016-06-30,"Other Payable","0.76"
+"207","TDO",2016-06-30,"Payables","0.83"
+"208","TDO",2016-06-30,"Payables and Accrued Expenses","0.83"
+"209","TDO",2016-06-30,"Preferred Stock","0.00"
+"210","TDO",2016-06-30,"Prepaid Assets and Others","0.02"
+"211","TDO",2016-06-30,"Receivables","0.10"
+"212","TDO",2016-06-30,"Retained Earnings","-39.73"
+"213","TDO",2016-06-30,"Short Term Investments","0.00"
+"214","TDO",2016-06-30,"Stockholder's Equity","13.00"
+"215","TDO",2016-06-30,"Tangible Book Value","12.80"
+"216","TDO",2016-06-30,"TDO Balance Sheet 30 June 2016 (AUD)",NA
+"217","TDO",2016-06-30,"Total Assets","13.99"
+"218","TDO",2016-06-30,"Total Capitalization","13.00"
+"219","TDO",2016-06-30,"Total Equity","13.00"
+"220","TDO",2016-06-30,"Total Equity","13.00"
+"221","TDO",2016-06-30,"Total Liabilities","0.99"
+"222","TDO",2016-06-30,"Total Liabilities Inc MI","0.99"
+"223","TDO",2016-06-30,"Total Non-Current Assets","9.86"
+"224","TDO",2016-06-30,"Total Non-Current Liabilities","0.03"
+"225","TDO",2016-06-30,"Total Non-Current Liabilities...","0.03"
+"226","TDO",2016-06-30,"Working Capital","3.17"
+"227","TDO",2016-06-30,"Capital Expenditure","-5.31"
+"228","TDO",2016-06-30,"CapitalExpenditureReported","-5.19"
+"229","TDO",2016-06-30,"Cash and Cash Equivalents,Beg...","10.49"
+"230","TDO",2016-06-30,"Cash and Cash Equivalents,End...","4.01"
+"231","TDO",2016-06-30,"Cash Dividends Paid","0.00"
+"232","TDO",2016-06-30,"Cash Flow from Financing Acti...","0.00"
+"233","TDO",2016-06-30,"Cash Flow from Investing Acti...","-5.31"
+"234","TDO",2016-06-30,"Cash Flow from Operating Acti...","-1.43"
+"235","TDO",2016-06-30,"Change in Cash","-6.74"
+"236","TDO",2016-06-30,"Effect of Exchange Rate Chang...","0.26"
+"237","TDO",2016-06-30,"Free Cash Flow","-6.74"
+"238","TDO",2016-06-30,"Interest Paid, Supplemental D...","-816.00"
+"239","TDO",2016-06-30,"Issuance of Capital Stock","0.00"
+"240","TDO",2016-06-30,"Issuance of Debt","0.00"
+"241","TDO",2016-06-30,"Issuance/Payments of Common S...","0.00"
+"242","TDO",2016-06-30,"Issuance/Payments of Debt,Net","0.00"
+"243","TDO",2016-06-30,"Issuance/Payments of Long Ter...","0.00"
+"244","TDO",2016-06-30,"Payments to Settle Long Term ...","0.00"
+"245","TDO",2016-06-30,"Proceeds or Issuance of Commo...","0.00"
+"246","TDO",2016-06-30,"Proceeds or Issuance of Long ...","0.00"
+"247","TDO",2016-06-30,"Purchase of Intangibles","-0.04"
+"248","TDO",2016-06-30,"Purchase of Investments","0.00"
+"249","TDO",2016-06-30,"Purchase of Property,Plant an...","-0.08"
+"250","TDO",2016-06-30,"Purchase/Acquisition of Busin...","0.00"
+"251","TDO",2016-06-30,"Purchase/Sale of Business,Net","0.00"
+"252","TDO",2016-06-30,"Purchase/Sale of Intangibles,...","-0.04"
+"253","TDO",2016-06-30,"Purchase/Sale of Investments,...","0.00"
+"254","TDO",2016-06-30,"Purchase/Sale of Property,Pla...","-0.08"
+"255","TDO",2016-06-30,"Repayment of Debt","0.00"
+"256","TDO",2016-06-30,"Sale of Business","0.00"
+"257","TDO",2016-06-30,"Sale of Investments","0.00"
+"258","TDO",2016-06-30,"TDO Cash Flow 30 June 2016 (AUD)",NA
+"259","TDO",2016-06-30,"FTSE",NA
+"260","TDO",2016-06-30,"FTSE 100",NA
+"261","TDO",2016-06-30,"FX",NA
+"262","TDO",2016-06-30,"GBPUSD",NA
+"263","TDO",2016-06-30,"GKP",NA
+"264","TDO",2016-06-30,"Gulf Keyst..",NA
+"265","TDO",2016-06-30,"IOF",NA
+"266","TDO",2016-06-30,"Iofina",NA
+"267","TDO",2016-06-30,"LSE",NA
+"268","TDO",2016-06-30,"LSE",NA
+"269","TDO",2016-06-30,"LSE",NA
+"270","TDO",2016-06-30,"LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..","LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell"
+"271","TDO",2016-06-30,"QPP",NA
+"272","TDO",2016-06-30,"Quindell",NA
+"273","TDO",2016-06-30,"UK Sterlin..",NA
+"274","TDO",2016-06-30,"UKX",NA

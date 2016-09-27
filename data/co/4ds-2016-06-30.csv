@@ -1,2 +1,360 @@
-"","ticker","date","name","est","sector","industry","industry_group","marcap","invested_capital","total_equity","total_debt","pretax_income","dividends","roic"
-"1","4DS",2016-06-30,NA,NA,NA,NA,NA,11200,1.29,1.29,NA,-11.74,0,-9.10077519379845
+"","ticker","date","variable","value"
+"1","4DS",2016-06-30,"Doing business in:","Australia (AU)"
+"2","4DS",2016-06-30,"End of fiscal year:","30 June 2016"
+"3","4DS",2016-06-30,"Fax:","+61 893207501"
+"4","4DS",2016-06-30,"Place of incorporation:","Australia (AU)"
+"5","4DS",2016-06-30,"Tel.:","+61 894817111"
+"6","4DS",2016-06-30,"Trading currency:","AUD"
+"7","4DS",2016-06-30,"Year established:","2010"
+"8","4DS",2016-06-30,"4DS KEY FIGURES (at previous day's close)",NA
+"9","4DS",2016-06-30,"Assets Turnover","-"
+"10","4DS",2016-06-30,"Book-Value pS","0.00"
+"11","4DS",2016-06-30,"Cash Flow pS","-0.01"
+"12","4DS",2016-06-30,"Cash pS","0.00"
+"13","4DS",2016-06-30,"Current Ratio","14.85"
+"14","4DS",2016-06-30,"Dividend pS (DPS)","-"
+"15","4DS",2016-06-30,"Dividend Yield","-"
+"16","4DS",2016-06-30,"Domestic Sales","-"
+"17","4DS",2016-06-30,"Earnings pS (EPS)","-0.03"
+"18","4DS",2016-06-30,"EBITDA Margin","-"
+"19","4DS",2016-06-30,"Effective Tax Rate","-"
+"20","4DS",2016-06-30,"Foreign Sales","-"
+"21","4DS",2016-06-30,"Free Cash Flow pS","-0.01"
+"22","4DS",2016-06-30,"Gross gearing","6.62"
+"23","4DS",2016-06-30,"Gross Profit Margin","-"
+"24","4DS",2016-06-30,"Interest Cover","-"
+"25","4DS",2016-06-30,"Latest Shares Outstanding","733.43"
+"26","4DS",2016-06-30,"Leverage Ratio (Assets/Equity)","1.07"
+"27","4DS",2016-06-30,"LT Debt/Total Capital","-"
+"28","4DS",2016-06-30,"Market Capitalisation","11.20"
+"29","4DS",2016-06-30,"Net Debt","-1.15"
+"30","4DS",2016-06-30,"PE Ratio","-0.95"
+"31","4DS",2016-06-30,"Pre-Tax Profit Margin","-"
+"32","4DS",2016-06-30,"Research & Devlopment (R&D) as ...","-"
+"33","4DS",2016-06-30,"Return on Assets (ROA)","-7.87"
+"34","4DS",2016-06-30,"Return on Capital Invested (ROC...","-8.48"
+"35","4DS",2016-06-30,"Return on Equity (ROE)","-8.47"
+"36","4DS",2016-06-30,"Sales per Employee","-"
+"37","4DS",2016-06-30,"Selling, General & Adm/tive (SG...","-"
+"38","4DS",2016-06-30,"Spread","0.00"
+"39","4DS",2016-06-30,"Tangible Book-Value pS","0.00"
+"40","4DS",2016-06-30,"Total Debt/Equity (Gearing Rati...","-"
+"41","4DS",2016-06-30,"Working Capital pS","0.00"
+"42","4DS",2016-06-30,"Yesterday's Close","0.03"
+"43","4DS",2016-06-30,"1 Month","0.03"
+"44","4DS",2016-06-30,"1 Month","0.02"
+"45","4DS",2016-06-30,"1 Week","0.03"
+"46","4DS",2016-06-30,"1 Week","0.02"
+"47","4DS",2016-06-30,"1 Year","0.05"
+"48","4DS",2016-06-30,"3 Months","0.04"
+"49","4DS",2016-06-30,"3 Months","0.02"
+"50","4DS",2016-06-30,"3 Years","0.05"
+"51","4DS",2016-06-30,"5 Years","0.05"
+"52","4DS",2016-06-30,"6 Months","0.04"
+"53","4DS",2016-06-30,"6 Months","0.02"
+"54","4DS",2016-06-30,"Period †","High"
+"55","4DS",2016-06-30,"Period †","Open"
+"56","4DS",2016-06-30,"","1 year"
+"57","4DS",2016-06-30,"","LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell
+			
+		
+
+	
+				
+					FTSE
+				
+			
+		
+				
+					UKX
+				
+			
+		
+				FTSE 100
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					IOF
+				
+			
+		
+				Iofina
+			
+		
+
+	
+				
+					FX
+				
+			
+		
+				
+					GBPUSD
+				
+			
+		
+				UK Sterlin..
+			
+		
+			
+
+						
+						Stocks you've viewed will appear in this box, letting you easily return to quotes you've seen previously.Register now to create your own custom streaming stock watchlist."
+"58","4DS",2016-06-30,"4DS Growth Ratios (30 June 2016)",NA
+"59","4DS",2016-06-30,"CFO growth","-"
+"60","4DS",2016-06-30,"Diluted continuous EPS growth","-"
+"61","4DS",2016-06-30,"Diluted EPS growth","-"
+"62","4DS",2016-06-30,"Dividend growth","-"
+"63","4DS",2016-06-30,"Equity per share growth","-0.78"
+"64","4DS",2016-06-30,"FCF growth","-"
+"65","4DS",2016-06-30,"Net income cont growth","-"
+"66","4DS",2016-06-30,"Net income growth","-"
+"67","4DS",2016-06-30,"Operating income growth","-"
+"68","4DS",2016-06-30,"Operating revenue growth","0.00"
+"69","4DS",2016-06-30,"Revenue growth","0.00"
+"70","4DS",2016-06-30,"4DS Income Statement 30 June 2016 (AUD)",NA
+"71","4DS",2016-06-30,"Basic EPS","-0.03"
+"72","4DS",2016-06-30,"Basic EPS from Continuing Ope...","-0.03"
+"73","4DS",2016-06-30,"Basic EPS from Discontinued O...","0.00"
+"74","4DS",2016-06-30,"Basic EPS,Continuing and Disc...","-0.03"
+"75","4DS",2016-06-30,"Basic Weighted Average Shares...","414.89"
+"76","4DS",2016-06-30,"Calculated Tax Effect Of Unus...","0.00"
+"77","4DS",2016-06-30,"Commission Expenses","0.32"
+"78","4DS",2016-06-30,"Depreciation","6,799.00"
+"79","4DS",2016-06-30,"Depreciation and Amortization","6,799.00"
+"80","4DS",2016-06-30,"Depreciation,Reconciled","6,799.00"
+"81","4DS",2016-06-30,"Diluted EPS","-0.03"
+"82","4DS",2016-06-30,"Diluted EPS from Continuing O...","-0.03"
+"83","4DS",2016-06-30,"Diluted EPS from Discontinued...","0.00"
+"84","4DS",2016-06-30,"Diluted EPS,Continuing and Di...","-0.03"
+"85","4DS",2016-06-30,"Diluted Weighted Average Shar...","414.89"
+"86","4DS",2016-06-30,"Discontinued Operations","0.00"
+"87","4DS",2016-06-30,"Earning Before Interest and T...","-11.88"
+"88","4DS",2016-06-30,"Earning Before Interest Tax D...","-11.87"
+"89","4DS",2016-06-30,"General and Administrative Ex...","1.74"
+"90","4DS",2016-06-30,"Interest and Dividend Income","0.02"
+"91","4DS",2016-06-30,"Interest Income-Non Operating","0.02"
+"92","4DS",2016-06-30,"Interest Income/Expense,Net-N...","0.02"
+"93","4DS",2016-06-30,"Minority Interest","0.00"
+"94","4DS",2016-06-30,"Net Income","-11.74"
+"95","4DS",2016-06-30,"Net Income Available to Commo...","-11.74"
+"96","4DS",2016-06-30,"Net Income from Continuing an...","-11.74"
+"97","4DS",2016-06-30,"Net Income from Continuing Op...","-11.74"
+"98","4DS",2016-06-30,"Net Income from Continuing Op...","-11.74"
+"99","4DS",2016-06-30,"Net Income Including Noncontr...","-11.74"
+"100","4DS",2016-06-30,"Net Interest Income","0.02"
+"101","4DS",2016-06-30,"Non Operating Expense","0.02"
+"102","4DS",2016-06-30,"Non Operating Income","0.12"
+"103","4DS",2016-06-30,"Normalized Basic EPS","-0.03"
+"104","4DS",2016-06-30,"Normalized Diluted EPS","-0.03"
+"105","4DS",2016-06-30,"Normalized Income","-11.74"
+"106","4DS",2016-06-30,"Operating Expenses","11.88"
+"107","4DS",2016-06-30,"Operating Income","-11.88"
+"108","4DS",2016-06-30,"Operating Revenue","0.00"
+"109","4DS",2016-06-30,"Other Income/Expense,Net","0.12"
+"110","4DS",2016-06-30,"Preferred Stock Dividends","0.00"
+"111","4DS",2016-06-30,"Pretax Income","-11.74"
+"112","4DS",2016-06-30,"Provision for Income Tax","0.00"
+"113","4DS",2016-06-30,"Rent and Landing Fees","0.09"
+"114","4DS",2016-06-30,"Research and Development","0.35"
+"115","4DS",2016-06-30,"Salary and Benefit","1.65"
+"116","4DS",2016-06-30,"Selling and Marketing Expense","0.32"
+"117","4DS",2016-06-30,"Selling,General and Administr...","2.06"
+"118","4DS",2016-06-30,"Tax rate for calculations","0.00"
+"119","4DS",2016-06-30,"Total Revenue","0.00"
+"120","4DS",2016-06-30,"4DS Efficency Ratios (30 June 2016)",NA
+"121","4DS",2016-06-30,"Assets turnover","-"
+"122","4DS",2016-06-30,"Capital expenditure sales ratio","-"
+"123","4DS",2016-06-30,"Cash conversion cycle","-"
+"124","4DS",2016-06-30,"Days in inventory","-"
+"125","4DS",2016-06-30,"Days in payment","-"
+"126","4DS",2016-06-30,"Days in sales","-"
+"127","4DS",2016-06-30,"FCF net income ratio","-"
+"128","4DS",2016-06-30,"FCF sales ratio","-"
+"129","4DS",2016-06-30,"Fixed assets turnover","-"
+"130","4DS",2016-06-30,"Inventory turnover","-"
+"131","4DS",2016-06-30,"Payable turnover","-"
+"132","4DS",2016-06-30,"Receivable turnover","-"
+"133","4DS",2016-06-30,"ROA","-7.87"
+"134","4DS",2016-06-30,"ROE","-8.47"
+"135","4DS",2016-06-30,"ROIC","-8.48"
+"136","4DS",2016-06-30,"4DS Financial Health Ratios (30 June 2016)",NA
+"137","4DS",2016-06-30,"Current ratio","14.85"
+"138","4DS",2016-06-30,"Debt equity ratio","-"
+"139","4DS",2016-06-30,"Debt total capital ratio","-"
+"140","4DS",2016-06-30,"Financial leverage","1.07"
+"141","4DS",2016-06-30,"Quick ratio","13.64"
+"142","4DS",2016-06-30,"Total debt to equity","-"
+"143","4DS",2016-06-30,"4DS Avearge Growth Ratios Over 5 Years (30 June 2016)",NA
+"144","4DS",2016-06-30,"Avg gross margin","-"
+"145","4DS",2016-06-30,"Avg net profit","-"
+"146","4DS",2016-06-30,"Avg post tax margin","-"
+"147","4DS",2016-06-30,"Avg pre tax marginr","-"
+"148","4DS",2016-06-30,"Avg ret assets","-2.12"
+"149","4DS",2016-06-30,"Avg ret commonr","-2.26"
+"150","4DS",2016-06-30,"Avg ret invested capital","-2.27"
+"151","4DS",2016-06-30,"Growth ann capital spending","-"
+"152","4DS",2016-06-30,"Growth ann gross profit","-"
+"153","4DS",2016-06-30,"4DS Profitability Ratios (-)",NA
+"154","4DS",2016-06-30,"EBIT margin","-"
+"155","4DS",2016-06-30,"EBITDA margin","-"
+"156","4DS",2016-06-30,"EBT margin","-"
+"157","4DS",2016-06-30,"Gross margin","-"
+"158","4DS",2016-06-30,"Inc per employee tot ops","-"
+"159","4DS",2016-06-30,"Interest coverage","-"
+"160","4DS",2016-06-30,"Net margin","-"
+"161","4DS",2016-06-30,"Normalized net profit margin","-"
+"162","4DS",2016-06-30,"Operating margin","-"
+"163","4DS",2016-06-30,"Sales per employee","-"
+"164","4DS",2016-06-30,"Tax rate","-"
+"165","4DS",2016-06-30,"4DS Valuation Ratios (30 June 2016)",NA
+"166","4DS",2016-06-30,"Book value per share","0.00"
+"167","4DS",2016-06-30,"Cash return","-0.11"
+"168","4DS",2016-06-30,"CF per share","-0.01"
+"169","4DS",2016-06-30,"Div payout 5 year","-"
+"170","4DS",2016-06-30,"Div payout tot ops","-"
+"171","4DS",2016-06-30,"Div rate","-"
+"172","4DS",2016-06-30,"Dividend yield","-"
+"173","4DS",2016-06-30,"Growth ann sales per share 5 ye...","-"
+"174","4DS",2016-06-30,"Payout ratio","0.00"
+"175","4DS",2016-06-30,"Price to book","6.80"
+"176","4DS",2016-06-30,"Price to cash flow","-2.06"
+"177","4DS",2016-06-30,"Price to EPS","-0.41"
+"178","4DS",2016-06-30,"Price to free cash flow","-2.10"
+"179","4DS",2016-06-30,"Price to sales","65.36"
+"180","4DS",2016-06-30,"Ratio PE 5 year high","-10.82"
+"181","4DS",2016-06-30,"Ratio PE 5 year low","-0.15"
+"182","4DS",2016-06-30,"Sales per share","0.00"
+"183","4DS",2016-06-30,"Sustainable growth rate","-4.77"
+"184","4DS",2016-06-30,"4DS Balance Sheet 30 June 2016 (AUD)",NA
+"185","4DS",2016-06-30,"Accounts Payable","0.08"
+"186","4DS",2016-06-30,"Accounts Receivable,Non-Curre...","0.00"
+"187","4DS",2016-06-30,"Accumulated Gains/ Losses Not...","4.80"
+"188","4DS",2016-06-30,"Capital Stock","20.73"
+"189","4DS",2016-06-30,"Cash","1.24"
+"190","4DS",2016-06-30,"Cash and Cash Equivalents","1.24"
+"191","4DS",2016-06-30,"Cash,Cash Equivalents,and Sho...","1.24"
+"192","4DS",2016-06-30,"Common Stock","20.73"
+"193","4DS",2016-06-30,"Common Stock Equity","1.29"
+"194","4DS",2016-06-30,"Current Assets","1.36"
+"195","4DS",2016-06-30,"Current Liabilities","0.09"
+"196","4DS",2016-06-30,"Gross Property,Plant,and Equi...","0.02"
+"197","4DS",2016-06-30,"Invested Capital","1.29"
+"198","4DS",2016-06-30,"Investments and Advances","0.00"
+"199","4DS",2016-06-30,"Net Property,Plant,and Equipm...","0.02"
+"200","4DS",2016-06-30,"Net Tangible Assets","1.29"
+"201","4DS",2016-06-30,"Ordinary Shares Number","659.16"
+"202","4DS",2016-06-30,"Other Current Assets","0.06"
+"203","4DS",2016-06-30,"Other Current Liabilities","7,551.00"
+"204","4DS",2016-06-30,"Payables","0.08"
+"205","4DS",2016-06-30,"Payables and Accrued Expenses","0.08"
+"206","4DS",2016-06-30,"Preferred Stock","0.00"
+"207","4DS",2016-06-30,"Prepaid Assets and Others","0.06"
+"208","4DS",2016-06-30,"Receivables","7,711.00"
+"209","4DS",2016-06-30,"Retained Earnings","-24.24"
+"210","4DS",2016-06-30,"Short Term Investments","0.00"
+"211","4DS",2016-06-30,"Stockholder's Equity","1.29"
+"212","4DS",2016-06-30,"Tangible Book Value","1.29"
+"213","4DS",2016-06-30,"Total Assets","1.39"
+"214","4DS",2016-06-30,"Total Capitalization","1.29"
+"215","4DS",2016-06-30,"Total Equity","1.29"
+"216","4DS",2016-06-30,"Total Equity","1.29"
+"217","4DS",2016-06-30,"Total Liabilities","0.09"
+"218","4DS",2016-06-30,"Total Liabilities Inc MI","0.09"
+"219","4DS",2016-06-30,"Total Non-Current Assets","0.02"
+"220","4DS",2016-06-30,"Total Non-Current Liabilities","0.00"
+"221","4DS",2016-06-30,"Total Non-Current Liabilities...","0.00"
+"222","4DS",2016-06-30,"Working Capital","1.27"
+"223","4DS",2016-06-30,"4DS Cash Flow 30 June 2016 (AUD)",NA
+"224","4DS",2016-06-30,"Capital Expenditure","-0.01"
+"225","4DS",2016-06-30,"Cash and Cash Equivalents,Beg...","9,106.00"
+"226","4DS",2016-06-30,"Cash and Cash Equivalents,End...","1.24"
+"227","4DS",2016-06-30,"Cash Dividends Paid","0.00"
+"228","4DS",2016-06-30,"Cash Flow from Financing Acti...","0.53"
+"229","4DS",2016-06-30,"Cash Flow from Investing Acti...","3.07"
+"230","4DS",2016-06-30,"Cash Flow from Operating Acti...","-2.36"
+"231","4DS",2016-06-30,"Change in Cash","1.23"
+"232","4DS",2016-06-30,"Effect of Exchange Rate Chang...","0.00"
+"233","4DS",2016-06-30,"Free Cash Flow","-2.38"
+"234","4DS",2016-06-30,"Issuance of Capital Stock","0.53"
+"235","4DS",2016-06-30,"Issuance of Debt","0.00"
+"236","4DS",2016-06-30,"Issuance/Payments of Common S...","0.53"
+"237","4DS",2016-06-30,"Issuance/Payments of Debt,Net","0.00"
+"238","4DS",2016-06-30,"Issuance/Payments of Long Ter...","0.00"
+"239","4DS",2016-06-30,"Payments to Settle Long Term ...","0.00"
+"240","4DS",2016-06-30,"Proceeds or Issuance of Commo...","0.53"
+"241","4DS",2016-06-30,"Proceeds or Issuance of Long ...","0.00"
+"242","4DS",2016-06-30,"Purchase of Investments","0.00"
+"243","4DS",2016-06-30,"Purchase of Property,Plant an...","-0.01"
+"244","4DS",2016-06-30,"Purchase/Acquisition of Busin...","0.00"
+"245","4DS",2016-06-30,"Purchase/Sale of Business,Net","3.08"
+"246","4DS",2016-06-30,"Purchase/Sale of Investments,...","0.00"
+"247","4DS",2016-06-30,"Purchase/Sale of Property,Pla...","-0.01"
+"248","4DS",2016-06-30,"Repayment of Debt","0.00"
+"249","4DS",2016-06-30,"Sale of Business","3.08"
+"250","4DS",2016-06-30,"Sale of Investments","0.00"
+"251","4DS",2016-06-30,"FTSE",NA
+"252","4DS",2016-06-30,"FTSE 100",NA
+"253","4DS",2016-06-30,"FX",NA
+"254","4DS",2016-06-30,"GBPUSD",NA
+"255","4DS",2016-06-30,"GKP",NA
+"256","4DS",2016-06-30,"Gulf Keyst..",NA
+"257","4DS",2016-06-30,"IOF",NA
+"258","4DS",2016-06-30,"Iofina",NA
+"259","4DS",2016-06-30,"LSE",NA
+"260","4DS",2016-06-30,"LSE",NA
+"261","4DS",2016-06-30,"LSE",NA
+"262","4DS",2016-06-30,"LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..","LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell"
+"263","4DS",2016-06-30,"QPP",NA
+"264","4DS",2016-06-30,"Quindell",NA
+"265","4DS",2016-06-30,"UK Sterlin..",NA
+"266","4DS",2016-06-30,"UKX",NA

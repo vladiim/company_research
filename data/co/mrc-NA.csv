@@ -1,2 +1,373 @@
-"","ticker","date","name","est","sector","industry","industry_group","marcap","invested_capital","total_equity","total_debt","pretax_income","dividends","roic"
-"1","MRC",NA,NA,NA,NA,NA,NA,68840,35.52,31.68,3.96,10.58,0,0.29786036036036
+"","ticker","date","variable","value"
+"1","MRC",NA,"Industry group name","Metals & Mining"
+"2","MRC",NA,"ISIN","AU000000MRC8"
+"3","MRC",NA,"Trading currency:","AUD"
+"4","MRC",NA,"Assets Turnover","0.89"
+"5","MRC",NA,"Book-Value pS","0.08"
+"6","MRC",NA,"Cash Flow pS","0.02"
+"7","MRC",NA,"Cash pS","0.01"
+"8","MRC",NA,"Current Ratio","1.40"
+"9","MRC",NA,"Dividend pS (DPS)","-"
+"10","MRC",NA,"Dividend Yield","-"
+"11","MRC",NA,"Domestic Sales","-"
+"12","MRC",NA,"Earnings pS (EPS)","0.03"
+"13","MRC",NA,"EBITDA Margin","38.03"
+"14","MRC",NA,"Effective Tax Rate","-"
+"15","MRC",NA,"Foreign Sales","-"
+"16","MRC",NA,"Free Cash Flow pS","0.01"
+"17","MRC",NA,"Gross gearing","23.62"
+"18","MRC",NA,"Gross Profit Margin","0.00"
+"19","MRC",NA,"Interest Cover","44.31"
+"20","MRC",NA,"Latest Shares Outstanding","404.94"
+"21","MRC",NA,"Leverage Ratio (Assets/Equity)","1.31"
+"22","MRC",NA,"LT Debt/Total Capital","0.03"
+"23","MRC",NA,"Market Capitalisation","68.84"
+"24","MRC",NA,"MRC KEY FIGURES (at previous day's close)",NA
+"25","MRC",NA,"Net Debt","5.53"
+"26","MRC",NA,"PE Ratio","6.51"
+"27","MRC",NA,"Pre-Tax Profit Margin","28.00"
+"28","MRC",NA,"Research & Devlopment (R&D) as ...","0.00"
+"29","MRC",NA,"Return on Assets (ROA)","0.24"
+"30","MRC",NA,"Return on Capital Invested (ROC...","0.29"
+"31","MRC",NA,"Return on Equity (ROE)","0.34"
+"32","MRC",NA,"Sales per Employee","0.20"
+"33","MRC",NA,"Selling, General & Adm/tive (SG...","14.11"
+"34","MRC",NA,"Spread","0.04"
+"35","MRC",NA,"Tangible Book-Value pS","0.08"
+"36","MRC",NA,"Total Debt/Equity (Gearing Rati...","0.13"
+"37","MRC",NA,"Working Capital pS","0.09"
+"38","MRC",NA,"Yesterday's Close","0.17"
+"39","MRC",NA,"1 Month","0.17"
+"40","MRC",NA,"1 Month","0.14"
+"41","MRC",NA,"1 Week","0.17"
+"42","MRC",NA,"1 Week","0.16"
+"43","MRC",NA,"1 Year","0.17"
+"44","MRC",NA,"1 Year","0.12"
+"45","MRC",NA,"3 Months","0.17"
+"46","MRC",NA,"3 Months","0.14"
+"47","MRC",NA,"3 Years","0.09"
+"48","MRC",NA,"3 Years","0.20"
+"49","MRC",NA,"5 Years","0.20"
+"50","MRC",NA,"5 Years","0.14"
+"51","MRC",NA,"6 Months","0.17"
+"52","MRC",NA,"6 Months","0.12"
+"53","MRC",NA,"Period †","High"
+"54","MRC",NA,"Period †","Open"
+"55","MRC",NA,"","1 year"
+"56","MRC",NA,"","LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell
+			
+		
+
+	
+				
+					FTSE
+				
+			
+		
+				
+					UKX
+				
+			
+		
+				FTSE 100
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					IOF
+				
+			
+		
+				Iofina
+			
+		
+
+	
+				
+					FX
+				
+			
+		
+				
+					GBPUSD
+				
+			
+		
+				UK Sterlin..
+			
+		
+			
+
+						
+						Stocks you've viewed will appear in this box, letting you easily return to quotes you've seen previously.Register now to create your own custom streaming stock watchlist."
+"57","MRC",NA,"CFO growth","0.08"
+"58","MRC",NA,"Diluted continuous EPS growth","0.28"
+"59","MRC",NA,"Diluted EPS growth","0.28"
+"60","MRC",NA,"Dividend growth","-"
+"61","MRC",NA,"Equity per share growth","0.02"
+"62","MRC",NA,"FCF growth","0.01"
+"63","MRC",NA,"MRC Growth Ratios (30 December 2015)",NA
+"64","MRC",NA,"Net income cont growth","0.26"
+"65","MRC",NA,"Net income growth","0.26"
+"66","MRC",NA,"Operating income growth","3.77"
+"67","MRC",NA,"Operating revenue growth","0.39"
+"68","MRC",NA,"Revenue growth","0.39"
+"69","MRC",NA,"Basic EPS","0.03"
+"70","MRC",NA,"Basic EPS from Continuing Ope...","0.03"
+"71","MRC",NA,"Basic EPS from Discontinued O...","0.00"
+"72","MRC",NA,"Basic EPS,Continuing and Disc...","0.03"
+"73","MRC",NA,"Basic Weighted Average Shares...","404.94"
+"74","MRC",NA,"Calculated Tax Effect Of Unus...","0.00"
+"75","MRC",NA,"Depreciation","4.23"
+"76","MRC",NA,"Depreciation and Amortization","4.23"
+"77","MRC",NA,"Depreciation,Reconciled","4.23"
+"78","MRC",NA,"Diluted EPS","0.03"
+"79","MRC",NA,"Diluted EPS from Continuing O...","0.03"
+"80","MRC",NA,"Diluted EPS from Discontinued...","0.00"
+"81","MRC",NA,"Diluted EPS,Continuing and Di...","0.03"
+"82","MRC",NA,"Diluted Weighted Average Shar...","411.55"
+"83","MRC",NA,"Discontinued Operations","0.00"
+"84","MRC",NA,"Earning Before Interest and T...","13.33"
+"85","MRC",NA,"Earning Before Interest Tax D...","17.56"
+"86","MRC",NA,"General and Administrative Ex...","6.51"
+"87","MRC",NA,"Interest and Dividend Income","0.02"
+"88","MRC",NA,"Interest Expense","0.40"
+"89","MRC",NA,"Interest Expense-Non Operatin...","0.40"
+"90","MRC",NA,"Interest Income-Non Operating","0.02"
+"91","MRC",NA,"Interest Income/Expense,Net-N...","-0.38"
+"92","MRC",NA,"Minority Interest","0.00"
+"93","MRC",NA,"MRC Income Statement 30 December 2015 (AUD)",NA
+"94","MRC",NA,"Net Income","10.58"
+"95","MRC",NA,"Net Income Available to Commo...","10.58"
+"96","MRC",NA,"Net Income from Continuing an...","10.58"
+"97","MRC",NA,"Net Income from Continuing Op...","10.58"
+"98","MRC",NA,"Net Income from Continuing Op...","10.58"
+"99","MRC",NA,"Net Income Including Noncontr...","10.58"
+"100","MRC",NA,"Net Interest Income","-0.38"
+"101","MRC",NA,"Non Operating Expense","-0.38"
+"102","MRC",NA,"Non Operating Income","0.26"
+"103","MRC",NA,"Normalized Basic EPS","0.03"
+"104","MRC",NA,"Normalized Diluted EPS","0.03"
+"105","MRC",NA,"Normalized Income","10.58"
+"106","MRC",NA,"Operating Expenses","33.13"
+"107","MRC",NA,"Operating Income","13.05"
+"108","MRC",NA,"Operating Revenue","46.18"
+"109","MRC",NA,"Other Income/Expense,Net","0.26"
+"110","MRC",NA,"Preferred Stock Dividends","0.00"
+"111","MRC",NA,"Pretax Income","12.93"
+"112","MRC",NA,"Provision for Doubtful Accoun...","0.17"
+"113","MRC",NA,"Provision for Income Tax","2.35"
+"114","MRC",NA,"Salary and Benefit","7.16"
+"115","MRC",NA,"Selling,General and Administr...","6.51"
+"116","MRC",NA,"Tax rate for calculations","0.18"
+"117","MRC",NA,"Total Revenue","46.18"
+"118","MRC",NA,"Assets turnover","1.03"
+"119","MRC",NA,"Capital expenditure sales ratio","0.13"
+"120","MRC",NA,"Cash conversion cycle","-"
+"121","MRC",NA,"Days in inventory","-"
+"122","MRC",NA,"Days in payment","-"
+"123","MRC",NA,"Days in sales","20.68"
+"124","MRC",NA,"FCF net income ratio","0.29"
+"125","MRC",NA,"FCF sales ratio","0.07"
+"126","MRC",NA,"Fixed assets turnover","1.69"
+"127","MRC",NA,"Inventory turnover","-"
+"128","MRC",NA,"MRC Efficency Ratios (30 December 2015)",NA
+"129","MRC",NA,"Payable turnover","-"
+"130","MRC",NA,"Receivable turnover","17.65"
+"131","MRC",NA,"ROA","0.24"
+"132","MRC",NA,"ROE","0.34"
+"133","MRC",NA,"ROIC","0.29"
+"134","MRC",NA,"Current ratio","1.40"
+"135","MRC",NA,"Debt equity ratio","0.03"
+"136","MRC",NA,"Debt total capital ratio","0.03"
+"137","MRC",NA,"Financial leverage","1.31"
+"138","MRC",NA,"MRC Financial Health Ratios (30 December 2015)",NA
+"139","MRC",NA,"Quick ratio","1.04"
+"140","MRC",NA,"Total debt to equity","0.13"
+"141","MRC",NA,"Avg gross margin","-"
+"142","MRC",NA,"Avg net profit","-"
+"143","MRC",NA,"Avg post tax margin","-"
+"144","MRC",NA,"Avg pre tax marginr","-"
+"145","MRC",NA,"Avg ret assets","0.04"
+"146","MRC",NA,"Avg ret commonr","0.07"
+"147","MRC",NA,"Avg ret invested capital","0.06"
+"148","MRC",NA,"Growth ann capital spending","5.13"
+"149","MRC",NA,"Growth ann gross profit","-"
+"150","MRC",NA,"MRC Avearge Growth Ratios Over 5 Years (30 December 2015)",NA
+"151","MRC",NA,"EBIT margin","0.29"
+"152","MRC",NA,"EBITDA margin","0.38"
+"153","MRC",NA,"EBT margin","0.28"
+"154","MRC",NA,"Gross margin","-"
+"155","MRC",NA,"Inc per employee tot ops","46,186.83"
+"156","MRC",NA,"Interest coverage","33.63"
+"157","MRC",NA,"MRC Profitability Ratios (30 December 2015)",NA
+"158","MRC",NA,"Net margin","0.23"
+"159","MRC",NA,"Normalized net profit margin","0.23"
+"160","MRC",NA,"Operating margin","0.28"
+"161","MRC",NA,"Sales per employee","201,660.06"
+"162","MRC",NA,"Tax rate","0.18"
+"163","MRC",NA,"Book value per share","0.11"
+"164","MRC",NA,"Cash return","0.08"
+"165","MRC",NA,"CF per share","0.02"
+"166","MRC",NA,"Div payout 5 year","-"
+"167","MRC",NA,"Div payout tot ops","-"
+"168","MRC",NA,"Div rate","0.02"
+"169","MRC",NA,"Dividend yield","-"
+"170","MRC",NA,"Growth ann sales per share 5 ye...","-"
+"171","MRC",NA,"MRC Valuation Ratios (31 December 2015)",NA
+"172","MRC",NA,"Payout ratio","0.00"
+"173","MRC",NA,"Price to book","0.90"
+"174","MRC",NA,"Price to cash flow","4.93"
+"175","MRC",NA,"Price to EPS","3.27"
+"176","MRC",NA,"Price to free cash flow","13.37"
+"177","MRC",NA,"Price to sales","0.70"
+"178","MRC",NA,"Ratio PE 5 year high","6.89"
+"179","MRC",NA,"Ratio PE 5 year low","1.65"
+"180","MRC",NA,"Sales per share","0.14"
+"181","MRC",NA,"Sustainable growth rate","0.40"
+"182","MRC",NA,"Accounts Payable","2.31"
+"183","MRC",NA,"Accounts Receivable,Non-Curre...","4.65"
+"184","MRC",NA,"Accumulated Depreciation","-4.33"
+"185","MRC",NA,"Accumulated Gains/ Losses Not...","-20.51"
+"186","MRC",NA,"Capital Stock","63.44"
+"187","MRC",NA,"Cash","4.23"
+"188","MRC",NA,"Cash and Cash Equivalents","4.23"
+"189","MRC",NA,"Cash,Cash Equivalents,and Sho...","4.29"
+"190","MRC",NA,"Common Stock","63.44"
+"191","MRC",NA,"Common Stock Equity","31.56"
+"192","MRC",NA,"Current Assets","8.94"
+"193","MRC",NA,"Current Debt","2.97"
+"194","MRC",NA,"Current Debt and Capital Leas...","2.97"
+"195","MRC",NA,"Current Liabilities","6.38"
+"196","MRC",NA,"Deferred Liabilities, Non cur...","2.20"
+"197","MRC",NA,"Deferred Non-Current Assets","3.52"
+"198","MRC",NA,"Deferred Taxes,Non-Current As...","3.52"
+"199","MRC",NA,"Deferred Taxes,Non-Current Li...","2.20"
+"200","MRC",NA,"Gross Property,Plant,and Equi...","28.54"
+"201","MRC",NA,"Inventories","2.30"
+"202","MRC",NA,"Invested Capital","35.52"
+"203","MRC",NA,"Investments and Advances","0.00"
+"204","MRC",NA,"Long Term Debt","0.99"
+"205","MRC",NA,"Long Term Debt and Capital Le...","0.99"
+"206","MRC",NA,"MRC Balance Sheet 30 December 2015 (AUD)",NA
+"207","MRC",NA,"Net Property,Plant,and Equipm...","24.21"
+"208","MRC",NA,"Net Tangible Assets","31.56"
+"209","MRC",NA,"Ordinary Shares Number","404.94"
+"210","MRC",NA,"Other Current Liabilities","0.25"
+"211","MRC",NA,"Other Non-Current Liabilities","0.19"
+"212","MRC",NA,"Other Payable","0.84"
+"213","MRC",NA,"Payables","3.15"
+"214","MRC",NA,"Payables and Accrued Expenses","3.15"
+"215","MRC",NA,"Preferred Stock","0.00"
+"216","MRC",NA,"Prepaid Assets and Others","0.02"
+"217","MRC",NA,"Receivables","2.32"
+"218","MRC",NA,"Retained Earnings","-11.37"
+"219","MRC",NA,"Short Term Investments","0.06"
+"220","MRC",NA,"Stockholder's Equity","31.56"
+"221","MRC",NA,"Tangible Book Value","31.56"
+"222","MRC",NA,"Total Assets","41.32"
+"223","MRC",NA,"Total Capitalization","32.55"
+"224","MRC",NA,"Total Debt","3.96"
+"225","MRC",NA,"Total Equity","31.56"
+"226","MRC",NA,"Total Equity","31.68"
+"227","MRC",NA,"Total Liabilities","9.65"
+"228","MRC",NA,"Total Liabilities Inc MI","9.76"
+"229","MRC",NA,"Total Non-Current Assets","32.38"
+"230","MRC",NA,"Total Non-Current Liabilities","3.27"
+"231","MRC",NA,"Total Non-Current Liabilities...","3.39"
+"232","MRC",NA,"Working Capital","2.57"
+"233","MRC",NA,"Capital Expenditure","-6.07"
+"234","MRC",NA,"CapitalExpenditureReported","-2.72"
+"235","MRC",NA,"Cash and Cash Equivalents,Beg...","4.22"
+"236","MRC",NA,"Cash and Cash Equivalents,End...","4.23"
+"237","MRC",NA,"Cash Dividends Paid","0.00"
+"238","MRC",NA,"Cash Flow from Financing Acti...","-2.61"
+"239","MRC",NA,"Cash Flow from Investing Acti...","-6.06"
+"240","MRC",NA,"Cash Flow from Operating Acti...","9.14"
+"241","MRC",NA,"Change in Cash","0.47"
+"242","MRC",NA,"Effect of Exchange Rate Chang...","-0.46"
+"243","MRC",NA,"Free Cash Flow","3.07"
+"244","MRC",NA,"Issuance of Capital Stock","0.00"
+"245","MRC",NA,"Issuance of Debt","3.20"
+"246","MRC",NA,"Issuance/Payments of Common S...","0.00"
+"247","MRC",NA,"Issuance/Payments of Debt,Net","-1.94"
+"248","MRC",NA,"Issuance/Payments of Long Ter...","-1.94"
+"249","MRC",NA,"MRC Cash Flow 30 December 2015 (AUD)",NA
+"250","MRC",NA,"Other Financing Changes, Net","-0.67"
+"251","MRC",NA,"Other Investing Changes,Net","8,113.00"
+"252","MRC",NA,"Payments to Settle Long Term ...","-5.14"
+"253","MRC",NA,"Proceeds or Issuance of Commo...","0.00"
+"254","MRC",NA,"Proceeds or Issuance of Long ...","3.20"
+"255","MRC",NA,"Purchase of Investments","0.00"
+"256","MRC",NA,"Purchase of Property,Plant an...","-3.36"
+"257","MRC",NA,"Purchase/Acquisition of Busin...","0.00"
+"258","MRC",NA,"Purchase/Sale of Business,Net","0.00"
+"259","MRC",NA,"Purchase/Sale of Investments,...","0.00"
+"260","MRC",NA,"Purchase/Sale of Property,Pla...","-3.36"
+"261","MRC",NA,"Repayment of Debt","-5.14"
+"262","MRC",NA,"Sale of Business","0.00"
+"263","MRC",NA,"Sale of Investments","0.00"
+"264","MRC",NA,"FTSE",NA
+"265","MRC",NA,"FTSE 100",NA
+"266","MRC",NA,"FX",NA
+"267","MRC",NA,"GBPUSD",NA
+"268","MRC",NA,"GKP",NA
+"269","MRC",NA,"Gulf Keyst..",NA
+"270","MRC",NA,"IOF",NA
+"271","MRC",NA,"Iofina",NA
+"272","MRC",NA,"LSE",NA
+"273","MRC",NA,"LSE",NA
+"274","MRC",NA,"LSE",NA
+"275","MRC",NA,"LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..","LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell"
+"276","MRC",NA,"QPP",NA
+"277","MRC",NA,"Quindell",NA
+"278","MRC",NA,"UK Sterlin..",NA
+"279","MRC",NA,"UKX",NA

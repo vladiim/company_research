@@ -1,2 +1,383 @@
-"","ticker","date","name","est","sector","industry","industry_group","marcap","invested_capital","total_equity","total_debt","pretax_income","dividends","roic"
-"1","TGP",2016-06-30,NA,NA,NA,NA,NA,210640,383.54,244.74,218.1,24.07,-21.32,0.00717004745267769
+"","ticker","date","variable","value"
+"1","TGP",2016-06-30,"Doing business in:","Australia (AU)"
+"2","TGP",2016-06-30,"End of fiscal year:","30 June 2016"
+"3","TGP",2016-06-30,"Fax:","+61 292380354"
+"4","TGP",2016-06-30,"Place of incorporation:","Australia (AU)"
+"5","TGP",2016-06-30,"Tel.:","+61 284058860"
+"6","TGP",2016-06-30,"Trading currency:","AUD"
+"7","TGP",2016-06-30,"Year established:","2005"
+"8","TGP",2016-06-30,"Assets Turnover","7.43"
+"9","TGP",2016-06-30,"Book-Value pS","0.67"
+"10","TGP",2016-06-30,"Cash Flow pS","0.09"
+"11","TGP",2016-06-30,"Cash pS","0.06"
+"12","TGP",2016-06-30,"Current Ratio","2.57"
+"13","TGP",2016-06-30,"Dividend pS (DPS)","0.06"
+"14","TGP",2016-06-30,"Dividend Yield","6.72"
+"15","TGP",2016-06-30,"Domestic Sales","-"
+"16","TGP",2016-06-30,"Earnings pS (EPS)","0.11"
+"17","TGP",2016-06-30,"EBITDA Margin","66.79"
+"18","TGP",2016-06-30,"Effective Tax Rate","-"
+"19","TGP",2016-06-30,"Foreign Sales","-"
+"20","TGP",2016-06-30,"Free Cash Flow pS","0.05"
+"21","TGP",2016-06-30,"Gross gearing","65.27"
+"22","TGP",2016-06-30,"Gross Profit Margin","83.53"
+"23","TGP",2016-06-30,"Interest Cover","3.59"
+"24","TGP",2016-06-30,"Latest Shares Outstanding","239.60"
+"25","TGP",2016-06-30,"Leverage Ratio (Assets/Equity)","2.88"
+"26","TGP",2016-06-30,"LT Debt/Total Capital","0.56"
+"27","TGP",2016-06-30,"Market Capitalisation","210.64"
+"28","TGP",2016-06-30,"Net Debt","297.14"
+"29","TGP",2016-06-30,"PE Ratio","8.77"
+"30","TGP",2016-06-30,"Pre-Tax Profit Margin","48.14"
+"31","TGP",2016-06-30,"Research & Devlopment (R&D) as ...","0.00"
+"32","TGP",2016-06-30,"Return on Assets (ROA)","0.05"
+"33","TGP",2016-06-30,"Return on Capital Invested (ROC...","0.09"
+"34","TGP",2016-06-30,"Return on Equity (ROE)","0.15"
+"35","TGP",2016-06-30,"Sales per Employee","-"
+"36","TGP",2016-06-30,"Selling, General & Adm/tive (SG...","11.76"
+"37","TGP",2016-06-30,"Spread","0.01"
+"38","TGP",2016-06-30,"Tangible Book-Value pS","1.79"
+"39","TGP",2016-06-30,"TGP KEY FIGURES (at previous day's close)",NA
+"40","TGP",2016-06-30,"Total Debt/Equity (Gearing Rati...","1.32"
+"41","TGP",2016-06-30,"Working Capital pS","2.01"
+"42","TGP",2016-06-30,"Yesterday's Close","0.93"
+"43","TGP",2016-06-30,"1 Month","0.93"
+"44","TGP",2016-06-30,"1 Month","1.00"
+"45","TGP",2016-06-30,"1 Week","0.98"
+"46","TGP",2016-06-30,"1 Week","0.94"
+"47","TGP",2016-06-30,"1 Year","1.05"
+"48","TGP",2016-06-30,"1 Year","0.94"
+"49","TGP",2016-06-30,"3 Months","1.00"
+"50","TGP",2016-06-30,"3 Months","0.96"
+"51","TGP",2016-06-30,"3 Years","1.41"
+"52","TGP",2016-06-30,"3 Years","0.66"
+"53","TGP",2016-06-30,"5 Years","1.41"
+"54","TGP",2016-06-30,"5 Years","0.74"
+"55","TGP",2016-06-30,"6 Months","1.00"
+"56","TGP",2016-06-30,"6 Months","0.97"
+"57","TGP",2016-06-30,"Period †","High"
+"58","TGP",2016-06-30,"Period †","Open"
+"59","TGP",2016-06-30,"","1 year"
+"60","TGP",2016-06-30,"","LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell
+			
+		
+
+	
+				
+					FTSE
+				
+			
+		
+				
+					UKX
+				
+			
+		
+				FTSE 100
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					IOF
+				
+			
+		
+				Iofina
+			
+		
+
+	
+				
+					FX
+				
+			
+		
+				
+					GBPUSD
+				
+			
+		
+				UK Sterlin..
+			
+		
+			
+
+						
+						Stocks you've viewed will appear in this box, letting you easily return to quotes you've seen previously.Register now to create your own custom streaming stock watchlist."
+"61","TGP",2016-06-30,"CFO growth","0.21"
+"62","TGP",2016-06-30,"Diluted continuous EPS growth","0.01"
+"63","TGP",2016-06-30,"Diluted EPS growth","0.01"
+"64","TGP",2016-06-30,"Dividend growth","0.09"
+"65","TGP",2016-06-30,"Equity per share growth","0.06"
+"66","TGP",2016-06-30,"FCF growth","-0.30"
+"67","TGP",2016-06-30,"Net income cont growth","-0.00"
+"68","TGP",2016-06-30,"Net income growth","-0.00"
+"69","TGP",2016-06-30,"Operating income growth","0.44"
+"70","TGP",2016-06-30,"Operating revenue growth","0.36"
+"71","TGP",2016-06-30,"Revenue growth","0.36"
+"72","TGP",2016-06-30,"TGP Growth Ratios (30 June 2016)",NA
+"73","TGP",2016-06-30,"Basic EPS","0.11"
+"74","TGP",2016-06-30,"Basic EPS from Continuing Ope...","0.11"
+"75","TGP",2016-06-30,"Basic EPS from Discontinued O...","0.00"
+"76","TGP",2016-06-30,"Basic EPS,Continuing and Disc...","0.11"
+"77","TGP",2016-06-30,"Basic Weighted Average Shares...","226.49"
+"78","TGP",2016-06-30,"Calculated Tax Effect Of Unus...","0.00"
+"79","TGP",2016-06-30,"Cost of Revenue","10.55"
+"80","TGP",2016-06-30,"Cost of Revenue,Reconciled","10.55"
+"81","TGP",2016-06-30,"Depreciation","0.02"
+"82","TGP",2016-06-30,"Depreciation and Amortization","0.02"
+"83","TGP",2016-06-30,"Depreciation,Reconciled","0.02"
+"84","TGP",2016-06-30,"Diluted EPS","0.10"
+"85","TGP",2016-06-30,"Diluted EPS from Continuing O...","0.10"
+"86","TGP",2016-06-30,"Diluted EPS from Discontinued...","0.00"
+"87","TGP",2016-06-30,"Diluted EPS,Continuing and Di...","0.10"
+"88","TGP",2016-06-30,"Diluted Weighted Average Shar...","245.65"
+"89","TGP",2016-06-30,"Discontinued Operations","0.00"
+"90","TGP",2016-06-30,"Dividend Per Share","0.06"
+"91","TGP",2016-06-30,"Earning Before Interest and T...","42.78"
+"92","TGP",2016-06-30,"Earning Before Interest Tax D...","42.79"
+"93","TGP",2016-06-30,"General and Administrative Ex...","7.54"
+"94","TGP",2016-06-30,"Gross Profit","53.51"
+"95","TGP",2016-06-30,"Interest and Dividend Income","0.38"
+"96","TGP",2016-06-30,"Interest Expense","11.94"
+"97","TGP",2016-06-30,"Interest Expense-Non Operatin...","11.94"
+"98","TGP",2016-06-30,"Interest Income-Non Operating","0.38"
+"99","TGP",2016-06-30,"Interest Income/Expense,Net-N...","-11.55"
+"100","TGP",2016-06-30,"Minority Interest","-5.57"
+"101","TGP",2016-06-30,"Net Income","24.07"
+"102","TGP",2016-06-30,"Net Income Available to Commo...","24.07"
+"103","TGP",2016-06-30,"Net Income from Continuing an...","24.07"
+"104","TGP",2016-06-30,"Net Income from Continuing Op...","24.07"
+"105","TGP",2016-06-30,"Net Income from Continuing Op...","29.64"
+"106","TGP",2016-06-30,"Net Income Including Noncontr...","29.64"
+"107","TGP",2016-06-30,"Net Interest Income","-11.55"
+"108","TGP",2016-06-30,"Non Operating Expense","-11.55"
+"109","TGP",2016-06-30,"Non Operating Income","0.00"
+"110","TGP",2016-06-30,"Normalized Basic EPS","0.11"
+"111","TGP",2016-06-30,"Normalized Diluted EPS","0.10"
+"112","TGP",2016-06-30,"Normalized Income","24.07"
+"113","TGP",2016-06-30,"Operating Expenses","11.12"
+"114","TGP",2016-06-30,"Operating Income","42.39"
+"115","TGP",2016-06-30,"Operating Revenue","64.07"
+"116","TGP",2016-06-30,"Other Income/Expense,Net","0.00"
+"117","TGP",2016-06-30,"Preferred Stock Dividends","0.00"
+"118","TGP",2016-06-30,"Pretax Income","30.84"
+"119","TGP",2016-06-30,"Provision for Income Tax","1.20"
+"120","TGP",2016-06-30,"Salary and Benefit","5.71"
+"121","TGP",2016-06-30,"Selling,General and Administr...","7.54"
+"122","TGP",2016-06-30,"Tax rate for calculations","0.04"
+"123","TGP",2016-06-30,"TGP Income Statement 30 June 2016 (AUD)",NA
+"124","TGP",2016-06-30,"Total Revenue","64.07"
+"125","TGP",2016-06-30,"Assets turnover","0.14"
+"126","TGP",2016-06-30,"Capital expenditure sales ratio","0.14"
+"127","TGP",2016-06-30,"Cash conversion cycle","-"
+"128","TGP",2016-06-30,"Days in inventory","-"
+"129","TGP",2016-06-30,"Days in payment","73.06"
+"130","TGP",2016-06-30,"Days in sales","26.31"
+"131","TGP",2016-06-30,"FCF net income ratio","0.50"
+"132","TGP",2016-06-30,"FCF sales ratio","0.19"
+"133","TGP",2016-06-30,"Fixed assets turnover","1,041.72"
+"134","TGP",2016-06-30,"Inventory turnover","-"
+"135","TGP",2016-06-30,"Payable turnover","5.00"
+"136","TGP",2016-06-30,"Receivable turnover","13.87"
+"137","TGP",2016-06-30,"ROA","0.05"
+"138","TGP",2016-06-30,"ROE","0.15"
+"139","TGP",2016-06-30,"ROIC","0.09"
+"140","TGP",2016-06-30,"TGP Efficency Ratios (30 June 2016)",NA
+"141","TGP",2016-06-30,"Current ratio","2.57"
+"142","TGP",2016-06-30,"Debt equity ratio","1.25"
+"143","TGP",2016-06-30,"Debt total capital ratio","0.56"
+"144","TGP",2016-06-30,"Financial leverage","2.88"
+"145","TGP",2016-06-30,"Quick ratio","0.80"
+"146","TGP",2016-06-30,"TGP Financial Health Ratios (30 June 2016)",NA
+"147","TGP",2016-06-30,"Total debt to equity","1.32"
+"148","TGP",2016-06-30,"Avg gross margin","0.79"
+"149","TGP",2016-06-30,"Avg net profit","0.17"
+"150","TGP",2016-06-30,"Avg post tax margin","0.17"
+"151","TGP",2016-06-30,"Avg pre tax marginr","0.25"
+"152","TGP",2016-06-30,"Avg ret assets","0.03"
+"153","TGP",2016-06-30,"Avg ret commonr","0.09"
+"154","TGP",2016-06-30,"Avg ret invested capital","0.05"
+"155","TGP",2016-06-30,"Growth ann capital spending","-"
+"156","TGP",2016-06-30,"Growth ann gross profit","0.36"
+"157","TGP",2016-06-30,"TGP Avearge Growth Ratios Over 5 Years (30 June 2016)",NA
+"158","TGP",2016-06-30,"EBIT margin","0.67"
+"159","TGP",2016-06-30,"EBITDA margin","0.67"
+"160","TGP",2016-06-30,"EBT margin","0.48"
+"161","TGP",2016-06-30,"Gross margin","0.84"
+"162","TGP",2016-06-30,"Inc per employee tot ops","-"
+"163","TGP",2016-06-30,"Interest coverage","3.58"
+"164","TGP",2016-06-30,"Net margin","0.38"
+"165","TGP",2016-06-30,"Normalized net profit margin","0.38"
+"166","TGP",2016-06-30,"Operating margin","0.66"
+"167","TGP",2016-06-30,"Sales per employee","-"
+"168","TGP",2016-06-30,"Tax rate","0.04"
+"169","TGP",2016-06-30,"TGP Profitability Ratios (30 June 2016)",NA
+"170","TGP",2016-06-30,"Book value per share","0.73"
+"171","TGP",2016-06-30,"Cash return","0.05"
+"172","TGP",2016-06-30,"CF per share","0.07"
+"173","TGP",2016-06-30,"Div payout 5 year","-0.69"
+"174","TGP",2016-06-30,"Div payout tot ops","1.45"
+"175","TGP",2016-06-30,"Div rate","0.06"
+"176","TGP",2016-06-30,"Dividend yield","0.07"
+"177","TGP",2016-06-30,"Growth ann sales per share 5 ye...","0.02"
+"178","TGP",2016-06-30,"Payout ratio","1.52"
+"179","TGP",2016-06-30,"Price to book","1.31"
+"180","TGP",2016-06-30,"Price to cash flow","13.46"
+"181","TGP",2016-06-30,"Price to EPS","23.87"
+"182","TGP",2016-06-30,"Price to free cash flow","27.25"
+"183","TGP",2016-06-30,"Price to sales","4.58"
+"184","TGP",2016-06-30,"Ratio PE 5 year high","35.25"
+"185","TGP",2016-06-30,"Ratio PE 5 year low","11.63"
+"186","TGP",2016-06-30,"Sales per share","0.21"
+"187","TGP",2016-06-30,"Sustainable growth rate","-0.03"
+"188","TGP",2016-06-30,"TGP Valuation Ratios (30 June 2016)",NA
+"189","TGP",2016-06-30,"Accounts Payable","1.23"
+"190","TGP",2016-06-30,"Accumulated Depreciation","-0.10"
+"191","TGP",2016-06-30,"Accumulated Gains/ Losses Not...","5.12"
+"192","TGP",2016-06-30,"Capital Stock","169.08"
+"193","TGP",2016-06-30,"Cash","13.73"
+"194","TGP",2016-06-30,"Cash and Cash Equivalents","13.73"
+"195","TGP",2016-06-30,"Cash,Cash Equivalents,and Sho...","13.73"
+"196","TGP",2016-06-30,"Common Stock","169.08"
+"197","TGP",2016-06-30,"Common Stock Equity","165.44"
+"198","TGP",2016-06-30,"Current Assets","56.73"
+"199","TGP",2016-06-30,"Current Debt","10.84"
+"200","TGP",2016-06-30,"Current Debt and Capital Leas...","10.84"
+"201","TGP",2016-06-30,"Current Liabilities","22.06"
+"202","TGP",2016-06-30,"Deferred Liabilities,Current","2.55"
+"203","TGP",2016-06-30,"Deferred Non-Current Assets","0.14"
+"204","TGP",2016-06-30,"Deferred Revenue,Current","1.68"
+"205","TGP",2016-06-30,"Deferred Taxes,Current Liabil...","0.88"
+"206","TGP",2016-06-30,"Deferred Taxes,Non-Current As...","0.14"
+"207","TGP",2016-06-30,"Goodwill and Other Intangible...","13.88"
+"208","TGP",2016-06-30,"Gross Property,Plant,and Equi...","0.15"
+"209","TGP",2016-06-30,"Invested Capital","383.54"
+"210","TGP",2016-06-30,"Investments and Advances","146.81"
+"211","TGP",2016-06-30,"Long Term Debt","207.26"
+"212","TGP",2016-06-30,"Long Term Debt and Capital Le...","207.26"
+"213","TGP",2016-06-30,"Net Property,Plant,and Equipm...","0.05"
+"214","TGP",2016-06-30,"Net Tangible Assets","151.56"
+"215","TGP",2016-06-30,"Ordinary Shares Number","221.23"
+"216","TGP",2016-06-30,"Other Current Assets","38.35"
+"217","TGP",2016-06-30,"Other Current Liabilities","3.85"
+"218","TGP",2016-06-30,"Other Intangible Assets","13.88"
+"219","TGP",2016-06-30,"Other Non-Current Assets","258.70"
+"220","TGP",2016-06-30,"Other Non-Current Liabilities","81.56"
+"221","TGP",2016-06-30,"Other Payable","3.59"
+"222","TGP",2016-06-30,"Payables","4.81"
+"223","TGP",2016-06-30,"Payables and Accrued Expenses","4.81"
+"224","TGP",2016-06-30,"Preferred Stock","0.00"
+"225","TGP",2016-06-30,"Prepaid Assets and Others","0.65"
+"226","TGP",2016-06-30,"Receivables","3.99"
+"227","TGP",2016-06-30,"Retained Earnings","-8.77"
+"228","TGP",2016-06-30,"Short Term Investments","0.00"
+"229","TGP",2016-06-30,"Stockholder's Equity","165.44"
+"230","TGP",2016-06-30,"Tangible Book Value","151.56"
+"231","TGP",2016-06-30,"TGP Balance Sheet 30 June 2016 (AUD)",NA
+"232","TGP",2016-06-30,"Total Assets","476.31"
+"233","TGP",2016-06-30,"Total Capitalization","372.70"
+"234","TGP",2016-06-30,"Total Debt","218.10"
+"235","TGP",2016-06-30,"Total Equity","165.44"
+"236","TGP",2016-06-30,"Total Equity","244.74"
+"237","TGP",2016-06-30,"Total Liabilities","231.57"
+"238","TGP",2016-06-30,"Total Liabilities Inc MI","310.88"
+"239","TGP",2016-06-30,"Total Non-Current Assets","419.58"
+"240","TGP",2016-06-30,"Total Non-Current Liabilities","209.51"
+"241","TGP",2016-06-30,"Total Non-Current Liabilities...","288.82"
+"242","TGP",2016-06-30,"Working Capital","34.67"
+"243","TGP",2016-06-30,"Capital Expenditure","-8.88"
+"244","TGP",2016-06-30,"Cash and Cash Equivalents,Beg...","14.97"
+"245","TGP",2016-06-30,"Cash and Cash Equivalents,End...","13.73"
+"246","TGP",2016-06-30,"Cash Dividends Paid","-21.32"
+"247","TGP",2016-06-30,"Cash Flow from Financing Acti...","-31.12"
+"248","TGP",2016-06-30,"Cash Flow from Investing Acti...","8.98"
+"249","TGP",2016-06-30,"Cash Flow from Operating Acti...","20.91"
+"250","TGP",2016-06-30,"Change in Cash","-1.24"
+"251","TGP",2016-06-30,"Effect of Exchange Rate Chang...","0.00"
+"252","TGP",2016-06-30,"Free Cash Flow","12.03"
+"253","TGP",2016-06-30,"Income Tax Paid, Supplemental...","-1.49"
+"254","TGP",2016-06-30,"Interest Paid, Supplemental D...","-11.19"
+"255","TGP",2016-06-30,"Issuance of Capital Stock","0.00"
+"256","TGP",2016-06-30,"Issuance of Debt","2.17"
+"257","TGP",2016-06-30,"Issuance/Payments of Common S...","0.00"
+"258","TGP",2016-06-30,"Issuance/Payments of Debt,Net","-8.83"
+"259","TGP",2016-06-30,"Issuance/Payments of Long Ter...","-8.83"
+"260","TGP",2016-06-30,"Other Financing Changes, Net","-0.98"
+"261","TGP",2016-06-30,"Payments to Settle Long Term ...","-11.00"
+"262","TGP",2016-06-30,"Proceeds or Issuance of Commo...","0.00"
+"263","TGP",2016-06-30,"Proceeds or Issuance of Long ...","2.17"
+"264","TGP",2016-06-30,"Purchase of Intangibles","-8.88"
+"265","TGP",2016-06-30,"Purchase of Investments","-21.70"
+"266","TGP",2016-06-30,"Purchase/Acquisition of Busin...","-0.99"
+"267","TGP",2016-06-30,"Purchase/Sale of Business,Net","-0.99"
+"268","TGP",2016-06-30,"Purchase/Sale of Intangibles,...","-8.88"
+"269","TGP",2016-06-30,"Purchase/Sale of Investments,...","18.85"
+"270","TGP",2016-06-30,"Repayment of Debt","-11.00"
+"271","TGP",2016-06-30,"Sale of Business","0.00"
+"272","TGP",2016-06-30,"Sale of Investments","40.55"
+"273","TGP",2016-06-30,"TGP Cash Flow 30 June 2016 (AUD)",NA
+"274","TGP",2016-06-30,"FTSE",NA
+"275","TGP",2016-06-30,"FTSE 100",NA
+"276","TGP",2016-06-30,"FX",NA
+"277","TGP",2016-06-30,"GBPUSD",NA
+"278","TGP",2016-06-30,"GKP",NA
+"279","TGP",2016-06-30,"Gulf Keyst..",NA
+"280","TGP",2016-06-30,"IOF",NA
+"281","TGP",2016-06-30,"Iofina",NA
+"282","TGP",2016-06-30,"LSE",NA
+"283","TGP",2016-06-30,"LSE",NA
+"284","TGP",2016-06-30,"LSE",NA
+"285","TGP",2016-06-30,"LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..","LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell"
+"286","TGP",2016-06-30,"QPP",NA
+"287","TGP",2016-06-30,"Quindell",NA
+"288","TGP",2016-06-30,"UK Sterlin..",NA
+"289","TGP",2016-06-30,"UKX",NA

@@ -1,2 +1,361 @@
-"","ticker","date","name","est","sector","industry","industry_group","marcap","invested_capital","total_equity","total_debt","pretax_income","dividends","roic"
-"1","FFC",NA,NA,NA,NA,NA,NA,11370,1.84,1.84,NA,-3.8,0,-2.06521739130435
+"","ticker","date","variable","value"
+"1","FFC",NA,"Industry group name","Employment Services"
+"2","FFC",NA,"ISIN","AU000000FFC7"
+"3","FFC",NA,"Trading currency:","AUD"
+"4","FFC",NA,"Assets Turnover","1.24"
+"5","FFC",NA,"Book-Value pS","0.02"
+"6","FFC",NA,"Cash Flow pS","-0.04"
+"7","FFC",NA,"Cash pS","0.02"
+"8","FFC",NA,"Current Ratio","3.30"
+"9","FFC",NA,"Dividend pS (DPS)","-"
+"10","FFC",NA,"Dividend Yield","-"
+"11","FFC",NA,"Domestic Sales","-"
+"12","FFC",NA,"Earnings pS (EPS)","-0.04"
+"13","FFC",NA,"EBITDA Margin","-"
+"14","FFC",NA,"Effective Tax Rate","-"
+"15","FFC",NA,"FFC KEY FIGURES (at previous day's close)",NA
+"16","FFC",NA,"Foreign Sales","-"
+"17","FFC",NA,"Free Cash Flow pS","-0.04"
+"18","FFC",NA,"Gross gearing","23.96"
+"19","FFC",NA,"Gross Profit Margin","-36.91"
+"20","FFC",NA,"Interest Cover","-1,938.39"
+"21","FFC",NA,"Latest Shares Outstanding","127.50"
+"22","FFC",NA,"Leverage Ratio (Assets/Equity)","1.32"
+"23","FFC",NA,"LT Debt/Total Capital","-"
+"24","FFC",NA,"Market Capitalisation","11.37"
+"25","FFC",NA,"Net Debt","-0.96"
+"26","FFC",NA,"PE Ratio","-3.00"
+"27","FFC",NA,"Pre-Tax Profit Margin","-"
+"28","FFC",NA,"Research & Devlopment (R&D) as ...","0.00"
+"29","FFC",NA,"Return on Assets (ROA)","-1.57"
+"30","FFC",NA,"Return on Capital Invested (ROC...","-2.09"
+"31","FFC",NA,"Return on Equity (ROE)","-2.06"
+"32","FFC",NA,"Sales per Employee","-"
+"33","FFC",NA,"Selling, General & Adm/tive (SG...","51.70"
+"34","FFC",NA,"Spread","0.16"
+"35","FFC",NA,"Tangible Book-Value pS","0.01"
+"36","FFC",NA,"Total Debt/Equity (Gearing Rati...","-"
+"37","FFC",NA,"Working Capital pS","0.02"
+"38","FFC",NA,"Yesterday's Close","0.13"
+"39","FFC",NA,"1 Month","0.13"
+"40","FFC",NA,"1 Month","0.18"
+"41","FFC",NA,"1 Week","0.17"
+"42","FFC",NA,"1 Year","0.37"
+"43","FFC",NA,"1 Year","0.35"
+"44","FFC",NA,"3 Months","0.19"
+"45","FFC",NA,"3 Months","0.14"
+"46","FFC",NA,"3 Years","0.37"
+"47","FFC",NA,"3 Years","0.35"
+"48","FFC",NA,"5 Years","0.37"
+"49","FFC",NA,"5 Years","0.35"
+"50","FFC",NA,"6 Months","0.22"
+"51","FFC",NA,"6 Months","0.20"
+"52","FFC",NA,"Period †","High"
+"53","FFC",NA,"Period †","Open"
+"54","FFC",NA,"","1 year"
+"55","FFC",NA,"","LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell
+			
+		
+
+	
+				
+					FTSE
+				
+			
+		
+				
+					UKX
+				
+			
+		
+				FTSE 100
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					IOF
+				
+			
+		
+				Iofina
+			
+		
+
+	
+				
+					FX
+				
+			
+		
+				
+					GBPUSD
+				
+			
+		
+				UK Sterlin..
+			
+		
+			
+
+						
+						Stocks you've viewed will appear in this box, letting you easily return to quotes you've seen previously.Register now to create your own custom streaming stock watchlist."
+"56","FFC",NA,"CFO growth","-"
+"57","FFC",NA,"Diluted continuous EPS growth","-"
+"58","FFC",NA,"Diluted EPS growth","-"
+"59","FFC",NA,"Dividend growth","-"
+"60","FFC",NA,"Equity per share growth","-0.85"
+"61","FFC",NA,"FCF growth","-"
+"62","FFC",NA,"FFC Growth Ratios (30 June 2016)",NA
+"63","FFC",NA,"Net income cont growth","-"
+"64","FFC",NA,"Net income growth","-"
+"65","FFC",NA,"Operating income growth","-"
+"66","FFC",NA,"Operating revenue growth","-"
+"67","FFC",NA,"Revenue growth","-"
+"68","FFC",NA,"Basic EPS","-0.04"
+"69","FFC",NA,"Basic EPS from Continuing Ope...","-0.04"
+"70","FFC",NA,"Basic EPS from Discontinued O...","0.00"
+"71","FFC",NA,"Basic EPS,Continuing and Disc...","-0.04"
+"72","FFC",NA,"Basic Weighted Average Shares...","87.44"
+"73","FFC",NA,"Calculated Tax Effect Of Unus...","0.00"
+"74","FFC",NA,"Cost of Revenue","2.67"
+"75","FFC",NA,"Cost of Revenue,Reconciled","2.67"
+"76","FFC",NA,"Depreciation","0.04"
+"77","FFC",NA,"Depreciation and Amortization","0.04"
+"78","FFC",NA,"Depreciation,Reconciled","0.04"
+"79","FFC",NA,"Diluted EPS","-0.04"
+"80","FFC",NA,"Diluted EPS from Continuing O...","-0.04"
+"81","FFC",NA,"Diluted EPS from Discontinued...","0.00"
+"82","FFC",NA,"Diluted EPS,Continuing and Di...","-0.04"
+"83","FFC",NA,"Diluted Weighted Average Shar...","87.44"
+"84","FFC",NA,"Discontinued Operations","0.00"
+"85","FFC",NA,"Earning Before Interest and T...","-3.80"
+"86","FFC",NA,"Earning Before Interest Tax D...","-3.76"
+"87","FFC",NA,"FFC Income Statement 30 June 2016 (AUD)",NA
+"88","FFC",NA,"General and Administrative Ex...","1.01"
+"89","FFC",NA,"Gross Profit","-0.72"
+"90","FFC",NA,"Interest and Dividend Income","0.04"
+"91","FFC",NA,"Interest Expense","1,939.00"
+"92","FFC",NA,"Interest Expense-Non Operatin...","1,939.00"
+"93","FFC",NA,"Interest Income-Non Operating","0.04"
+"94","FFC",NA,"Interest Income/Expense,Net-N...","0.04"
+"95","FFC",NA,"Minority Interest","0.00"
+"96","FFC",NA,"Net Income","-3.80"
+"97","FFC",NA,"Net Income Available to Commo...","-3.80"
+"98","FFC",NA,"Net Income from Continuing an...","-3.80"
+"99","FFC",NA,"Net Income from Continuing Op...","-3.80"
+"100","FFC",NA,"Net Income from Continuing Op...","-3.80"
+"101","FFC",NA,"Net Income Including Noncontr...","-3.80"
+"102","FFC",NA,"Net Interest Income","0.04"
+"103","FFC",NA,"Non Operating Expense","0.04"
+"104","FFC",NA,"Non Operating Income","0.00"
+"105","FFC",NA,"Normalized Basic EPS","-0.04"
+"106","FFC",NA,"Normalized Diluted EPS","-0.04"
+"107","FFC",NA,"Normalized Income","-3.80"
+"108","FFC",NA,"Operating Expenses","3.12"
+"109","FFC",NA,"Operating Income","-3.84"
+"110","FFC",NA,"Operating Revenue","1.95"
+"111","FFC",NA,"Other Income/Expense,Net","0.00"
+"112","FFC",NA,"Preferred Stock Dividends","0.00"
+"113","FFC",NA,"Pretax Income","-3.80"
+"114","FFC",NA,"Provision for Income Tax","0.00"
+"115","FFC",NA,"Salary and Benefit","1.01"
+"116","FFC",NA,"Selling,General and Administr...","1.01"
+"117","FFC",NA,"Tax rate for calculations","0.00"
+"118","FFC",NA,"Total Revenue","1.95"
+"119","FFC",NA,"Assets turnover","0.81"
+"120","FFC",NA,"Capital expenditure sales ratio","0.06"
+"121","FFC",NA,"Cash conversion cycle","-"
+"122","FFC",NA,"Days in inventory","-"
+"123","FFC",NA,"Days in payment","20.76"
+"124","FFC",NA,"Days in sales","50.34"
+"125","FFC",NA,"FCF net income ratio","-"
+"126","FFC",NA,"FCF sales ratio","-"
+"127","FFC",NA,"FFC Efficency Ratios (30 June 2016)",NA
+"128","FFC",NA,"Fixed assets turnover","8.12"
+"129","FFC",NA,"Inventory turnover","-"
+"130","FFC",NA,"Payable turnover","17.58"
+"131","FFC",NA,"Receivable turnover","7.25"
+"132","FFC",NA,"ROA","-1.57"
+"133","FFC",NA,"ROE","-2.06"
+"134","FFC",NA,"ROIC","-2.09"
+"135","FFC",NA,"Current ratio","3.30"
+"136","FFC",NA,"Debt equity ratio","-"
+"137","FFC",NA,"Debt total capital ratio","-"
+"138","FFC",NA,"FFC Financial Health Ratios (30 June 2016)",NA
+"139","FFC",NA,"Financial leverage","1.32"
+"140","FFC",NA,"Quick ratio","3.12"
+"141","FFC",NA,"Total debt to equity","-"
+"142","FFC",NA,"Avg gross margin","-"
+"143","FFC",NA,"Avg net profit","-"
+"144","FFC",NA,"Avg post tax margin","-"
+"145","FFC",NA,"Avg pre tax marginr","-"
+"146","FFC",NA,"Avg ret assets","-"
+"147","FFC",NA,"Avg ret commonr","-"
+"148","FFC",NA,"Avg ret invested capital","-"
+"149","FFC",NA,"FFC Avearge Growth Ratios Over 5 Years (30 June 2016)",NA
+"150","FFC",NA,"Growth ann capital spending","-"
+"151","FFC",NA,"Growth ann gross profit","-"
+"152","FFC",NA,"EBIT margin","-1.95"
+"153","FFC",NA,"EBITDA margin","-1.93"
+"154","FFC",NA,"EBT margin","-1.95"
+"155","FFC",NA,"FFC Profitability Ratios (30 June 2016)",NA
+"156","FFC",NA,"Gross margin","-0.37"
+"157","FFC",NA,"Inc per employee tot ops","-"
+"158","FFC",NA,"Interest coverage","-1,958.27"
+"159","FFC",NA,"Net margin","-1.95"
+"160","FFC",NA,"Normalized net profit margin","-1.95"
+"161","FFC",NA,"Operating margin","-1.97"
+"162","FFC",NA,"Sales per employee","-"
+"163","FFC",NA,"Tax rate","-"
+"164","FFC",NA,"Book value per share","0.03"
+"165","FFC",NA,"Cash return","0.00"
+"166","FFC",NA,"CF per share","0.00"
+"167","FFC",NA,"Div payout 5 year","-"
+"168","FFC",NA,"Div payout tot ops","-"
+"169","FFC",NA,"Div rate","-"
+"170","FFC",NA,"Dividend yield","-"
+"171","FFC",NA,"FFC Valuation Ratios (30 June 2016)",NA
+"172","FFC",NA,"Growth ann sales per share 5 ye...","-"
+"173","FFC",NA,"Payout ratio","-"
+"174","FFC",NA,"Price to book","4.32"
+"175","FFC",NA,"Price to cash flow","-"
+"176","FFC",NA,"Price to EPS","-"
+"177","FFC",NA,"Price to free cash flow","-"
+"178","FFC",NA,"Price to sales","-"
+"179","FFC",NA,"Ratio PE 5 year high","-"
+"180","FFC",NA,"Ratio PE 5 year low","-"
+"181","FFC",NA,"Sales per share","-"
+"182","FFC",NA,"Sustainable growth rate","-"
+"183","FFC",NA,"Accounts Payable","0.15"
+"184","FFC",NA,"Accounts Receivable,Non-Curre...","380.00"
+"185","FFC",NA,"Accumulated Depreciation","-0.06"
+"186","FFC",NA,"Accumulated Gains/ Losses Not...","0.00"
+"187","FFC",NA,"Capital Stock","8.07"
+"188","FFC",NA,"Cash","1.54"
+"189","FFC",NA,"Cash and Cash Equivalents","1.54"
+"190","FFC",NA,"Cash,Cash Equivalents,and Sho...","1.54"
+"191","FFC",NA,"Common Stock","8.07"
+"192","FFC",NA,"Common Stock Equity","1.84"
+"193","FFC",NA,"Current Assets","1.91"
+"194","FFC",NA,"Current Liabilities","0.58"
+"195","FFC",NA,"FFC Balance Sheet 30 June 2016 (AUD)",NA
+"196","FFC",NA,"Gross Property,Plant,and Equi...","0.30"
+"197","FFC",NA,"Invested Capital","1.84"
+"198","FFC",NA,"Investments and Advances","0.27"
+"199","FFC",NA,"Net Property,Plant,and Equipm...","0.24"
+"200","FFC",NA,"Net Tangible Assets","1.84"
+"201","FFC",NA,"Ordinary Shares Number","127.50"
+"202","FFC",NA,"Other Payable","0.43"
+"203","FFC",NA,"Payables","0.58"
+"204","FFC",NA,"Payables and Accrued Expenses","0.58"
+"205","FFC",NA,"Preferred Stock","0.00"
+"206","FFC",NA,"Prepaid Assets and Others","0.10"
+"207","FFC",NA,"Receivables","0.27"
+"208","FFC",NA,"Retained Earnings","-6.23"
+"209","FFC",NA,"Short Term Investments","0.00"
+"210","FFC",NA,"Stockholder's Equity","1.84"
+"211","FFC",NA,"Tangible Book Value","1.84"
+"212","FFC",NA,"Total Assets","2.42"
+"213","FFC",NA,"Total Capitalization","1.84"
+"214","FFC",NA,"Total Equity","1.84"
+"215","FFC",NA,"Total Equity","1.84"
+"216","FFC",NA,"Total Liabilities","0.58"
+"217","FFC",NA,"Total Liabilities Inc MI","0.58"
+"218","FFC",NA,"Total Non-Current Assets","0.51"
+"219","FFC",NA,"Total Non-Current Liabilities","0.00"
+"220","FFC",NA,"Total Non-Current Liabilities...","0.00"
+"221","FFC",NA,"Working Capital","1.33"
+"222","FFC",NA,"Capital Expenditure","-0.13"
+"223","FFC",NA,"Cash and Cash Equivalents,Beg...","1.21"
+"224","FFC",NA,"Cash and Cash Equivalents,End...","1.54"
+"225","FFC",NA,"Cash Dividends Paid","0.00"
+"226","FFC",NA,"Cash Flow from Financing Acti...","4.32"
+"227","FFC",NA,"Cash Flow from Investing Acti...","-0.39"
+"228","FFC",NA,"Cash Flow from Operating Acti...","-3.59"
+"229","FFC",NA,"Change in Cash","0.34"
+"230","FFC",NA,"Effect of Exchange Rate Chang...","0.00"
+"231","FFC",NA,"FFC Cash Flow 30 June 2016 (AUD)",NA
+"232","FFC",NA,"Free Cash Flow","-3.71"
+"233","FFC",NA,"Interest Paid, Supplemental D...","-1,939.00"
+"234","FFC",NA,"Issuance of Capital Stock","5.46"
+"235","FFC",NA,"Issuance of Debt","0.00"
+"236","FFC",NA,"Issuance/Payments of Common S...","5.46"
+"237","FFC",NA,"Issuance/Payments of Debt,Net","0.00"
+"238","FFC",NA,"Issuance/Payments of Long Ter...","0.00"
+"239","FFC",NA,"Other Financing Changes, Net","-1.14"
+"240","FFC",NA,"Payments to Settle Long Term ...","0.00"
+"241","FFC",NA,"Proceeds or Issuance of Commo...","5.46"
+"242","FFC",NA,"Proceeds or Issuance of Long ...","0.00"
+"243","FFC",NA,"Purchase of Investments","-0.27"
+"244","FFC",NA,"Purchase of Property,Plant an...","-0.13"
+"245","FFC",NA,"Purchase/Acquisition of Busin...","0.00"
+"246","FFC",NA,"Purchase/Sale of Business,Net","0.00"
+"247","FFC",NA,"Purchase/Sale of Investments,...","-0.27"
+"248","FFC",NA,"Purchase/Sale of Property,Pla...","-0.13"
+"249","FFC",NA,"Repayment of Debt","0.00"
+"250","FFC",NA,"Sale of Business","0.00"
+"251","FFC",NA,"Sale of Investments","0.00"
+"252","FFC",NA,"FTSE",NA
+"253","FFC",NA,"FTSE 100",NA
+"254","FFC",NA,"FX",NA
+"255","FFC",NA,"GBPUSD",NA
+"256","FFC",NA,"GKP",NA
+"257","FFC",NA,"Gulf Keyst..",NA
+"258","FFC",NA,"IOF",NA
+"259","FFC",NA,"Iofina",NA
+"260","FFC",NA,"LSE",NA
+"261","FFC",NA,"LSE",NA
+"262","FFC",NA,"LSE",NA
+"263","FFC",NA,"LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..","LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell"
+"264","FFC",NA,"QPP",NA
+"265","FFC",NA,"Quindell",NA
+"266","FFC",NA,"UK Sterlin..",NA
+"267","FFC",NA,"UKX",NA

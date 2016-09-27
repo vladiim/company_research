@@ -1,2 +1,361 @@
-"","ticker","date","name","est","sector","industry","industry_group","marcap","invested_capital","total_equity","total_debt","pretax_income","dividends","roic"
-"1","EZL",2016-06-30,NA,NA,"Financial Services","Asset Management",NA,159130,114.55,113.83,NA,3.56,-6.58,-0.0263640331732868
+"","ticker","date","variable","value"
+"1","EZL",2016-06-30,"Address","58 Mounts Bay Road  Level 18 Alluvion, 6000"
+"2","EZL",2016-06-30,"City/Country:","Perth, Australia"
+"3","EZL",2016-06-30,"Company sector name:","Financial Services"
+"4","EZL",2016-06-30,"End of fiscal year:","30 June 2016"
+"5","EZL",2016-06-30,"Industry group name","Asset Management"
+"6","EZL",2016-06-30,"Industry name:","Asset Management"
+"7","EZL",2016-06-30,"Web address:","http://www.euroz.com.au"
+"8","EZL",2016-06-30,"Assets Turnover","2.92"
+"9","EZL",2016-06-30,"Book-Value pS","0.66"
+"10","EZL",2016-06-30,"Cash Flow pS","0.01"
+"11","EZL",2016-06-30,"Cash pS","0.21"
+"12","EZL",2016-06-30,"Current Ratio","5.94"
+"13","EZL",2016-06-30,"Dividend pS (DPS)","0.07"
+"14","EZL",2016-06-30,"Dividend Yield","7.14"
+"15","EZL",2016-06-30,"Domestic Sales","-"
+"16","EZL",2016-06-30,"Earnings pS (EPS)","0.02"
+"17","EZL",2016-06-30,"EBITDA Margin","-"
+"18","EZL",2016-06-30,"Effective Tax Rate","-"
+"19","EZL",2016-06-30,"EZL KEY FIGURES (at previous day's close)",NA
+"20","EZL",2016-06-30,"Foreign Sales","-"
+"21","EZL",2016-06-30,"Free Cash Flow pS","0.01"
+"22","EZL",2016-06-30,"Gross gearing","6.20"
+"23","EZL",2016-06-30,"Gross Profit Margin","35.30"
+"24","EZL",2016-06-30,"Interest Cover","-"
+"25","EZL",2016-06-30,"Latest Shares Outstanding","160.99"
+"26","EZL",2016-06-30,"Leverage Ratio (Assets/Equity)","1.07"
+"27","EZL",2016-06-30,"LT Debt/Total Capital","-"
+"28","EZL",2016-06-30,"Market Capitalisation","159.13"
+"29","EZL",2016-06-30,"Net Debt","-26.64"
+"30","EZL",2016-06-30,"PE Ratio","44.64"
+"31","EZL",2016-06-30,"Pre-Tax Profit Margin","5.00"
+"32","EZL",2016-06-30,"Research & Devlopment (R&D) as ...","0.00"
+"33","EZL",2016-06-30,"Return on Assets (ROA)","0.03"
+"34","EZL",2016-06-30,"Return on Capital Invested (ROC...","-"
+"35","EZL",2016-06-30,"Return on Equity (ROE)","0.03"
+"36","EZL",2016-06-30,"Sales per Employee","-"
+"37","EZL",2016-06-30,"Selling, General & Adm/tive (SG...","1.75"
+"38","EZL",2016-06-30,"Spread","0.02"
+"39","EZL",2016-06-30,"Tangible Book-Value pS","0.44"
+"40","EZL",2016-06-30,"Total Debt/Equity (Gearing Rati...","-"
+"41","EZL",2016-06-30,"Working Capital pS","0.72"
+"42","EZL",2016-06-30,"Yesterday's Close","1.00"
+"43","EZL",2016-06-30,"1 Month","1.01"
+"44","EZL",2016-06-30,"1 Month","0.94"
+"45","EZL",2016-06-30,"1 Week","1.01"
+"46","EZL",2016-06-30,"1 Week","0.91"
+"47","EZL",2016-06-30,"1 Year","1.01"
+"48","EZL",2016-06-30,"1 Year","0.86"
+"49","EZL",2016-06-30,"3 Months","1.01"
+"50","EZL",2016-06-30,"3 Months","0.80"
+"51","EZL",2016-06-30,"3 Years","1.43"
+"52","EZL",2016-06-30,"3 Years","1.14"
+"53","EZL",2016-06-30,"5 Years","1.45"
+"54","EZL",2016-06-30,"5 Years","1.36"
+"55","EZL",2016-06-30,"6 Months","1.01"
+"56","EZL",2016-06-30,"6 Months","0.73"
+"57","EZL",2016-06-30,"Period †","High"
+"58","EZL",2016-06-30,"Period †","Open"
+"59","EZL",2016-06-30,"","1 year"
+"60","EZL",2016-06-30,"","LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell
+			
+		
+
+	
+				
+					FTSE
+				
+			
+		
+				
+					UKX
+				
+			
+		
+				FTSE 100
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					IOF
+				
+			
+		
+				Iofina
+			
+		
+
+	
+				
+					FX
+				
+			
+		
+				
+					GBPUSD
+				
+			
+		
+				UK Sterlin..
+			
+		
+			
+
+						
+						Stocks you've viewed will appear in this box, letting you easily return to quotes you've seen previously.Register now to create your own custom streaming stock watchlist."
+"61","EZL",2016-06-30,"CFO growth","-"
+"62","EZL",2016-06-30,"Diluted continuous EPS growth","-"
+"63","EZL",2016-06-30,"Diluted EPS growth","-"
+"64","EZL",2016-06-30,"Dividend growth","-0.54"
+"65","EZL",2016-06-30,"Equity per share growth","-0.01"
+"66","EZL",2016-06-30,"EZL Growth Ratios (30 June 2016)",NA
+"67","EZL",2016-06-30,"FCF growth","-"
+"68","EZL",2016-06-30,"Net income cont growth","-"
+"69","EZL",2016-06-30,"Net income growth","-"
+"70","EZL",2016-06-30,"Operating income growth","-"
+"71","EZL",2016-06-30,"Operating revenue growth","0.07"
+"72","EZL",2016-06-30,"Revenue growth","0.07"
+"73","EZL",2016-06-30,"Basic EPS","0.02"
+"74","EZL",2016-06-30,"Basic EPS from Continuing Ope...","0.02"
+"75","EZL",2016-06-30,"Basic EPS from Discontinued O...","0.00"
+"76","EZL",2016-06-30,"Basic EPS,Continuing and Disc...","0.02"
+"77","EZL",2016-06-30,"Basic Weighted Average Shares...","159.13"
+"78","EZL",2016-06-30,"Calculated Tax Effect Of Unus...","0.00"
+"79","EZL",2016-06-30,"Commission Expenses","5.63"
+"80","EZL",2016-06-30,"Cost of Revenue,Reconciled","27.04"
+"81","EZL",2016-06-30,"Depreciation","0.17"
+"82","EZL",2016-06-30,"Depreciation and Amortization","0.17"
+"83","EZL",2016-06-30,"Depreciation,Reconciled","0.17"
+"84","EZL",2016-06-30,"Diluted EPS","0.02"
+"85","EZL",2016-06-30,"Diluted EPS from Continuing O...","0.02"
+"86","EZL",2016-06-30,"Diluted EPS from Discontinued...","0.00"
+"87","EZL",2016-06-30,"Diluted EPS,Continuing and Di...","0.02"
+"88","EZL",2016-06-30,"Diluted Weighted Average Shar...","159.13"
+"89","EZL",2016-06-30,"Discontinued Operations","0.00"
+"90","EZL",2016-06-30,"Dividend Per Share","0.07"
+"91","EZL",2016-06-30,"EZL Income Statement 30 June 2016 (AUD)",NA
+"92","EZL",2016-06-30,"General and Administrative Ex...","0.73"
+"93","EZL",2016-06-30,"Interest and Dividend Income","0.82"
+"94","EZL",2016-06-30,"Minority Interest","1.00"
+"95","EZL",2016-06-30,"Net Income","3.56"
+"96","EZL",2016-06-30,"Net Income Available to Commo...","3.56"
+"97","EZL",2016-06-30,"Net Income from Continuing an...","3.56"
+"98","EZL",2016-06-30,"Net Income from Continuing Op...","2.56"
+"99","EZL",2016-06-30,"Net Income from Continuing Op...","3.56"
+"100","EZL",2016-06-30,"Net Income Including Noncontr...","2.56"
+"101","EZL",2016-06-30,"Net Interest Income","0.82"
+"102","EZL",2016-06-30,"Non Operating Income","0.13"
+"103","EZL",2016-06-30,"Non-Interest Income","40.97"
+"104","EZL",2016-06-30,"Normalized Basic EPS","0.02"
+"105","EZL",2016-06-30,"Normalized Diluted EPS","0.02"
+"106","EZL",2016-06-30,"Normalized Income","3.56"
+"107","EZL",2016-06-30,"Operating Expenses","12.80"
+"108","EZL",2016-06-30,"Operating Income","1.96"
+"109","EZL",2016-06-30,"Operating Revenue","41.79"
+"110","EZL",2016-06-30,"Other Income/Expense,Net","0.13"
+"111","EZL",2016-06-30,"Preferred Stock Dividends","0.00"
+"112","EZL",2016-06-30,"Pretax Income","2.09"
+"113","EZL",2016-06-30,"Provision for Income Tax","-0.47"
+"114","EZL",2016-06-30,"Salary and Benefit","21.41"
+"115","EZL",2016-06-30,"Selling,General and Administr...","0.73"
+"116","EZL",2016-06-30,"Tax rate for calculations","0.23"
+"117","EZL",2016-06-30,"Total Revenue","41.79"
+"118","EZL",2016-06-30,"Assets turnover","0.35"
+"119","EZL",2016-06-30,"Capital expenditure sales ratio","0.01"
+"120","EZL",2016-06-30,"Cash conversion cycle","-"
+"121","EZL",2016-06-30,"Days in inventory","-"
+"122","EZL",2016-06-30,"Days in payment","-"
+"123","EZL",2016-06-30,"Days in sales","-"
+"124","EZL",2016-06-30,"EZL Efficency Ratios (30 June 2016)",NA
+"125","EZL",2016-06-30,"FCF net income ratio","0.45"
+"126","EZL",2016-06-30,"FCF sales ratio","0.04"
+"127","EZL",2016-06-30,"Fixed assets turnover","104.00"
+"128","EZL",2016-06-30,"Inventory turnover","-"
+"129","EZL",2016-06-30,"Payable turnover","-"
+"130","EZL",2016-06-30,"Receivable turnover","-"
+"131","EZL",2016-06-30,"ROA","0.03"
+"132","EZL",2016-06-30,"ROE","0.03"
+"133","EZL",2016-06-30,"ROIC","-"
+"134","EZL",2016-06-30,"Current ratio","5.94"
+"135","EZL",2016-06-30,"Debt equity ratio","-"
+"136","EZL",2016-06-30,"Debt total capital ratio","-"
+"137","EZL",2016-06-30,"EZL Financial Health Ratios (30 June 2016)",NA
+"138","EZL",2016-06-30,"Financial leverage","1.07"
+"139","EZL",2016-06-30,"Quick ratio","-"
+"140","EZL",2016-06-30,"Total debt to equity","-"
+"141","EZL",2016-06-30,"Avg gross margin","0.48"
+"142","EZL",2016-06-30,"Avg net profit","0.14"
+"143","EZL",2016-06-30,"Avg post tax margin","0.14"
+"144","EZL",2016-06-30,"Avg pre tax marginr","0.16"
+"145","EZL",2016-06-30,"Avg ret assets","0.06"
+"146","EZL",2016-06-30,"Avg ret commonr","0.07"
+"147","EZL",2016-06-30,"Avg ret invested capital","-"
+"148","EZL",2016-06-30,"EZL Avearge Growth Ratios Over 5 Years (30 June 2016)",NA
+"149","EZL",2016-06-30,"Growth ann capital spending","-0.36"
+"150","EZL",2016-06-30,"Growth ann gross profit","-0.14"
+"151","EZL",2016-06-30,"EBIT margin","-"
+"152","EZL",2016-06-30,"EBITDA margin","-"
+"153","EZL",2016-06-30,"EBT margin","0.05"
+"154","EZL",2016-06-30,"EZL Profitability Ratios (30 June 2016)",NA
+"155","EZL",2016-06-30,"Gross margin","0.35"
+"156","EZL",2016-06-30,"Inc per employee tot ops","-"
+"157","EZL",2016-06-30,"Interest coverage","-"
+"158","EZL",2016-06-30,"Net margin","0.09"
+"159","EZL",2016-06-30,"Normalized net profit margin","0.09"
+"160","EZL",2016-06-30,"Operating margin","0.05"
+"161","EZL",2016-06-30,"Sales per employee","-"
+"162","EZL",2016-06-30,"Tax rate","-"
+"163","EZL",2016-06-30,"Book value per share","0.72"
+"164","EZL",2016-06-30,"Cash return","0.03"
+"165","EZL",2016-06-30,"CF per share","0.02"
+"166","EZL",2016-06-30,"Div payout 5 year","-0.15"
+"167","EZL",2016-06-30,"Div payout tot ops","-9.27"
+"168","EZL",2016-06-30,"Div rate","0.06"
+"169","EZL",2016-06-30,"Dividend yield","0.09"
+"170","EZL",2016-06-30,"EZL Valuation Ratios (30 June 2016)",NA
+"171","EZL",2016-06-30,"Growth ann sales per share 5 ye...","-0.04"
+"172","EZL",2016-06-30,"Payout ratio","-"
+"173","EZL",2016-06-30,"Price to book","1.10"
+"174","EZL",2016-06-30,"Price to cash flow","40.49"
+"175","EZL",2016-06-30,"Price to EPS","-102.04"
+"176","EZL",2016-06-30,"Price to free cash flow","46.51"
+"177","EZL",2016-06-30,"Price to sales","2.54"
+"178","EZL",2016-06-30,"Ratio PE 5 year high","-257.97"
+"179","EZL",2016-06-30,"Ratio PE 5 year low","-90.74"
+"180","EZL",2016-06-30,"Sales per share","0.31"
+"181","EZL",2016-06-30,"Sustainable growth rate","-"
+"182","EZL",2016-06-30,"Accumulated Depreciation","-0.26"
+"183","EZL",2016-06-30,"Accumulated Gains/ Losses Not...","1.16"
+"184","EZL",2016-06-30,"Capital Stock","105.23"
+"185","EZL",2016-06-30,"Cash","34.20"
+"186","EZL",2016-06-30,"Cash and Cash Equivalents","34.20"
+"187","EZL",2016-06-30,"Common Stock","105.23"
+"188","EZL",2016-06-30,"Common Stock Equity","114.55"
+"189","EZL",2016-06-30,"Deferred Liabilities, Non cur...","0.82"
+"190","EZL",2016-06-30,"Deferred Liabilities,Current","0.44"
+"191","EZL",2016-06-30,"Deferred Taxes,Current Liabil...","0.44"
+"192","EZL",2016-06-30,"Deferred Taxes,Non-Current Li...","0.82"
+"193","EZL",2016-06-30,"EZL Balance Sheet 30 June 2016 (AUD)",NA
+"194","EZL",2016-06-30,"Goodwill","8.43"
+"195","EZL",2016-06-30,"Goodwill and Other Intangible...","10.15"
+"196","EZL",2016-06-30,"Gross Property,Plant,and Equi...","0.74"
+"197","EZL",2016-06-30,"Invested Capital","114.55"
+"198","EZL",2016-06-30,"Investments and Advances","55.17"
+"199","EZL",2016-06-30,"Net Property,Plant,and Equipm...","0.49"
+"200","EZL",2016-06-30,"Net Tangible Assets","104.39"
+"201","EZL",2016-06-30,"Ordinary Shares Number","158.57"
+"202","EZL",2016-06-30,"Other Assets","109.92"
+"203","EZL",2016-06-30,"Other Intangible Assets","1.72"
+"204","EZL",2016-06-30,"Other Liabilities","5.82"
+"205","EZL",2016-06-30,"Payables","1.20"
+"206","EZL",2016-06-30,"Payables and Accrued Expenses","1.20"
+"207","EZL",2016-06-30,"Preferred Stock","0.00"
+"208","EZL",2016-06-30,"Receivables","1.55"
+"209","EZL",2016-06-30,"Retained Earnings","8.16"
+"210","EZL",2016-06-30,"Short Term Investments","5.83"
+"211","EZL",2016-06-30,"Stockholder's Equity","114.55"
+"212","EZL",2016-06-30,"Tangible Book Value","104.39"
+"213","EZL",2016-06-30,"Total Assets","122.11"
+"214","EZL",2016-06-30,"Total Capitalization","114.55"
+"215","EZL",2016-06-30,"Total Equity","113.83"
+"216","EZL",2016-06-30,"Total Equity","114.55"
+"217","EZL",2016-06-30,"Total Liabilities","8.28"
+"218","EZL",2016-06-30,"Total Liabilities Inc MI","7.57"
+"219","EZL",2016-06-30,"Working Capital","35.54"
+"220","EZL",2016-06-30,"Capital Expenditure","-0.38"
+"221","EZL",2016-06-30,"Cash and Cash Equivalents,Beg...","45.04"
+"222","EZL",2016-06-30,"Cash and Cash Equivalents,End...","34.20"
+"223","EZL",2016-06-30,"Cash Dividends Paid","-6.58"
+"224","EZL",2016-06-30,"Cash Flow from Financing Acti...","-6.83"
+"225","EZL",2016-06-30,"Cash Flow from Investing Acti...","-6.00"
+"226","EZL",2016-06-30,"Cash Flow from Operating Acti...","1.99"
+"227","EZL",2016-06-30,"Change in Cash","-10.84"
+"228","EZL",2016-06-30,"Effect of Exchange Rate Chang...","0.00"
+"229","EZL",2016-06-30,"EZL Cash Flow 30 June 2016 (AUD)",NA
+"230","EZL",2016-06-30,"Income Tax Paid, Supplemental...","-1.66"
+"231","EZL",2016-06-30,"Issuance of Capital Stock","0.00"
+"232","EZL",2016-06-30,"Issuance of Debt","0.00"
+"233","EZL",2016-06-30,"Issuance/Payments of Common S...","-0.24"
+"234","EZL",2016-06-30,"Issuance/Payments of Debt,Net","0.00"
+"235","EZL",2016-06-30,"Issuance/Payments of Long Ter...","0.00"
+"236","EZL",2016-06-30,"Other Investing Changes,Net","3.08"
+"237","EZL",2016-06-30,"Payments for Common Stock","-0.24"
+"238","EZL",2016-06-30,"Payments to Settle Long Term ...","0.00"
+"239","EZL",2016-06-30,"Proceeds or Issuance of Commo...","0.00"
+"240","EZL",2016-06-30,"Proceeds or Issuance of Long ...","0.00"
+"241","EZL",2016-06-30,"Purchase of Investments","-7.22"
+"242","EZL",2016-06-30,"Purchase of Property,Plant an...","-0.38"
+"243","EZL",2016-06-30,"Purchase/Acquisition of Busin...","-1.53"
+"244","EZL",2016-06-30,"Purchase/Sale of Business,Net","-1.53"
+"245","EZL",2016-06-30,"Purchase/Sale of Investments,...","-7.22"
+"246","EZL",2016-06-30,"Purchase/Sale of Property,Pla...","-0.33"
+"247","EZL",2016-06-30,"Repayment of Debt","0.00"
+"248","EZL",2016-06-30,"Repurchase of Capital Stock","-0.24"
+"249","EZL",2016-06-30,"Sale of Business","0.00"
+"250","EZL",2016-06-30,"Sale of Investments","0.00"
+"251","EZL",2016-06-30,"Sale of Property,Plant,and Eq...","0.05"
+"252","EZL",2016-06-30,"FTSE",NA
+"253","EZL",2016-06-30,"FTSE 100",NA
+"254","EZL",2016-06-30,"FX",NA
+"255","EZL",2016-06-30,"GBPUSD",NA
+"256","EZL",2016-06-30,"GKP",NA
+"257","EZL",2016-06-30,"Gulf Keyst..",NA
+"258","EZL",2016-06-30,"IOF",NA
+"259","EZL",2016-06-30,"Iofina",NA
+"260","EZL",2016-06-30,"LSE",NA
+"261","EZL",2016-06-30,"LSE",NA
+"262","EZL",2016-06-30,"LSE",NA
+"263","EZL",2016-06-30,"LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..","LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell"
+"264","EZL",2016-06-30,"QPP",NA
+"265","EZL",2016-06-30,"Quindell",NA
+"266","EZL",2016-06-30,"UK Sterlin..",NA
+"267","EZL",2016-06-30,"UKX",NA

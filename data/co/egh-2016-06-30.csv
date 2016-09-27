@@ -1,2 +1,390 @@
-"","ticker","date","name","est","sector","industry","industry_group","marcap","invested_capital","total_equity","total_debt","pretax_income","dividends","roic"
-"1","EGH",2016-06-30,NA,NA,"Real Estate","Real Estate Services",NA,151130,107.43,64.93,42.52,10.47,0,0.0974588103881597
+"","ticker","date","variable","value"
+"1","EGH",2016-06-30,"Address","Unit 7  486 Scottsdale Drive, 4227"
+"2","EGH",2016-06-30,"City/Country:","Varsity Lakes, Australia"
+"3","EGH",2016-06-30,"Company sector name:","Real Estate"
+"4","EGH",2016-06-30,"End of fiscal year:","30 June 2016"
+"5","EGH",2016-06-30,"Industry group name","Real Estate Services"
+"6","EGH",2016-06-30,"Industry name:","Real Estate Services"
+"7","EGH",2016-06-30,"Assets Turnover","5.62"
+"8","EGH",2016-06-30,"Book-Value pS","0.29"
+"9","EGH",2016-06-30,"Cash Flow pS","0.02"
+"10","EGH",2016-06-30,"Cash pS","0.03"
+"11","EGH",2016-06-30,"Current Ratio","1.95"
+"12","EGH",2016-06-30,"Dividend pS (DPS)","-"
+"13","EGH",2016-06-30,"Dividend Yield","-"
+"14","EGH",2016-06-30,"Domestic Sales","-"
+"15","EGH",2016-06-30,"Earnings pS (EPS)","0.05"
+"16","EGH",2016-06-30,"EBITDA Margin","62.97"
+"17","EGH",2016-06-30,"Effective Tax Rate","-"
+"18","EGH",2016-06-30,"EGH KEY FIGURES (at previous day's close)",NA
+"19","EGH",2016-06-30,"Foreign Sales","-"
+"20","EGH",2016-06-30,"Free Cash Flow pS","0.02"
+"21","EGH",2016-06-30,"Gross gearing","41.67"
+"22","EGH",2016-06-30,"Gross Profit Margin","54.77"
+"23","EGH",2016-06-30,"Interest Cover","7.19"
+"24","EGH",2016-06-30,"Latest Shares Outstanding","231.05"
+"25","EGH",2016-06-30,"Leverage Ratio (Assets/Equity)","1.71"
+"26","EGH",2016-06-30,"LT Debt/Total Capital","0.37"
+"27","EGH",2016-06-30,"Market Capitalisation","151.13"
+"28","EGH",2016-06-30,"Net Debt","39.55"
+"29","EGH",2016-06-30,"PE Ratio","14.45"
+"30","EGH",2016-06-30,"Pre-Tax Profit Margin","52.86"
+"31","EGH",2016-06-30,"Research & Devlopment (R&D) as ...","0.00"
+"32","EGH",2016-06-30,"Return on Assets (ROA)","0.13"
+"33","EGH",2016-06-30,"Return on Capital Invested (ROC...","0.15"
+"34","EGH",2016-06-30,"Return on Equity (ROE)","0.22"
+"35","EGH",2016-06-30,"Sales per Employee","-"
+"36","EGH",2016-06-30,"Selling, General & Adm/tive (SG...","8.51"
+"37","EGH",2016-06-30,"Spread","0.02"
+"38","EGH",2016-06-30,"Tangible Book-Value pS","0.44"
+"39","EGH",2016-06-30,"Total Debt/Equity (Gearing Rati...","0.65"
+"40","EGH",2016-06-30,"Working Capital pS","0.51"
+"41","EGH",2016-06-30,"Yesterday's Close","0.75"
+"42","EGH",2016-06-30,"1 Month","0.80"
+"43","EGH",2016-06-30,"1 Month","0.77"
+"44","EGH",2016-06-30,"1 Week","0.75"
+"45","EGH",2016-06-30,"1 Week","0.76"
+"46","EGH",2016-06-30,"1 Year","0.80"
+"47","EGH",2016-06-30,"1 Year","0.54"
+"48","EGH",2016-06-30,"3 Months","0.80"
+"49","EGH",2016-06-30,"3 Months","0.78"
+"50","EGH",2016-06-30,"3 Years","0.80"
+"51","EGH",2016-06-30,"3 Years","0.04"
+"52","EGH",2016-06-30,"5 Years","0.80"
+"53","EGH",2016-06-30,"5 Years","0.08"
+"54","EGH",2016-06-30,"6 Months","0.80"
+"55","EGH",2016-06-30,"6 Months","0.63"
+"56","EGH",2016-06-30,"Period †","High"
+"57","EGH",2016-06-30,"Period †","Open"
+"58","EGH",2016-06-30,"","1 year"
+"59","EGH",2016-06-30,"","LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell
+			
+		
+
+	
+				
+					FTSE
+				
+			
+		
+				
+					UKX
+				
+			
+		
+				FTSE 100
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					IOF
+				
+			
+		
+				Iofina
+			
+		
+
+	
+				
+					FX
+				
+			
+		
+				
+					GBPUSD
+				
+			
+		
+				UK Sterlin..
+			
+		
+			
+
+						
+						Stocks you've viewed will appear in this box, letting you easily return to quotes you've seen previously.Register now to create your own custom streaming stock watchlist."
+"60","EGH",2016-06-30,"CFO growth","1.21"
+"61","EGH",2016-06-30,"Diluted continuous EPS growth","1.32"
+"62","EGH",2016-06-30,"Diluted EPS growth","1.32"
+"63","EGH",2016-06-30,"Dividend growth","-"
+"64","EGH",2016-06-30,"EGH Growth Ratios (30 June 2016)",NA
+"65","EGH",2016-06-30,"Equity per share growth","0.70"
+"66","EGH",2016-06-30,"FCF growth","1.51"
+"67","EGH",2016-06-30,"Net income cont growth","2.37"
+"68","EGH",2016-06-30,"Net income growth","2.37"
+"69","EGH",2016-06-30,"Operating income growth","1.59"
+"70","EGH",2016-06-30,"Operating revenue growth","0.76"
+"71","EGH",2016-06-30,"Revenue growth","0.76"
+"72","EGH",2016-06-30,"Amortization","0.16"
+"73","EGH",2016-06-30,"Basic EPS","0.05"
+"74","EGH",2016-06-30,"Basic EPS from Continuing Ope...","0.05"
+"75","EGH",2016-06-30,"Basic EPS from Discontinued O...","0.00"
+"76","EGH",2016-06-30,"Basic EPS,Continuing and Disc...","0.05"
+"77","EGH",2016-06-30,"Basic Weighted Average Shares...","201.51"
+"78","EGH",2016-06-30,"Calculated Tax Effect Of Unus...","0.00"
+"79","EGH",2016-06-30,"Commission Expenses","0.15"
+"80","EGH",2016-06-30,"Cost of Revenue","8.96"
+"81","EGH",2016-06-30,"Cost of Revenue,Reconciled","8.96"
+"82","EGH",2016-06-30,"Depreciation","0.11"
+"83","EGH",2016-06-30,"Depreciation and Amortization","0.27"
+"84","EGH",2016-06-30,"Depreciation,Reconciled","0.27"
+"85","EGH",2016-06-30,"Diluted EPS","0.05"
+"86","EGH",2016-06-30,"Diluted EPS from Continuing O...","0.05"
+"87","EGH",2016-06-30,"Diluted EPS from Discontinued...","0.00"
+"88","EGH",2016-06-30,"Diluted EPS,Continuing and Di...","0.05"
+"89","EGH",2016-06-30,"Diluted Weighted Average Shar...","201.51"
+"90","EGH",2016-06-30,"Discontinued Operations","0.00"
+"91","EGH",2016-06-30,"Earning Before Interest and T...","12.20"
+"92","EGH",2016-06-30,"Earning Before Interest Tax D...","12.47"
+"93","EGH",2016-06-30,"EGH Income Statement 30 June 2016 (AUD)",NA
+"94","EGH",2016-06-30,"General and Administrative Ex...","1.41"
+"95","EGH",2016-06-30,"Gross Profit","10.85"
+"96","EGH",2016-06-30,"Interest and Dividend Income","0.31"
+"97","EGH",2016-06-30,"Interest Expense","1.73"
+"98","EGH",2016-06-30,"Interest Expense-Non Operatin...","1.73"
+"99","EGH",2016-06-30,"Interest Income-Non Operating","0.31"
+"100","EGH",2016-06-30,"Interest Income/Expense,Net-N...","-1.42"
+"101","EGH",2016-06-30,"Minority Interest","0.00"
+"102","EGH",2016-06-30,"Net Income","10.47"
+"103","EGH",2016-06-30,"Net Income Available to Commo...","10.47"
+"104","EGH",2016-06-30,"Net Income from Continuing an...","10.47"
+"105","EGH",2016-06-30,"Net Income from Continuing Op...","10.47"
+"106","EGH",2016-06-30,"Net Income from Continuing Op...","10.47"
+"107","EGH",2016-06-30,"Net Income Including Noncontr...","10.47"
+"108","EGH",2016-06-30,"Net Interest Income","-1.42"
+"109","EGH",2016-06-30,"Non Operating Expense","-1.42"
+"110","EGH",2016-06-30,"Non Operating Income","4.04"
+"111","EGH",2016-06-30,"Normalized Basic EPS","0.03"
+"112","EGH",2016-06-30,"Normalized Diluted EPS","0.03"
+"113","EGH",2016-06-30,"Normalized Income","6.43"
+"114","EGH",2016-06-30,"Operating Expenses","3.00"
+"115","EGH",2016-06-30,"Operating Income","7.85"
+"116","EGH",2016-06-30,"Operating Revenue","19.80"
+"117","EGH",2016-06-30,"Other Income/Expense,Net","4.04"
+"118","EGH",2016-06-30,"Preferred Stock Dividends","0.00"
+"119","EGH",2016-06-30,"Pretax Income","10.47"
+"120","EGH",2016-06-30,"Provision for Doubtful Accoun...","0.04"
+"121","EGH",2016-06-30,"Provision for Income Tax","0.00"
+"122","EGH",2016-06-30,"Salary and Benefit","1.41"
+"123","EGH",2016-06-30,"Selling and Marketing Expense","0.27"
+"124","EGH",2016-06-30,"Selling,General and Administr...","1.68"
+"125","EGH",2016-06-30,"Tax rate for calculations","0.00"
+"126","EGH",2016-06-30,"Total Revenue","19.80"
+"127","EGH",2016-06-30,"TotalUnusualItems","4.04"
+"128","EGH",2016-06-30,"TotalUnusualItemsExcludingGoo...","4.04"
+"129","EGH",2016-06-30,"Unrealized Gain or Loss","4.04"
+"130","EGH",2016-06-30,"Assets turnover","0.24"
+"131","EGH",2016-06-30,"Capital expenditure sales ratio","0.05"
+"132","EGH",2016-06-30,"Cash conversion cycle","123.86"
+"133","EGH",2016-06-30,"Days in inventory","128.80"
+"134","EGH",2016-06-30,"Days in payment","39.41"
+"135","EGH",2016-06-30,"Days in sales","34.47"
+"136","EGH",2016-06-30,"EGH Efficency Ratios (30 June 2016)",NA
+"137","EGH",2016-06-30,"FCF net income ratio","0.32"
+"138","EGH",2016-06-30,"FCF sales ratio","0.17"
+"139","EGH",2016-06-30,"Fixed assets turnover","18.77"
+"140","EGH",2016-06-30,"Inventory turnover","2.83"
+"141","EGH",2016-06-30,"Payable turnover","9.26"
+"142","EGH",2016-06-30,"Receivable turnover","10.59"
+"143","EGH",2016-06-30,"ROA","0.13"
+"144","EGH",2016-06-30,"ROE","0.22"
+"145","EGH",2016-06-30,"ROIC","0.15"
+"146","EGH",2016-06-30,"Current ratio","1.95"
+"147","EGH",2016-06-30,"Debt equity ratio","0.58"
+"148","EGH",2016-06-30,"Debt total capital ratio","0.37"
+"149","EGH",2016-06-30,"EGH Financial Health Ratios (30 June 2016)",NA
+"150","EGH",2016-06-30,"Financial leverage","1.71"
+"151","EGH",2016-06-30,"Quick ratio","1.15"
+"152","EGH",2016-06-30,"Total debt to equity","0.65"
+"153","EGH",2016-06-30,"Avg gross margin","0.39"
+"154","EGH",2016-06-30,"Avg net profit","0.18"
+"155","EGH",2016-06-30,"Avg post tax margin","0.18"
+"156","EGH",2016-06-30,"Avg pre tax marginr","0.18"
+"157","EGH",2016-06-30,"Avg ret assets","0.07"
+"158","EGH",2016-06-30,"Avg ret commonr","0.16"
+"159","EGH",2016-06-30,"Avg ret invested capital","0.11"
+"160","EGH",2016-06-30,"EGH Avearge Growth Ratios Over 5 Years (30 June 2016)",NA
+"161","EGH",2016-06-30,"Growth ann capital spending","0.51"
+"162","EGH",2016-06-30,"Growth ann gross profit","0.12"
+"163","EGH",2016-06-30,"EBIT margin","0.62"
+"164","EGH",2016-06-30,"EBITDA margin","0.63"
+"165","EGH",2016-06-30,"EBT margin","0.53"
+"166","EGH",2016-06-30,"EGH Profitability Ratios (30 June 2016)",NA
+"167","EGH",2016-06-30,"Gross margin","0.55"
+"168","EGH",2016-06-30,"Inc per employee tot ops","-"
+"169","EGH",2016-06-30,"Interest coverage","7.04"
+"170","EGH",2016-06-30,"Net margin","0.53"
+"171","EGH",2016-06-30,"Normalized net profit margin","0.32"
+"172","EGH",2016-06-30,"Operating margin","0.40"
+"173","EGH",2016-06-30,"Sales per employee","-"
+"174","EGH",2016-06-30,"Tax rate","-"
+"175","EGH",2016-06-30,"Book value per share","0.21"
+"176","EGH",2016-06-30,"Cash return","0.01"
+"177","EGH",2016-06-30,"CF per share","0.02"
+"178","EGH",2016-06-30,"Div payout 5 year","-"
+"179","EGH",2016-06-30,"Div payout tot ops","-"
+"180","EGH",2016-06-30,"Div rate","-"
+"181","EGH",2016-06-30,"Dividend yield","-"
+"182","EGH",2016-06-30,"EGH Valuation Ratios (30 June 2016)",NA
+"183","EGH",2016-06-30,"Growth ann sales per share 5 ye...","-0.27"
+"184","EGH",2016-06-30,"Payout ratio","0.00"
+"185","EGH",2016-06-30,"Price to book","3.84"
+"186","EGH",2016-06-30,"Price to cash flow","42.37"
+"187","EGH",2016-06-30,"Price to EPS","22.57"
+"188","EGH",2016-06-30,"Price to free cash flow","75.76"
+"189","EGH",2016-06-30,"Price to sales","9.73"
+"190","EGH",2016-06-30,"Ratio PE 5 year high","22.59"
+"191","EGH",2016-06-30,"Ratio PE 5 year low","0.86"
+"192","EGH",2016-06-30,"Sales per share","0.08"
+"193","EGH",2016-06-30,"Sustainable growth rate","0.31"
+"194","EGH",2016-06-30,"Accounts Payable","1.44"
+"195","EGH",2016-06-30,"Accumulated Depreciation","-0.94"
+"196","EGH",2016-06-30,"Accumulated Gains/ Losses Not...","0.00"
+"197","EGH",2016-06-30,"Capital Lease Obligations","0.02"
+"198","EGH",2016-06-30,"Capital Stock","90.86"
+"199","EGH",2016-06-30,"Cash","6.84"
+"200","EGH",2016-06-30,"Cash and Cash Equivalents","6.84"
+"201","EGH",2016-06-30,"Cash,Cash Equivalents,and Sho...","6.84"
+"202","EGH",2016-06-30,"Common Stock","90.86"
+"203","EGH",2016-06-30,"Common Stock Equity","64.93"
+"204","EGH",2016-06-30,"Current Assets","17.46"
+"205","EGH",2016-06-30,"Current Debt","5.12"
+"206","EGH",2016-06-30,"Current Debt and Capital Leas...","5.12"
+"207","EGH",2016-06-30,"Current Liabilities","8.96"
+"208","EGH",2016-06-30,"Current Portion of Capital Le...","8,000.00"
+"209","EGH",2016-06-30,"EGH Balance Sheet 30 June 2016 (AUD)",NA
+"210","EGH",2016-06-30,"Goodwill","1.96"
+"211","EGH",2016-06-30,"Goodwill and Other Intangible...","5.62"
+"212","EGH",2016-06-30,"Gross Property,Plant,and Equi...","2.17"
+"213","EGH",2016-06-30,"Inventories","6.30"
+"214","EGH",2016-06-30,"Invested Capital","107.43"
+"215","EGH",2016-06-30,"Investments and Advances","0.00"
+"216","EGH",2016-06-30,"Long Term Debt","37.38"
+"217","EGH",2016-06-30,"Long Term Debt and Capital Le...","37.39"
+"218","EGH",2016-06-30,"Long Term Portion of Capital ...","9,000.00"
+"219","EGH",2016-06-30,"Net Property,Plant,and Equipm...","1.23"
+"220","EGH",2016-06-30,"Net Tangible Assets","59.31"
+"221","EGH",2016-06-30,"Ordinary Shares Number","225.78"
+"222","EGH",2016-06-30,"Other Current Assets","0.69"
+"223","EGH",2016-06-30,"Other Current Liabilities","0.14"
+"224","EGH",2016-06-30,"Other Intangible Assets","3.67"
+"225","EGH",2016-06-30,"Other Non-Current Assets","87.01"
+"226","EGH",2016-06-30,"Other Non-Current Liabilities","0.04"
+"227","EGH",2016-06-30,"Other Payable","2.25"
+"228","EGH",2016-06-30,"Payables","3.69"
+"229","EGH",2016-06-30,"Payables and Accrued Expenses","3.69"
+"230","EGH",2016-06-30,"Preferred Stock","0.00"
+"231","EGH",2016-06-30,"Prepaid Assets and Others","0.19"
+"232","EGH",2016-06-30,"Receivables","3.43"
+"233","EGH",2016-06-30,"Retained Earnings","-25.93"
+"234","EGH",2016-06-30,"Short Term Investments","0.00"
+"235","EGH",2016-06-30,"Stockholder's Equity","64.93"
+"236","EGH",2016-06-30,"Tangible Book Value","59.31"
+"237","EGH",2016-06-30,"Total Assets","111.32"
+"238","EGH",2016-06-30,"Total Capitalization","102.32"
+"239","EGH",2016-06-30,"Total Debt","42.52"
+"240","EGH",2016-06-30,"Total Equity","64.93"
+"241","EGH",2016-06-30,"Total Equity","64.93"
+"242","EGH",2016-06-30,"Total Liabilities","46.39"
+"243","EGH",2016-06-30,"Total Liabilities Inc MI","46.39"
+"244","EGH",2016-06-30,"Total Non-Current Assets","93.86"
+"245","EGH",2016-06-30,"Total Non-Current Liabilities","37.43"
+"246","EGH",2016-06-30,"Total Non-Current Liabilities...","37.43"
+"247","EGH",2016-06-30,"Working Capital","8.51"
+"248","EGH",2016-06-30,"Capital Expenditure","-0.91"
+"249","EGH",2016-06-30,"Cash and Cash Equivalents,Beg...","5.15"
+"250","EGH",2016-06-30,"Cash and Cash Equivalents,End...","6.84"
+"251","EGH",2016-06-30,"Cash Dividends Paid","0.00"
+"252","EGH",2016-06-30,"Cash Flow from Financing Acti...","39.36"
+"253","EGH",2016-06-30,"Cash Flow from Investing Acti...","-41.91"
+"254","EGH",2016-06-30,"Cash Flow from Operating Acti...","4.24"
+"255","EGH",2016-06-30,"Change in Cash","1.69"
+"256","EGH",2016-06-30,"Effect of Exchange Rate Chang...","0.00"
+"257","EGH",2016-06-30,"EGH Cash Flow 30 June 2016 (AUD)",NA
+"258","EGH",2016-06-30,"Free Cash Flow","3.33"
+"259","EGH",2016-06-30,"Interest Paid, Supplemental D...","-1.59"
+"260","EGH",2016-06-30,"Issuance of Capital Stock","22.90"
+"261","EGH",2016-06-30,"Issuance of Debt","18.64"
+"262","EGH",2016-06-30,"Issuance/Payments of Common S...","22.90"
+"263","EGH",2016-06-30,"Issuance/Payments of Debt,Net","17.81"
+"264","EGH",2016-06-30,"Issuance/Payments of Long Ter...","17.81"
+"265","EGH",2016-06-30,"Other Financing Changes, Net","-1.35"
+"266","EGH",2016-06-30,"Payments to Settle Long Term ...","-0.83"
+"267","EGH",2016-06-30,"Proceeds or Issuance of Commo...","22.90"
+"268","EGH",2016-06-30,"Proceeds or Issuance of Long ...","18.64"
+"269","EGH",2016-06-30,"Purchase of Intangibles","-0.80"
+"270","EGH",2016-06-30,"Purchase of Investments","-41.66"
+"271","EGH",2016-06-30,"Purchase of Property,Plant an...","-0.11"
+"272","EGH",2016-06-30,"Purchase/Acquisition of Busin...","0.00"
+"273","EGH",2016-06-30,"Purchase/Sale of Business,Net","0.00"
+"274","EGH",2016-06-30,"Purchase/Sale of Intangibles,...","-0.32"
+"275","EGH",2016-06-30,"Purchase/Sale of Investments,...","-41.48"
+"276","EGH",2016-06-30,"Purchase/Sale of Property,Pla...","-0.11"
+"277","EGH",2016-06-30,"Repayment of Debt","-0.83"
+"278","EGH",2016-06-30,"Sale of Business","0.00"
+"279","EGH",2016-06-30,"Sale of Intangibles","0.48"
+"280","EGH",2016-06-30,"Sale of Investments","0.18"
+"281","EGH",2016-06-30,"FTSE",NA
+"282","EGH",2016-06-30,"FTSE 100",NA
+"283","EGH",2016-06-30,"FX",NA
+"284","EGH",2016-06-30,"GBPUSD",NA
+"285","EGH",2016-06-30,"GKP",NA
+"286","EGH",2016-06-30,"Gulf Keyst..",NA
+"287","EGH",2016-06-30,"IOF",NA
+"288","EGH",2016-06-30,"Iofina",NA
+"289","EGH",2016-06-30,"LSE",NA
+"290","EGH",2016-06-30,"LSE",NA
+"291","EGH",2016-06-30,"LSE",NA
+"292","EGH",2016-06-30,"LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..","LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell"
+"293","EGH",2016-06-30,"QPP",NA
+"294","EGH",2016-06-30,"Quindell",NA
+"295","EGH",2016-06-30,"UK Sterlin..",NA
+"296","EGH",2016-06-30,"UKX",NA

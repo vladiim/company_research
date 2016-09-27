@@ -1,2 +1,382 @@
-"","ticker","date","name","est","sector","industry","industry_group","marcap","invested_capital","total_equity","total_debt","pretax_income","dividends","roic"
-"1","SEA",NA,NA,NA,NA,NA,NA,80770,687.41,530.37,157.04,18.68,0,0.0271744664756114
+"","ticker","date","variable","value"
+"1","SEA",NA,"Doing business in:","United States (US)"
+"2","SEA",NA,"Fax:","+1 303 543-5701"
+"3","SEA",NA,"ISIN","AU000000SEA7"
+"4","SEA",NA,"Place of incorporation:","Australia (AU)"
+"5","SEA",NA,"Tel.:","+1 303 543-5700"
+"6","SEA",NA,"Trading currency:","AUD"
+"7","SEA",NA,"Year established:","2004"
+"8","SEA",NA,"Assets Turnover","4.98"
+"9","SEA",NA,"Book-Value pS","1.00"
+"10","SEA",NA,"Cash Flow pS","0.29"
+"11","SEA",NA,"Cash pS","0.16"
+"12","SEA",NA,"Current Ratio","0.96"
+"13","SEA",NA,"Dividend pS (DPS)","-"
+"14","SEA",NA,"Dividend Yield","-"
+"15","SEA",NA,"Domestic Sales","-"
+"16","SEA",NA,"Earnings pS (EPS)","0.04"
+"17","SEA",NA,"EBITDA Margin","63.06"
+"18","SEA",NA,"Effective Tax Rate","-"
+"19","SEA",NA,"Foreign Sales","-"
+"20","SEA",NA,"Free Cash Flow pS","-0.71"
+"21","SEA",NA,"Gross gearing","45.39"
+"22","SEA",NA,"Gross Profit Margin","0.00"
+"23","SEA",NA,"Interest Cover","144.15"
+"24","SEA",NA,"Latest Shares Outstanding","-"
+"25","SEA",NA,"Leverage Ratio (Assets/Equity)","1.83"
+"26","SEA",NA,"LT Debt/Total Capital","0.23"
+"27","SEA",NA,"Market Capitalisation","80.77"
+"28","SEA",NA,"Net Debt","356.37"
+"29","SEA",NA,"PE Ratio","4.29"
+"30","SEA",NA,"Pre-Tax Profit Margin","9.06"
+"31","SEA",NA,"Research & Devlopment (R&D) as ...","0.00"
+"32","SEA",NA,"Return on Assets (ROA)","0.02"
+"33","SEA",NA,"Return on Capital Invested (ROC...","0.04"
+"34","SEA",NA,"Return on Equity (ROE)","0.04"
+"35","SEA",NA,"Sales per Employee","3.04"
+"36","SEA",NA,"SEA KEY FIGURES (at previous day's close)",NA
+"37","SEA",NA,"Selling, General & Adm/tive (SG...","8.10"
+"38","SEA",NA,"Spread","0.01"
+"39","SEA",NA,"Tangible Book-Value pS","1.57"
+"40","SEA",NA,"Total Debt/Equity (Gearing Rati...","0.30"
+"41","SEA",NA,"Working Capital pS","1.55"
+"42","SEA",NA,"Yesterday's Close","0.15"
+"43","SEA",NA,"1 Month","0.16"
+"44","SEA",NA,"1 Month","0.14"
+"45","SEA",NA,"1 Week","0.15"
+"46","SEA",NA,"1 Week","0.16"
+"47","SEA",NA,"1 Year","0.29"
+"48","SEA",NA,"1 Year","0.39"
+"49","SEA",NA,"3 Months","0.17"
+"50","SEA",NA,"3 Months","0.11"
+"51","SEA",NA,"3 Years","1.42"
+"52","SEA",NA,"3 Years","1.04"
+"53","SEA",NA,"5 Years","1.42"
+"54","SEA",NA,"5 Years","0.45"
+"55","SEA",NA,"6 Months","0.22"
+"56","SEA",NA,"6 Months","0.18"
+"57","SEA",NA,"Period †","High"
+"58","SEA",NA,"Period †","Open"
+"59","SEA",NA,"","1 year"
+"60","SEA",NA,"","LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell
+			
+		
+
+	
+				
+					FTSE
+				
+			
+		
+				
+					UKX
+				
+			
+		
+				FTSE 100
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					IOF
+				
+			
+		
+				Iofina
+			
+		
+
+	
+				
+					FX
+				
+			
+		
+				
+					GBPUSD
+				
+			
+		
+				UK Sterlin..
+			
+		
+			
+
+						
+						Stocks you've viewed will appear in this box, letting you easily return to quotes you've seen previously.Register now to create your own custom streaming stock watchlist."
+"61","SEA",NA,"CFO growth","1.23"
+"62","SEA",NA,"Diluted continuous EPS growth","-0.17"
+"63","SEA",NA,"Diluted EPS growth","-0.17"
+"64","SEA",NA,"Dividend growth","-"
+"65","SEA",NA,"Equity per share growth","0.15"
+"66","SEA",NA,"FCF growth","-"
+"67","SEA",NA,"Net income cont growth","0.05"
+"68","SEA",NA,"Net income growth","0.05"
+"69","SEA",NA,"Operating income growth","-"
+"70","SEA",NA,"Operating revenue growth","1.04"
+"71","SEA",NA,"Revenue growth","1.04"
+"72","SEA",NA,"SEA Growth Ratios (30 December 2014)",NA
+"73","SEA",NA,"Basic EPS","0.04"
+"74","SEA",NA,"Basic EPS from Continuing Ope...","0.04"
+"75","SEA",NA,"Basic EPS from Discontinued O...","0.00"
+"76","SEA",NA,"Basic EPS,Continuing and Disc...","0.04"
+"77","SEA",NA,"Basic Weighted Average Shares...","531.39"
+"78","SEA",NA,"Calculated Tax Effect Of Unus...","0.00"
+"79","SEA",NA,"Commission Expenses","8.95"
+"80","SEA",NA,"Depreciation","104.35"
+"81","SEA",NA,"Depreciation and Amortization","104.35"
+"82","SEA",NA,"Depreciation,Reconciled","104.35"
+"83","SEA",NA,"Diluted EPS","0.04"
+"84","SEA",NA,"Diluted EPS from Continuing O...","0.04"
+"85","SEA",NA,"Diluted EPS from Discontinued...","0.00"
+"86","SEA",NA,"Diluted EPS,Continuing and Di...","0.04"
+"87","SEA",NA,"Diluted Weighted Average Shar...","531.39"
+"88","SEA",NA,"Discontinued Operations","0.00"
+"89","SEA",NA,"Earning Before Interest and T...","18.51"
+"90","SEA",NA,"Earning Before Interest Tax D...","122.85"
+"91","SEA",NA,"Exploration,Development and M...","13.33"
+"92","SEA",NA,"General and Administrative Ex...","6.84"
+"93","SEA",NA,"Interest and Dividend Income","0.00"
+"94","SEA",NA,"Interest Expense","0.85"
+"95","SEA",NA,"Interest Expense-Non Operatin...","0.85"
+"96","SEA",NA,"Interest Income/Expense,Net-N...","-0.85"
+"97","SEA",NA,"Minority Interest","0.00"
+"98","SEA",NA,"Net Income","18.68"
+"99","SEA",NA,"Net Income Available to Commo...","18.68"
+"100","SEA",NA,"Net Income from Continuing an...","18.68"
+"101","SEA",NA,"Net Income from Continuing Op...","18.68"
+"102","SEA",NA,"Net Income from Continuing Op...","18.68"
+"103","SEA",NA,"Net Income Including Noncontr...","18.68"
+"104","SEA",NA,"Net Interest Income","-0.85"
+"105","SEA",NA,"Non Operating Expense","-0.85"
+"106","SEA",NA,"Non Operating Income","72.68"
+"107","SEA",NA,"Normalized Basic EPS","0.04"
+"108","SEA",NA,"Normalized Diluted EPS","0.04"
+"109","SEA",NA,"Normalized Income","18.68"
+"110","SEA",NA,"Operating Expenses","249.00"
+"111","SEA",NA,"Operating Income","-54.17"
+"112","SEA",NA,"Operating Revenue","194.82"
+"113","SEA",NA,"Other Income/Expense,Net","72.68"
+"114","SEA",NA,"Preferred Stock Dividends","0.00"
+"115","SEA",NA,"Pretax Income","17.65"
+"116","SEA",NA,"Provision for Income Tax","-1.03"
+"117","SEA",NA,"Rent and Landing Fees","0.77"
+"118","SEA",NA,"Salary and Benefit","6.07"
+"119","SEA",NA,"SEA Income Statement 30 December 2014 (AUD)",NA
+"120","SEA",NA,"Selling and Marketing Expense","8.95"
+"121","SEA",NA,"Selling,General and Administr...","15.79"
+"122","SEA",NA,"Tax rate for calculations","0.06"
+"123","SEA",NA,"Total Revenue","194.82"
+"124","SEA",NA,"Assets turnover","0.23"
+"125","SEA",NA,"Capital expenditure sales ratio","2.74"
+"126","SEA",NA,"Cash conversion cycle","-"
+"127","SEA",NA,"Days in inventory","-"
+"128","SEA",NA,"Days in payment","-"
+"129","SEA",NA,"Days in sales","59.78"
+"130","SEA",NA,"FCF net income ratio","-"
+"131","SEA",NA,"FCF sales ratio","-"
+"132","SEA",NA,"Fixed assets turnover","0.29"
+"133","SEA",NA,"Inventory turnover","-"
+"134","SEA",NA,"Payable turnover","-"
+"135","SEA",NA,"Receivable turnover","6.11"
+"136","SEA",NA,"ROA","0.02"
+"137","SEA",NA,"ROE","0.04"
+"138","SEA",NA,"ROIC","0.04"
+"139","SEA",NA,"SEA Efficency Ratios (30 December 2014)",NA
+"140","SEA",NA,"Current ratio","0.96"
+"141","SEA",NA,"Debt equity ratio","0.30"
+"142","SEA",NA,"Debt total capital ratio","0.23"
+"143","SEA",NA,"Financial leverage","1.83"
+"144","SEA",NA,"Quick ratio","0.86"
+"145","SEA",NA,"SEA Financial Health Ratios (30 December 2014)",NA
+"146","SEA",NA,"Total debt to equity","0.30"
+"147","SEA",NA,"Avg gross margin","-"
+"148","SEA",NA,"Avg net profit","-"
+"149","SEA",NA,"Avg post tax margin","-"
+"150","SEA",NA,"Avg pre tax marginr","-"
+"151","SEA",NA,"Avg ret assets","-"
+"152","SEA",NA,"Avg ret commonr","-"
+"153","SEA",NA,"Avg ret invested capital","-"
+"154","SEA",NA,"Growth ann capital spending","0.58"
+"155","SEA",NA,"Growth ann gross profit","-"
+"156","SEA",NA,"SEA Avearge Growth Ratios Over 5 Years (30 December 2014)",NA
+"157","SEA",NA,"EBIT margin","0.09"
+"158","SEA",NA,"EBITDA margin","0.63"
+"159","SEA",NA,"EBT margin","0.09"
+"160","SEA",NA,"Gross margin","-"
+"161","SEA",NA,"Inc per employee tot ops","291,868.60"
+"162","SEA",NA,"Interest coverage","21.72"
+"163","SEA",NA,"Net margin","0.10"
+"164","SEA",NA,"Normalized net profit margin","0.10"
+"165","SEA",NA,"Operating margin","-0.28"
+"166","SEA",NA,"Sales per employee","3,044,093.67"
+"167","SEA",NA,"SEA Profitability Ratios (30 December 2014)",NA
+"168","SEA",NA,"Tax rate","-"
+"169","SEA",NA,"Book value per share","0.84"
+"170","SEA",NA,"Cash return","-0.81"
+"171","SEA",NA,"CF per share","0.21"
+"172","SEA",NA,"Div payout 5 year","-"
+"173","SEA",NA,"Div payout tot ops","-"
+"174","SEA",NA,"Div rate","-"
+"175","SEA",NA,"Dividend yield","-"
+"176","SEA",NA,"Growth ann sales per share 5 ye...","-"
+"177","SEA",NA,"Payout ratio","0.00"
+"178","SEA",NA,"Price to book","0.63"
+"179","SEA",NA,"Price to cash flow","2.45"
+"180","SEA",NA,"Price to EPS","8.97"
+"181","SEA",NA,"Price to free cash flow","-0.98"
+"182","SEA",NA,"Price to sales","1.90"
+"183","SEA",NA,"Ratio PE 5 year high","24.25"
+"184","SEA",NA,"Ratio PE 5 year low","1.67"
+"185","SEA",NA,"Sales per share","0.28"
+"186","SEA",NA,"SEA Valuation Ratios (31 December 2014)",NA
+"187","SEA",NA,"Sustainable growth rate","0.08"
+"188","SEA",NA,"Accounts Payable","57.13"
+"189","SEA",NA,"Accounts Receivable,Non-Curre...","0.00"
+"190","SEA",NA,"Accumulated Depreciation","-1.24"
+"191","SEA",NA,"Accumulated Gains/ Losses Not...","8.19"
+"192","SEA",NA,"Capital Stock","374.12"
+"193","SEA",NA,"Cash","84.39"
+"194","SEA",NA,"Cash and Cash Equivalents","84.39"
+"195","SEA",NA,"Cash,Cash Equivalents,and Sho...","93.90"
+"196","SEA",NA,"Common Stock","374.12"
+"197","SEA",NA,"Common Stock Equity","530.37"
+"198","SEA",NA,"Current Assets","139.05"
+"199","SEA",NA,"Current Liabilities","145.48"
+"200","SEA",NA,"Deferred Liabilities, Non cur...","125.17"
+"201","SEA",NA,"Deferred Non-Current Assets","4.87"
+"202","SEA",NA,"Deferred Taxes,Non-Current As...","4.87"
+"203","SEA",NA,"Deferred Taxes,Non-Current Li...","125.17"
+"204","SEA",NA,"Gross Property,Plant,and Equi...","825.06"
+"205","SEA",NA,"Inventories","3.23"
+"206","SEA",NA,"Invested Capital","687.41"
+"207","SEA",NA,"Investments and Advances","2.17"
+"208","SEA",NA,"Long Term Debt","157.04"
+"209","SEA",NA,"Long Term Debt and Capital Le...","157.04"
+"210","SEA",NA,"Net Property,Plant,and Equipm...","823.82"
+"211","SEA",NA,"Net Tangible Assets","530.37"
+"212","SEA",NA,"Ordinary Shares Number","549.30"
+"213","SEA",NA,"Other Current Assets","8.52"
+"214","SEA",NA,"Other Current Liabilities","0.16"
+"215","SEA",NA,"Other Non-Current Liabilities","13.07"
+"216","SEA",NA,"Other Payable","88.19"
+"217","SEA",NA,"Payables","145.32"
+"218","SEA",NA,"Payables and Accrued Expenses","145.32"
+"219","SEA",NA,"Preferred Stock","0.00"
+"220","SEA",NA,"Preferred Stock Equity","0.00"
+"221","SEA",NA,"Prepaid Assets and Others","1.71"
+"222","SEA",NA,"Receivables","31.69"
+"223","SEA",NA,"Retained Earnings","148.06"
+"224","SEA",NA,"SEA Balance Sheet 30 December 2014 (AUD)",NA
+"225","SEA",NA,"Short Term Investments","9.51"
+"226","SEA",NA,"Stockholder's Equity","530.37"
+"227","SEA",NA,"Tangible Book Value","530.37"
+"228","SEA",NA,"Total Assets","971.13"
+"229","SEA",NA,"Total Capitalization","687.41"
+"230","SEA",NA,"Total Debt","157.04"
+"231","SEA",NA,"Total Equity","530.37"
+"232","SEA",NA,"Total Equity","530.37"
+"233","SEA",NA,"Total Liabilities","440.76"
+"234","SEA",NA,"Total Liabilities Inc MI","440.76"
+"235","SEA",NA,"Total Non-Current Assets","832.08"
+"236","SEA",NA,"Total Non-Current Liabilities","295.28"
+"237","SEA",NA,"Total Non-Current Liabilities...","295.28"
+"238","SEA",NA,"Working Capital","-6.44"
+"239","SEA",NA,"Capital Expenditure","-534.19"
+"240","SEA",NA,"CapitalExpenditureReported","-489.60"
+"241","SEA",NA,"Cash and Cash Equivalents,Beg...","118.11"
+"242","SEA",NA,"Cash and Cash Equivalents,End...","84.39"
+"243","SEA",NA,"Cash Dividends Paid","0.00"
+"244","SEA",NA,"Cash Flow from Financing Acti...","204.33"
+"245","SEA",NA,"Cash Flow from Investing Acti...","-394.09"
+"246","SEA",NA,"Cash Flow from Operating Acti...","156.17"
+"247","SEA",NA,"Change in Cash","-33.59"
+"248","SEA",NA,"Effect of Exchange Rate Chang...","-0.12"
+"249","SEA",NA,"Free Cash Flow","-378.02"
+"250","SEA",NA,"Income Tax Paid, Supplemental...","-15.35"
+"251","SEA",NA,"Issuance of Capital Stock","88.32"
+"252","SEA",NA,"Issuance of Debt","201.17"
+"253","SEA",NA,"Issuance/Payments of Common S...","88.32"
+"254","SEA",NA,"Issuance/Payments of Debt,Net","121.92"
+"255","SEA",NA,"Issuance/Payments of Long Ter...","121.92"
+"256","SEA",NA,"Other Financing Changes, Net","-5.90"
+"257","SEA",NA,"Other Investing Changes,Net","-0.12"
+"258","SEA",NA,"Payments to Settle Long Term ...","-79.25"
+"259","SEA",NA,"Proceeds or Issuance of Commo...","88.32"
+"260","SEA",NA,"Proceeds or Issuance of Long ...","201.17"
+"261","SEA",NA,"Purchase of Investments","0.00"
+"262","SEA",NA,"Purchase of Property,Plant an...","-44.59"
+"263","SEA",NA,"Purchase/Acquisition of Busin...","0.00"
+"264","SEA",NA,"Purchase/Sale of Business,Net","0.00"
+"265","SEA",NA,"Purchase/Sale of Intangibles,...","140.22"
+"266","SEA",NA,"Purchase/Sale of Investments,...","0.00"
+"267","SEA",NA,"Purchase/Sale of Property,Pla...","-44.59"
+"268","SEA",NA,"Repayment of Debt","-79.25"
+"269","SEA",NA,"Sale of Business","0.00"
+"270","SEA",NA,"Sale of Intangibles","140.22"
+"271","SEA",NA,"Sale of Investments","0.00"
+"272","SEA",NA,"SEA Cash Flow 30 December 2014 (AUD)",NA
+"273","SEA",NA,"FTSE",NA
+"274","SEA",NA,"FTSE 100",NA
+"275","SEA",NA,"FX",NA
+"276","SEA",NA,"GBPUSD",NA
+"277","SEA",NA,"GKP",NA
+"278","SEA",NA,"Gulf Keyst..",NA
+"279","SEA",NA,"IOF",NA
+"280","SEA",NA,"Iofina",NA
+"281","SEA",NA,"LSE",NA
+"282","SEA",NA,"LSE",NA
+"283","SEA",NA,"LSE",NA
+"284","SEA",NA,"LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..","LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell"
+"285","SEA",NA,"QPP",NA
+"286","SEA",NA,"Quindell",NA
+"287","SEA",NA,"UK Sterlin..",NA
+"288","SEA",NA,"UKX",NA

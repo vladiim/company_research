@@ -1,2 +1,353 @@
-"","ticker","date","name","est","sector","industry","industry_group","marcap","invested_capital","total_equity","total_debt","pretax_income","dividends","roic"
-"1","TYK",NA,NA,NA,NA,NA,NA,2840,0.46,0.46,NA,-3.68,0,-8
+"","ticker","date","variable","value"
+"1","TYK",NA,"Industry group name","Metals & Mining"
+"2","TYK",NA,"ISIN","AU000000TYK2"
+"3","TYK",NA,"Trading currency:","AUD"
+"4","TYK",NA,"Assets Turnover","-"
+"5","TYK",NA,"Book-Value pS","0.00"
+"6","TYK",NA,"Cash Flow pS","-0.00"
+"7","TYK",NA,"Cash pS","0.00"
+"8","TYK",NA,"Current Ratio","2.44"
+"9","TYK",NA,"Dividend pS (DPS)","-"
+"10","TYK",NA,"Dividend Yield","-"
+"11","TYK",NA,"Domestic Sales","-"
+"12","TYK",NA,"Earnings pS (EPS)","-0.01"
+"13","TYK",NA,"EBITDA Margin","-"
+"14","TYK",NA,"Effective Tax Rate","-"
+"15","TYK",NA,"Foreign Sales","-"
+"16","TYK",NA,"Free Cash Flow pS","-0.00"
+"17","TYK",NA,"Gross gearing","23.48"
+"18","TYK",NA,"Gross Profit Margin","-"
+"19","TYK",NA,"Interest Cover","-"
+"20","TYK",NA,"Latest Shares Outstanding","284.41"
+"21","TYK",NA,"Leverage Ratio (Assets/Equity)","1.31"
+"22","TYK",NA,"LT Debt/Total Capital","-"
+"23","TYK",NA,"Market Capitalisation","2.55"
+"24","TYK",NA,"Net Debt","-0.15"
+"25","TYK",NA,"PE Ratio","-0.69"
+"26","TYK",NA,"Pre-Tax Profit Margin","-"
+"27","TYK",NA,"Research & Devlopment (R&D) as ...","-"
+"28","TYK",NA,"Return on Assets (ROA)","-1.51"
+"29","TYK",NA,"Return on Capital Invested (ROC...","-1.70"
+"30","TYK",NA,"Return on Equity (ROE)","-1.70"
+"31","TYK",NA,"Sales per Employee","-"
+"32","TYK",NA,"Selling, General & Adm/tive (SG...","-"
+"33","TYK",NA,"Spread","0.00"
+"34","TYK",NA,"Tangible Book-Value pS","0.00"
+"35","TYK",NA,"Total Debt/Equity (Gearing Rati...","-"
+"36","TYK",NA,"TYK KEY FIGURES (at previous day's close)",NA
+"37","TYK",NA,"Working Capital pS","0.00"
+"38","TYK",NA,"Yesterday's Close","0.01"
+"39","TYK",NA,"1 Month","0.01"
+"40","TYK",NA,"1 Week","0.01"
+"41","TYK",NA,"1 Year","0.00"
+"42","TYK",NA,"1 Year","0.02"
+"43","TYK",NA,"3 Months","0.01"
+"44","TYK",NA,"3 Months","0.02"
+"45","TYK",NA,"3 Years","0.00"
+"46","TYK",NA,"3 Years","0.02"
+"47","TYK",NA,"5 Years","0.00"
+"48","TYK",NA,"5 Years","0.02"
+"49","TYK",NA,"6 Months","0.01"
+"50","TYK",NA,"6 Months","0.02"
+"51","TYK",NA,"Period †","High"
+"52","TYK",NA,"Period †","Open"
+"53","TYK",NA,"","1 year"
+"54","TYK",NA,"","LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell
+			
+		
+
+	
+				
+					FTSE
+				
+			
+		
+				
+					UKX
+				
+			
+		
+				FTSE 100
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					IOF
+				
+			
+		
+				Iofina
+			
+		
+
+	
+				
+					FX
+				
+			
+		
+				
+					GBPUSD
+				
+			
+		
+				UK Sterlin..
+			
+		
+			
+
+						
+						Stocks you've viewed will appear in this box, letting you easily return to quotes you've seen previously.Register now to create your own custom streaming stock watchlist."
+"55","TYK",NA,"CFO growth","-"
+"56","TYK",NA,"Diluted continuous EPS growth","-"
+"57","TYK",NA,"Diluted EPS growth","-"
+"58","TYK",NA,"Dividend growth","-"
+"59","TYK",NA,"Equity per share growth","-0.90"
+"60","TYK",NA,"FCF growth","-"
+"61","TYK",NA,"Net income cont growth","-"
+"62","TYK",NA,"Net income growth","-"
+"63","TYK",NA,"Operating income growth","-"
+"64","TYK",NA,"Operating revenue growth","0.00"
+"65","TYK",NA,"Revenue growth","0.00"
+"66","TYK",NA,"TYK Growth Ratios (30 June 2016)",NA
+"67","TYK",NA,"Basic EPS","-0.01"
+"68","TYK",NA,"Basic EPS from Continuing Ope...","-0.01"
+"69","TYK",NA,"Basic EPS from Discontinued O...","0.00"
+"70","TYK",NA,"Basic EPS,Continuing and Disc...","-0.01"
+"71","TYK",NA,"Basic Weighted Average Shares...","283.66"
+"72","TYK",NA,"Calculated Tax Effect Of Unus...","0.00"
+"73","TYK",NA,"Commission Expenses","0.20"
+"74","TYK",NA,"Depreciation","3,821.00"
+"75","TYK",NA,"Depreciation and Amortization","3,821.00"
+"76","TYK",NA,"Depreciation,Reconciled","3,821.00"
+"77","TYK",NA,"Diluted EPS","-0.01"
+"78","TYK",NA,"Diluted EPS from Continuing O...","-0.01"
+"79","TYK",NA,"Diluted EPS from Discontinued...","0.00"
+"80","TYK",NA,"Diluted EPS,Continuing and Di...","-0.01"
+"81","TYK",NA,"Diluted Weighted Average Shar...","283.66"
+"82","TYK",NA,"Discontinued Operations","0.00"
+"83","TYK",NA,"Earning Before Interest and T...","-4.08"
+"84","TYK",NA,"Earning Before Interest Tax D...","-4.07"
+"85","TYK",NA,"General and Administrative Ex...","0.36"
+"86","TYK",NA,"Interest and Dividend Income","2,212.00"
+"87","TYK",NA,"Interest Income-Non Operating","2,212.00"
+"88","TYK",NA,"Interest Income/Expense,Net-N...","2,212.00"
+"89","TYK",NA,"Minority Interest","0.00"
+"90","TYK",NA,"Net Income","-3.68"
+"91","TYK",NA,"Net Income Available to Commo...","-3.68"
+"92","TYK",NA,"Net Income from Continuing an...","-3.68"
+"93","TYK",NA,"Net Income from Continuing Op...","-3.68"
+"94","TYK",NA,"Net Income from Continuing Op...","-3.68"
+"95","TYK",NA,"Net Income Including Noncontr...","-3.68"
+"96","TYK",NA,"Net Interest Income","2,212.00"
+"97","TYK",NA,"Non Operating Expense","2,212.00"
+"98","TYK",NA,"Non Operating Income","0.35"
+"99","TYK",NA,"Normalized Basic EPS","-0.01"
+"100","TYK",NA,"Normalized Diluted EPS","-0.01"
+"101","TYK",NA,"Normalized Income","-3.68"
+"102","TYK",NA,"Operating Expenses","4.08"
+"103","TYK",NA,"Operating Income","-4.08"
+"104","TYK",NA,"Operating Revenue","0.00"
+"105","TYK",NA,"Other Income/Expense,Net","0.35"
+"106","TYK",NA,"Preferred Stock Dividends","0.00"
+"107","TYK",NA,"Pretax Income","-3.72"
+"108","TYK",NA,"Provision for Income Tax","-0.05"
+"109","TYK",NA,"Salary and Benefit","0.11"
+"110","TYK",NA,"Selling and Marketing Expense","0.20"
+"111","TYK",NA,"Selling,General and Administr...","0.56"
+"112","TYK",NA,"Tax rate for calculations","0.01"
+"113","TYK",NA,"Total Revenue","0.00"
+"114","TYK",NA,"TYK Income Statement 30 June 2016 (AUD)",NA
+"115","TYK",NA,"Assets turnover","-"
+"116","TYK",NA,"Capital expenditure sales ratio","-"
+"117","TYK",NA,"Cash conversion cycle","-"
+"118","TYK",NA,"Days in inventory","-"
+"119","TYK",NA,"Days in payment","-"
+"120","TYK",NA,"Days in sales","-"
+"121","TYK",NA,"FCF net income ratio","-"
+"122","TYK",NA,"FCF sales ratio","-"
+"123","TYK",NA,"Fixed assets turnover","-"
+"124","TYK",NA,"Inventory turnover","-"
+"125","TYK",NA,"Payable turnover","-"
+"126","TYK",NA,"Receivable turnover","-"
+"127","TYK",NA,"ROA","-1.51"
+"128","TYK",NA,"ROE","-1.70"
+"129","TYK",NA,"ROIC","-1.70"
+"130","TYK",NA,"TYK Efficency Ratios (30 June 2016)",NA
+"131","TYK",NA,"Current ratio","2.44"
+"132","TYK",NA,"Debt equity ratio","-"
+"133","TYK",NA,"Debt total capital ratio","-"
+"134","TYK",NA,"Financial leverage","1.31"
+"135","TYK",NA,"Quick ratio","-"
+"136","TYK",NA,"Total debt to equity","-"
+"137","TYK",NA,"TYK Financial Health Ratios (30 June 2016)",NA
+"138","TYK",NA,"Avg gross margin","-"
+"139","TYK",NA,"Avg net profit","-"
+"140","TYK",NA,"Avg post tax margin","-"
+"141","TYK",NA,"Avg pre tax marginr","-"
+"142","TYK",NA,"Avg ret assets","-0.79"
+"143","TYK",NA,"Avg ret commonr","-0.84"
+"144","TYK",NA,"Avg ret invested capital","-0.85"
+"145","TYK",NA,"Growth ann capital spending","-"
+"146","TYK",NA,"Growth ann gross profit","-"
+"147","TYK",NA,"TYK Avearge Growth Ratios Over 5 Years (30 June 2016)",NA
+"148","TYK",NA,"EBIT margin","-"
+"149","TYK",NA,"EBITDA margin","-"
+"150","TYK",NA,"EBT margin","-"
+"151","TYK",NA,"Gross margin","-"
+"152","TYK",NA,"Inc per employee tot ops","-"
+"153","TYK",NA,"Interest coverage","-"
+"154","TYK",NA,"Net margin","-"
+"155","TYK",NA,"Normalized net profit margin","-"
+"156","TYK",NA,"Operating margin","-"
+"157","TYK",NA,"Sales per employee","-"
+"158","TYK",NA,"Tax rate","-"
+"159","TYK",NA,"TYK Profitability Ratios (-)",NA
+"160","TYK",NA,"Book value per share","0.00"
+"161","TYK",NA,"Cash return","-0.52"
+"162","TYK",NA,"CF per share","-0.00"
+"163","TYK",NA,"Div payout 5 year","-"
+"164","TYK",NA,"Div payout tot ops","-"
+"165","TYK",NA,"Div rate","-"
+"166","TYK",NA,"Dividend yield","-"
+"167","TYK",NA,"Growth ann sales per share 5 ye...","-1.00"
+"168","TYK",NA,"Payout ratio","0.00"
+"169","TYK",NA,"Price to book","2.49"
+"170","TYK",NA,"Price to cash flow","-3.25"
+"171","TYK",NA,"Price to EPS","-0.65"
+"172","TYK",NA,"Price to free cash flow","-1.65"
+"173","TYK",NA,"Price to sales","-"
+"174","TYK",NA,"Ratio PE 5 year high","-15.22"
+"175","TYK",NA,"Ratio PE 5 year low","-0.29"
+"176","TYK",NA,"Sales per share","0.00"
+"177","TYK",NA,"Sustainable growth rate","-1.01"
+"178","TYK",NA,"TYK Valuation Ratios (30 June 2016)",NA
+"179","TYK",NA,"Accounts Payable","0.04"
+"180","TYK",NA,"Accounts Receivable,Non-Curre...","0.00"
+"181","TYK",NA,"Accumulated Depreciation","-3,821.00"
+"182","TYK",NA,"Accumulated Gains/ Losses Not...","0.00"
+"183","TYK",NA,"Capital Stock","37.32"
+"184","TYK",NA,"Cash","0.29"
+"185","TYK",NA,"Cash and Cash Equivalents","0.29"
+"186","TYK",NA,"Cash,Cash Equivalents,and Sho...","0.29"
+"187","TYK",NA,"Common Stock","37.32"
+"188","TYK",NA,"Common Stock Equity","0.46"
+"189","TYK",NA,"Current Assets","0.35"
+"190","TYK",NA,"Current Liabilities","0.14"
+"191","TYK",NA,"Gross Property,Plant,and Equi...","0.26"
+"192","TYK",NA,"Invested Capital","0.46"
+"193","TYK",NA,"Investments and Advances","0.00"
+"194","TYK",NA,"Net Property,Plant,and Equipm...","0.26"
+"195","TYK",NA,"Net Tangible Assets","0.46"
+"196","TYK",NA,"Ordinary Shares Number","284.41"
+"197","TYK",NA,"Other Payable","0.10"
+"198","TYK",NA,"Payables","0.14"
+"199","TYK",NA,"Payables and Accrued Expenses","0.14"
+"200","TYK",NA,"Preferred Stock","0.00"
+"201","TYK",NA,"Prepaid Assets and Others","4,601.00"
+"202","TYK",NA,"Receivables","0.05"
+"203","TYK",NA,"Retained Earnings","-36.86"
+"204","TYK",NA,"Short Term Investments","0.00"
+"205","TYK",NA,"Stockholder's Equity","0.46"
+"206","TYK",NA,"Tangible Book Value","0.46"
+"207","TYK",NA,"Total Assets","0.60"
+"208","TYK",NA,"Total Capitalization","0.46"
+"209","TYK",NA,"Total Equity","0.46"
+"210","TYK",NA,"Total Equity","0.46"
+"211","TYK",NA,"Total Liabilities","0.14"
+"212","TYK",NA,"Total Liabilities Inc MI","0.14"
+"213","TYK",NA,"Total Non-Current Assets","0.26"
+"214","TYK",NA,"Total Non-Current Liabilities","0.00"
+"215","TYK",NA,"Total Non-Current Liabilities...","0.00"
+"216","TYK",NA,"TYK Balance Sheet 30 June 2016 (AUD)",NA
+"217","TYK",NA,"Working Capital","0.20"
+"218","TYK",NA,"CapitalExpenditureReported","0.10"
+"219","TYK",NA,"Cash and Cash Equivalents,Beg...","0.10"
+"220","TYK",NA,"Cash and Cash Equivalents,End...","0.29"
+"221","TYK",NA,"Cash Dividends Paid","0.00"
+"222","TYK",NA,"Cash Flow from Financing Acti...","0.13"
+"223","TYK",NA,"Cash Flow from Investing Acti...","0.64"
+"224","TYK",NA,"Cash Flow from Operating Acti...","-0.59"
+"225","TYK",NA,"Change in Cash","0.19"
+"226","TYK",NA,"Effect of Exchange Rate Chang...","0.00"
+"227","TYK",NA,"Free Cash Flow","-0.59"
+"228","TYK",NA,"Issuance of Capital Stock","0.13"
+"229","TYK",NA,"Issuance of Debt","0.00"
+"230","TYK",NA,"Issuance/Payments of Common S...","0.13"
+"231","TYK",NA,"Issuance/Payments of Debt,Net","0.00"
+"232","TYK",NA,"Issuance/Payments of Long Ter...","0.00"
+"233","TYK",NA,"Payments to Settle Long Term ...","0.00"
+"234","TYK",NA,"Proceeds or Issuance of Commo...","0.13"
+"235","TYK",NA,"Proceeds or Issuance of Long ...","0.00"
+"236","TYK",NA,"Purchase of Investments","0.00"
+"237","TYK",NA,"Purchase/Acquisition of Busin...","0.00"
+"238","TYK",NA,"Purchase/Sale of Business,Net","0.00"
+"239","TYK",NA,"Purchase/Sale of Investments,...","0.54"
+"240","TYK",NA,"Repayment of Debt","0.00"
+"241","TYK",NA,"Sale of Business","0.00"
+"242","TYK",NA,"Sale of Investments","0.54"
+"243","TYK",NA,"TYK Cash Flow 30 June 2016 (AUD)",NA
+"244","TYK",NA,"FTSE",NA
+"245","TYK",NA,"FTSE 100",NA
+"246","TYK",NA,"FX",NA
+"247","TYK",NA,"GBPUSD",NA
+"248","TYK",NA,"GKP",NA
+"249","TYK",NA,"Gulf Keyst..",NA
+"250","TYK",NA,"IOF",NA
+"251","TYK",NA,"Iofina",NA
+"252","TYK",NA,"LSE",NA
+"253","TYK",NA,"LSE",NA
+"254","TYK",NA,"LSE",NA
+"255","TYK",NA,"LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..","LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell"
+"256","TYK",NA,"QPP",NA
+"257","TYK",NA,"Quindell",NA
+"258","TYK",NA,"UK Sterlin..",NA
+"259","TYK",NA,"UKX",NA

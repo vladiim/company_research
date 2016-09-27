@@ -1,2 +1,358 @@
-"","ticker","date","name","est","sector","industry","industry_group","marcap","invested_capital","total_equity","total_debt","pretax_income","dividends","roic"
-"1","NCC",NA,NA,NA,NA,"Asset Management",NA,45620,41.09,41.09,NA,4.85,-0.82,0.0980773910927233
+"","ticker","date","variable","value"
+"1","NCC",NA,"Industry name:","Asset Management"
+"2","NCC",NA,"ISIN","AU000000NCC8"
+"3","NCC",NA,"Assets Turnover","6.55"
+"4","NCC",NA,"Book-Value pS","1.17"
+"5","NCC",NA,"Cash Flow pS","0.03"
+"6","NCC",NA,"Cash pS","0.12"
+"7","NCC",NA,"Current Ratio","6.38"
+"8","NCC",NA,"Dividend pS (DPS)","0.08"
+"9","NCC",NA,"Dividend Yield","5.77"
+"10","NCC",NA,"Domestic Sales","-"
+"11","NCC",NA,"Earnings pS (EPS)","0.14"
+"12","NCC",NA,"EBITDA Margin","79.74"
+"13","NCC",NA,"Effective Tax Rate","-"
+"14","NCC",NA,"Foreign Sales","-"
+"15","NCC",NA,"Free Cash Flow pS","0.03"
+"16","NCC",NA,"Gross gearing","18.25"
+"17","NCC",NA,"Gross Profit Margin","83.36"
+"18","NCC",NA,"Interest Cover","224.76"
+"19","NCC",NA,"Latest Shares Outstanding","-"
+"20","NCC",NA,"Leverage Ratio (Assets/Equity)","1.22"
+"21","NCC",NA,"LT Debt/Total Capital","-"
+"22","NCC",NA,"Market Capitalisation","45.79"
+"23","NCC",NA,"NCC KEY FIGURES (at previous day's close)",NA
+"24","NCC",NA,"Net Debt","4.78"
+"25","NCC",NA,"PE Ratio","9.43"
+"26","NCC",NA,"Pre-Tax Profit Margin","79.39"
+"27","NCC",NA,"Research & Devlopment (R&D) as ...","0.00"
+"28","NCC",NA,"Return on Assets (ROA)","0.14"
+"29","NCC",NA,"Return on Capital Invested (ROC...","0.16"
+"30","NCC",NA,"Return on Equity (ROE)","0.16"
+"31","NCC",NA,"Sales per Employee","-"
+"32","NCC",NA,"Selling, General & Adm/tive (SG...","0.57"
+"33","NCC",NA,"Spread","0.01"
+"34","NCC",NA,"Tangible Book-Value pS","0.01"
+"35","NCC",NA,"Total Debt/Equity (Gearing Rati...","-"
+"36","NCC",NA,"Working Capital pS","1.20"
+"37","NCC",NA,"Yesterday's Close","1.30"
+"38","NCC",NA,"1 Month","1.31"
+"39","NCC",NA,"1 Month","1.18"
+"40","NCC",NA,"1 Week","1.31"
+"41","NCC",NA,"1 Week","1.27"
+"42","NCC",NA,"1 Year","1.31"
+"43","NCC",NA,"1 Year","0.94"
+"44","NCC",NA,"3 Months","1.31"
+"45","NCC",NA,"3 Months","1.02"
+"46","NCC",NA,"3 Years","1.31"
+"47","NCC",NA,"3 Years","1.09"
+"48","NCC",NA,"5 Years","1.31"
+"49","NCC",NA,"5 Years","0.98"
+"50","NCC",NA,"6 Months","1.31"
+"51","NCC",NA,"6 Months","1.00"
+"52","NCC",NA,"Period †","High"
+"53","NCC",NA,"Period †","Open"
+"54","NCC",NA,"","1 year"
+"55","NCC",NA,"","LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell
+			
+		
+
+	
+				
+					FTSE
+				
+			
+		
+				
+					UKX
+				
+			
+		
+				FTSE 100
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					IOF
+				
+			
+		
+				Iofina
+			
+		
+
+	
+				
+					FX
+				
+			
+		
+				
+					GBPUSD
+				
+			
+		
+				UK Sterlin..
+			
+		
+			
+
+						
+						Stocks you've viewed will appear in this box, letting you easily return to quotes you've seen previously.Register now to create your own custom streaming stock watchlist."
+"56","NCC",NA,"CFO growth","0.55"
+"57","NCC",NA,"Diluted continuous EPS growth","2.18"
+"58","NCC",NA,"Diluted EPS growth","2.18"
+"59","NCC",NA,"Dividend growth","-"
+"60","NCC",NA,"Equity per share growth","0.10"
+"61","NCC",NA,"FCF growth","0.55"
+"62","NCC",NA,"NCC Growth Ratios (30 June 2014)",NA
+"63","NCC",NA,"Net income cont growth","3.38"
+"64","NCC",NA,"Net income growth","3.38"
+"65","NCC",NA,"Operating income growth","3.64"
+"66","NCC",NA,"Operating revenue growth","3.33"
+"67","NCC",NA,"Revenue growth","3.33"
+"68","NCC",NA,"Basic EPS","0.14"
+"69","NCC",NA,"Basic EPS from Continuing Ope...","0.14"
+"70","NCC",NA,"Basic EPS from Discontinued O...","0.00"
+"71","NCC",NA,"Basic EPS,Continuing and Disc...","0.14"
+"72","NCC",NA,"Basic Weighted Average Shares...","35.23"
+"73","NCC",NA,"Calculated Tax Effect Of Unus...","1,520.84"
+"74","NCC",NA,"Commission Expenses","0.85"
+"75","NCC",NA,"Cost of Revenue","1.28"
+"76","NCC",NA,"Cost of Revenue,Reconciled","1.28"
+"77","NCC",NA,"Diluted EPS","0.10"
+"78","NCC",NA,"Diluted EPS from Continuing O...","0.10"
+"79","NCC",NA,"Diluted EPS from Discontinued...","0.00"
+"80","NCC",NA,"Diluted EPS,Continuing and Di...","0.10"
+"81","NCC",NA,"Diluted Weighted Average Shar...","47.78"
+"82","NCC",NA,"Discontinued Operations","0.00"
+"83","NCC",NA,"Dividend Per Share","0.08"
+"84","NCC",NA,"Earning Before Interest and T...","6.12"
+"85","NCC",NA,"Earning Before Interest Tax D...","6.12"
+"86","NCC",NA,"General and Administrative Ex...","0.04"
+"87","NCC",NA,"Gross Profit","6.39"
+"88","NCC",NA,"Interest and Dividend Income","0.09"
+"89","NCC",NA,"Interest Expense","0.03"
+"90","NCC",NA,"Minority Interest","0.00"
+"91","NCC",NA,"NCC Income Statement 30 June 2014 (AUD)",NA
+"92","NCC",NA,"Net Income","4.85"
+"93","NCC",NA,"Net Income Available to Commo...","4.85"
+"94","NCC",NA,"Net Income from Continuing an...","4.85"
+"95","NCC",NA,"Net Income from Continuing Op...","4.85"
+"96","NCC",NA,"Net Income from Continuing Op...","4.85"
+"97","NCC",NA,"Net Income Including Noncontr...","4.85"
+"98","NCC",NA,"Net Interest Income","0.06"
+"99","NCC",NA,"Non Operating Income","7,500.00"
+"100","NCC",NA,"Normalized Basic EPS","0.14"
+"101","NCC",NA,"Normalized Diluted EPS","0.10"
+"102","NCC",NA,"Normalized Income","4.85"
+"103","NCC",NA,"Operating Expenses","0.31"
+"104","NCC",NA,"Operating Income","6.08"
+"105","NCC",NA,"Operating Revenue","7.67"
+"106","NCC",NA,"Other Income/Expense,Net","7,500.00"
+"107","NCC",NA,"Other Special Charges,Other","3.25"
+"108","NCC",NA,"Preferred Stock Dividends","0.00"
+"109","NCC",NA,"Pretax Income","6.09"
+"110","NCC",NA,"Provision for Income Tax","1.23"
+"111","NCC",NA,"Selling,General and Administr...","0.04"
+"112","NCC",NA,"Tax rate for calculations","0.20"
+"113","NCC",NA,"Total Revenue","7.67"
+"114","NCC",NA,"TotalUnusualItems","7,500.00"
+"115","NCC",NA,"TotalUnusualItemsExcludingGoo...","7,500.00"
+"116","NCC",NA,"Unrealized Gain or Loss","3.25"
+"117","NCC",NA,"Assets turnover","0.22"
+"118","NCC",NA,"Capital expenditure sales ratio","-"
+"119","NCC",NA,"Cash conversion cycle","-"
+"120","NCC",NA,"Days in inventory","-"
+"121","NCC",NA,"Days in payment","235.62"
+"122","NCC",NA,"Days in sales","53.25"
+"123","NCC",NA,"FCF net income ratio","0.21"
+"124","NCC",NA,"FCF sales ratio","0.13"
+"125","NCC",NA,"Fixed assets turnover","-"
+"126","NCC",NA,"Inventory turnover","-"
+"127","NCC",NA,"NCC Efficency Ratios (30 June 2014)",NA
+"128","NCC",NA,"Payable turnover","1.55"
+"129","NCC",NA,"Receivable turnover","6.86"
+"130","NCC",NA,"ROA","0.14"
+"131","NCC",NA,"ROE","0.16"
+"132","NCC",NA,"ROIC","0.16"
+"133","NCC",NA,"Current ratio","6.38"
+"134","NCC",NA,"Debt equity ratio","-"
+"135","NCC",NA,"Debt total capital ratio","-"
+"136","NCC",NA,"Financial leverage","1.22"
+"137","NCC",NA,"NCC Financial Health Ratios (30 June 2014)",NA
+"138","NCC",NA,"Quick ratio","6.38"
+"139","NCC",NA,"Total debt to equity","-"
+"140","NCC",NA,"Avg gross margin","-"
+"141","NCC",NA,"Avg net profit","-"
+"142","NCC",NA,"Avg post tax margin","-"
+"143","NCC",NA,"Avg pre tax marginr","-"
+"144","NCC",NA,"Avg ret assets","-"
+"145","NCC",NA,"Avg ret commonr","-"
+"146","NCC",NA,"Avg ret invested capital","-"
+"147","NCC",NA,"Growth ann capital spending","-"
+"148","NCC",NA,"Growth ann gross profit","-"
+"149","NCC",NA,"NCC Avearge Growth Ratios Over 5 Years (30 June 2014)",NA
+"150","NCC",NA,"EBIT margin","0.80"
+"151","NCC",NA,"EBITDA margin","0.80"
+"152","NCC",NA,"EBT margin","0.79"
+"153","NCC",NA,"Gross margin","0.83"
+"154","NCC",NA,"Inc per employee tot ops","-"
+"155","NCC",NA,"Interest coverage","-"
+"156","NCC",NA,"NCC Profitability Ratios (30 June 2014)",NA
+"157","NCC",NA,"Net margin","0.63"
+"158","NCC",NA,"Normalized net profit margin","0.63"
+"159","NCC",NA,"Operating margin","0.79"
+"160","NCC",NA,"Sales per employee","-"
+"161","NCC",NA,"Tax rate","0.20"
+"162","NCC",NA,"Book value per share","1.17"
+"163","NCC",NA,"Cash return","-"
+"164","NCC",NA,"CF per share","0.02"
+"165","NCC",NA,"Div payout 5 year","-"
+"166","NCC",NA,"Div payout tot ops","0.29"
+"167","NCC",NA,"Div rate","-"
+"168","NCC",NA,"Dividend yield","0.04"
+"169","NCC",NA,"Growth ann sales per share 5 ye...","-"
+"170","NCC",NA,"NCC Valuation Ratios (30 June 2014)",NA
+"171","NCC",NA,"Payout ratio","0.74"
+"172","NCC",NA,"Price to book","0.90"
+"173","NCC",NA,"Price to cash flow","49.75"
+"174","NCC",NA,"Price to EPS","10.33"
+"175","NCC",NA,"Price to free cash flow","49.75"
+"176","NCC",NA,"Price to sales","6.54"
+"177","NCC",NA,"Ratio PE 5 year high","11.42"
+"178","NCC",NA,"Ratio PE 5 year low","9.15"
+"179","NCC",NA,"Sales per share","0.16"
+"180","NCC",NA,"Sustainable growth rate","0.04"
+"181","NCC",NA,"Accounts Payable","1.10"
+"182","NCC",NA,"Accumulated Gains/ Losses Not...","2.18"
+"183","NCC",NA,"Capital Stock","34.33"
+"184","NCC",NA,"Cash","4.39"
+"185","NCC",NA,"Cash and Cash Equivalents","4.39"
+"186","NCC",NA,"Cash,Cash Equivalents,and Sho...","48.63"
+"187","NCC",NA,"Common Stock","34.33"
+"188","NCC",NA,"Common Stock Equity","41.09"
+"189","NCC",NA,"Current Assets","49.91"
+"190","NCC",NA,"Current Liabilities","7.83"
+"191","NCC",NA,"Deferred Liabilities, Non cur...","1.35"
+"192","NCC",NA,"Deferred Liabilities,Current","0.30"
+"193","NCC",NA,"Deferred Non-Current Assets","0.35"
+"194","NCC",NA,"Deferred Taxes,Current Liabil...","0.30"
+"195","NCC",NA,"Deferred Taxes,Non-Current As...","0.35"
+"196","NCC",NA,"Deferred Taxes,Non-Current Li...","1.35"
+"197","NCC",NA,"Invested Capital","41.09"
+"198","NCC",NA,"Investments and Advances","0.00"
+"199","NCC",NA,"NCC Balance Sheet 30 June 2014 (AUD)",NA
+"200","NCC",NA,"Net Tangible Assets","41.09"
+"201","NCC",NA,"Ordinary Shares Number","35.23"
+"202","NCC",NA,"Other Current Liabilities","6.33"
+"203","NCC",NA,"Other Payable","0.09"
+"204","NCC",NA,"Payables","1.19"
+"205","NCC",NA,"Payables and Accrued Expenses","1.19"
+"206","NCC",NA,"Preferred Stock","0.00"
+"207","NCC",NA,"Preferred Stock Equity","0.00"
+"208","NCC",NA,"Receivables","1.28"
+"209","NCC",NA,"Retained Earnings","4.58"
+"210","NCC",NA,"Short Term Investments","44.24"
+"211","NCC",NA,"Stockholder's Equity","41.09"
+"212","NCC",NA,"Tangible Book Value","41.09"
+"213","NCC",NA,"Total Assets","50.27"
+"214","NCC",NA,"Total Capitalization","41.09"
+"215","NCC",NA,"Total Equity","41.09"
+"216","NCC",NA,"Total Equity","41.09"
+"217","NCC",NA,"Total Liabilities","9.17"
+"218","NCC",NA,"Total Liabilities Inc MI","9.17"
+"219","NCC",NA,"Total Non-Current Assets","0.35"
+"220","NCC",NA,"Total Non-Current Liabilities","1.35"
+"221","NCC",NA,"Total Non-Current Liabilities...","1.35"
+"222","NCC",NA,"Working Capital","42.08"
+"223","NCC",NA,"Cash and Cash Equivalents,Beg...","0.12"
+"224","NCC",NA,"Cash and Cash Equivalents,End...","4.39"
+"225","NCC",NA,"Cash Dividends Paid","-0.82"
+"226","NCC",NA,"Cash Flow from Financing Acti...","17.87"
+"227","NCC",NA,"Cash Flow from Investing Acti...","-14.60"
+"228","NCC",NA,"Cash Flow from Operating Acti...","1.01"
+"229","NCC",NA,"Change in Cash","4.28"
+"230","NCC",NA,"Effect of Exchange Rate Chang...","0.00"
+"231","NCC",NA,"Free Cash Flow","1.01"
+"232","NCC",NA,"Issuance of Capital Stock","18.12"
+"233","NCC",NA,"Issuance of Debt","0.00"
+"234","NCC",NA,"Issuance/Payments of Common S...","18.12"
+"235","NCC",NA,"Issuance/Payments of Debt,Net","0.00"
+"236","NCC",NA,"Issuance/Payments of Long Ter...","0.00"
+"237","NCC",NA,"NCC Cash Flow 30 June 2014 (AUD)",NA
+"238","NCC",NA,"Other Financing Changes, Net","0.57"
+"239","NCC",NA,"Payments to Settle Long Term ...","0.00"
+"240","NCC",NA,"Proceeds or Issuance of Commo...","18.12"
+"241","NCC",NA,"Proceeds or Issuance of Long ...","0.00"
+"242","NCC",NA,"Purchase of Investments","-109.83"
+"243","NCC",NA,"Purchase/Acquisition of Busin...","0.00"
+"244","NCC",NA,"Purchase/Sale of Business,Net","0.00"
+"245","NCC",NA,"Purchase/Sale of Investments,...","-14.60"
+"246","NCC",NA,"Repayment of Debt","0.00"
+"247","NCC",NA,"Sale of Business","0.00"
+"248","NCC",NA,"Sale of Investments","95.23"
+"249","NCC",NA,"FTSE",NA
+"250","NCC",NA,"FTSE 100",NA
+"251","NCC",NA,"FX",NA
+"252","NCC",NA,"GBPUSD",NA
+"253","NCC",NA,"GKP",NA
+"254","NCC",NA,"Gulf Keyst..",NA
+"255","NCC",NA,"IOF",NA
+"256","NCC",NA,"Iofina",NA
+"257","NCC",NA,"LSE",NA
+"258","NCC",NA,"LSE",NA
+"259","NCC",NA,"LSE",NA
+"260","NCC",NA,"LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..","LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell"
+"261","NCC",NA,"QPP",NA
+"262","NCC",NA,"Quindell",NA
+"263","NCC",NA,"UK Sterlin..",NA
+"264","NCC",NA,"UKX",NA

@@ -1,2 +1,359 @@
-"","ticker","date","name","est","sector","industry","industry_group","marcap","invested_capital","total_equity","total_debt","pretax_income","dividends","roic"
-"1","EMH",2015-06-30,NA,NA,"Basic Materials","Industrial Metals & Minerals",NA,25240,4.17,4.14,0.02,-0.67,NA,NA
+"","ticker","date","variable","value"
+"1","EMH",2015-06-30,"Address","11 Ventnor Avenue  Suite 12, Level 1, 6005"
+"2","EMH",2015-06-30,"Auditor:","Stantons International"
+"3","EMH",2015-06-30,"City/Country:","West Perth, Australia"
+"4","EMH",2015-06-30,"Company sector name:","Basic Materials"
+"5","EMH",2015-06-30,"End of fiscal year:","30 June 2015"
+"6","EMH",2015-06-30,"Industry group name","Metals & Mining"
+"7","EMH",2015-06-30,"Industry name:","Industrial Metals & Minerals"
+"8","EMH",2015-06-30,"Web address:","http://www.europeanmet.com"
+"9","EMH",2015-06-30,"Assets Turnover","-"
+"10","EMH",2015-06-30,"Book-Value pS","0.01"
+"11","EMH",2015-06-30,"Cash Flow pS","-0.01"
+"12","EMH",2015-06-30,"Cash pS","0.02"
+"13","EMH",2015-06-30,"Current Ratio","4.23"
+"14","EMH",2015-06-30,"Dividend pS (DPS)","-"
+"15","EMH",2015-06-30,"Dividend Yield","-"
+"16","EMH",2015-06-30,"Domestic Sales","-"
+"17","EMH",2015-06-30,"Earnings pS (EPS)","-0.01"
+"18","EMH",2015-06-30,"EBITDA Margin","-"
+"19","EMH",2015-06-30,"Effective Tax Rate","-"
+"20","EMH",2015-06-30,"EMH KEY FIGURES (at previous day's close)",NA
+"21","EMH",2015-06-30,"Foreign Sales","-"
+"22","EMH",2015-06-30,"Free Cash Flow pS","-0.02"
+"23","EMH",2015-06-30,"Gross gearing","5.15"
+"24","EMH",2015-06-30,"Gross Profit Margin","-"
+"25","EMH",2015-06-30,"Interest Cover","-"
+"26","EMH",2015-06-30,"Latest Shares Outstanding","121.42"
+"27","EMH",2015-06-30,"Leverage Ratio (Assets/Equity)","1.05"
+"28","EMH",2015-06-30,"LT Debt/Total Capital","-"
+"29","EMH",2015-06-30,"Market Capitalisation","25.24"
+"30","EMH",2015-06-30,"Net Debt","-0.66"
+"31","EMH",2015-06-30,"PE Ratio","-38.00"
+"32","EMH",2015-06-30,"Pre-Tax Profit Margin","-"
+"33","EMH",2015-06-30,"Research & Devlopment (R&D) as ...","-"
+"34","EMH",2015-06-30,"Return on Assets (ROA)","-0.18"
+"35","EMH",2015-06-30,"Return on Capital Invested (ROC...","-0.19"
+"36","EMH",2015-06-30,"Return on Equity (ROE)","-0.19"
+"37","EMH",2015-06-30,"Sales per Employee","-"
+"38","EMH",2015-06-30,"Selling, General & Adm/tive (SG...","-"
+"39","EMH",2015-06-30,"Spread","0.02"
+"40","EMH",2015-06-30,"Tangible Book-Value pS","0.00"
+"41","EMH",2015-06-30,"Total Debt/Equity (Gearing Rati...","0.01"
+"42","EMH",2015-06-30,"Working Capital pS","0.08"
+"43","EMH",2015-06-30,"Yesterday's Close","0.48"
+"44","EMH",2015-06-30,"1 Month","0.65"
+"45","EMH",2015-06-30,"1 Month","0.35"
+"46","EMH",2015-06-30,"1 Week","0.60"
+"47","EMH",2015-06-30,"1 Year","0.65"
+"48","EMH",2015-06-30,"1 Year","0.12"
+"49","EMH",2015-06-30,"3 Months","0.65"
+"50","EMH",2015-06-30,"3 Months","0.41"
+"51","EMH",2015-06-30,"3 Years","0.65"
+"52","EMH",2015-06-30,"3 Years","0.15"
+"53","EMH",2015-06-30,"5 Years","0.65"
+"54","EMH",2015-06-30,"5 Years","0.15"
+"55","EMH",2015-06-30,"6 Months","0.65"
+"56","EMH",2015-06-30,"6 Months","0.17"
+"57","EMH",2015-06-30,"Period †","High"
+"58","EMH",2015-06-30,"Period †","Open"
+"59","EMH",2015-06-30,"","1 year"
+"60","EMH",2015-06-30,"","LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell
+			
+		
+
+	
+				
+					FTSE
+				
+			
+		
+				
+					UKX
+				
+			
+		
+				FTSE 100
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					IOF
+				
+			
+		
+				Iofina
+			
+		
+
+	
+				
+					FX
+				
+			
+		
+				
+					GBPUSD
+				
+			
+		
+				UK Sterlin..
+			
+		
+			
+
+						
+						Stocks you've viewed will appear in this box, letting you easily return to quotes you've seen previously.Register now to create your own custom streaming stock watchlist."
+"61","EMH",2015-06-30,"CFO growth","-"
+"62","EMH",2015-06-30,"Diluted continuous EPS growth","-"
+"63","EMH",2015-06-30,"Diluted EPS growth","-"
+"64","EMH",2015-06-30,"Dividend growth","-"
+"65","EMH",2015-06-30,"EMH Growth Ratios (30 June 2015)",NA
+"66","EMH",2015-06-30,"Equity per share growth","-0.30"
+"67","EMH",2015-06-30,"FCF growth","-"
+"68","EMH",2015-06-30,"Net income cont growth","-"
+"69","EMH",2015-06-30,"Net income growth","-"
+"70","EMH",2015-06-30,"Operating income growth","-"
+"71","EMH",2015-06-30,"Operating revenue growth","-"
+"72","EMH",2015-06-30,"Revenue growth","-"
+"73","EMH",2015-06-30,"Basic EPS","-0.01"
+"74","EMH",2015-06-30,"Basic EPS from Continuing Ope...","-0.01"
+"75","EMH",2015-06-30,"Basic EPS,Continuing and Disc...","-0.01"
+"76","EMH",2015-06-30,"Basic Weighted Average Shares...","53.14"
+"77","EMH",2015-06-30,"Calculated Tax Effect Of Unus...","0.00"
+"78","EMH",2015-06-30,"Depreciation","2,333.00"
+"79","EMH",2015-06-30,"Depreciation","2,346.00"
+"80","EMH",2015-06-30,"Depreciation and Amortization","2,333.00"
+"81","EMH",2015-06-30,"Depreciation and Amortization","2,346.00"
+"82","EMH",2015-06-30,"Depreciation,Reconciled","2,346.00"
+"83","EMH",2015-06-30,"Diluted EPS","-0.01"
+"84","EMH",2015-06-30,"Diluted EPS from Continuing O...","-0.01"
+"85","EMH",2015-06-30,"Diluted EPS,Continuing and Di...","-0.01"
+"86","EMH",2015-06-30,"Diluted Weighted Average Shar...","53.14"
+"87","EMH",2015-06-30,"Earning Before Interest and T...","-0.67"
+"88","EMH",2015-06-30,"Earning Before Interest Tax D...","-0.67"
+"89","EMH",2015-06-30,"EMH Income Statement 30 June 2015 (AUD)",NA
+"90","EMH",2015-06-30,"General and Administrative Ex...","0.32"
+"91","EMH",2015-06-30,"Interest and Dividend Income","6,917.00"
+"92","EMH",2015-06-30,"Interest Income-Non Operating","6,917.00"
+"93","EMH",2015-06-30,"Interest Income/Expense,Net-N...","6,917.00"
+"94","EMH",2015-06-30,"Miscellaneous Other Operating...","0.02"
+"95","EMH",2015-06-30,"Net Income","-0.67"
+"96","EMH",2015-06-30,"Net Income Available to Commo...","-0.67"
+"97","EMH",2015-06-30,"Net Income from Continuing an...","-0.67"
+"98","EMH",2015-06-30,"Net Income from Continuing Op...","-0.67"
+"99","EMH",2015-06-30,"Net Income from Continuing Op...","-0.67"
+"100","EMH",2015-06-30,"Net Income Including Noncontr...","-0.67"
+"101","EMH",2015-06-30,"Net Interest Income","6,917.00"
+"102","EMH",2015-06-30,"Non Operating Expense","6,917.00"
+"103","EMH",2015-06-30,"Normalized Basic EPS","-0.01"
+"104","EMH",2015-06-30,"Normalized Diluted EPS","-0.01"
+"105","EMH",2015-06-30,"Normalized Income","-0.67"
+"106","EMH",2015-06-30,"Operating Expenses","0.70"
+"107","EMH",2015-06-30,"Operating Income","-0.67"
+"108","EMH",2015-06-30,"Other Operating Expenses","0.19"
+"109","EMH",2015-06-30,"Other Operating Income, Total","0.02"
+"110","EMH",2015-06-30,"Other Staff Costs","0.22"
+"111","EMH",2015-06-30,"Pretax Income","-0.67"
+"112","EMH",2015-06-30,"Provision for Income Tax","0.00"
+"113","EMH",2015-06-30,"Rent and Landing Fees","0.02"
+"114","EMH",2015-06-30,"Selling,General and Administr...","0.32"
+"115","EMH",2015-06-30,"Share Based Payments","0.00"
+"116","EMH",2015-06-30,"Staff Costs","0.22"
+"117","EMH",2015-06-30,"Tax rate for calculations","0.00"
+"118","EMH",2015-06-30,"Assets turnover","-"
+"119","EMH",2015-06-30,"Capital expenditure sales ratio","-"
+"120","EMH",2015-06-30,"Cash conversion cycle","-"
+"121","EMH",2015-06-30,"Days in inventory","-"
+"122","EMH",2015-06-30,"Days in payment","-"
+"123","EMH",2015-06-30,"Days in sales","-"
+"124","EMH",2015-06-30,"EMH Efficency Ratios (30 June 2015)",NA
+"125","EMH",2015-06-30,"FCF net income ratio","-"
+"126","EMH",2015-06-30,"FCF sales ratio","-"
+"127","EMH",2015-06-30,"Fixed assets turnover","-"
+"128","EMH",2015-06-30,"Inventory turnover","-"
+"129","EMH",2015-06-30,"Payable turnover","-"
+"130","EMH",2015-06-30,"Receivable turnover","-"
+"131","EMH",2015-06-30,"ROA","-0.18"
+"132","EMH",2015-06-30,"ROE","-0.19"
+"133","EMH",2015-06-30,"ROIC","-0.19"
+"134","EMH",2015-06-30,"Current ratio","4.23"
+"135","EMH",2015-06-30,"Debt equity ratio","-"
+"136","EMH",2015-06-30,"Debt total capital ratio","-"
+"137","EMH",2015-06-30,"EMH Financial Health Ratios (30 June 2015)",NA
+"138","EMH",2015-06-30,"Financial leverage","1.05"
+"139","EMH",2015-06-30,"Quick ratio","3.96"
+"140","EMH",2015-06-30,"Total debt to equity","0.01"
+"141","EMH",2015-06-30,"Avg gross margin","-"
+"142","EMH",2015-06-30,"Avg net profit","-"
+"143","EMH",2015-06-30,"Avg post tax margin","-"
+"144","EMH",2015-06-30,"Avg pre tax marginr","-"
+"145","EMH",2015-06-30,"Avg ret assets","-"
+"146","EMH",2015-06-30,"Avg ret commonr","-"
+"147","EMH",2015-06-30,"Avg ret invested capital","-"
+"148","EMH",2015-06-30,"EMH Avearge Growth Ratios Over 5 Years (30 June 2015)",NA
+"149","EMH",2015-06-30,"Growth ann capital spending","-"
+"150","EMH",2015-06-30,"Growth ann gross profit","-"
+"151","EMH",2015-06-30,"EBIT margin","-"
+"152","EMH",2015-06-30,"EBITDA margin","-"
+"153","EMH",2015-06-30,"EBT margin","-"
+"154","EMH",2015-06-30,"EMH Profitability Ratios (-)",NA
+"155","EMH",2015-06-30,"Gross margin","-"
+"156","EMH",2015-06-30,"Inc per employee tot ops","-"
+"157","EMH",2015-06-30,"Interest coverage","-"
+"158","EMH",2015-06-30,"Net margin","-"
+"159","EMH",2015-06-30,"Normalized net profit margin","-"
+"160","EMH",2015-06-30,"Operating margin","-"
+"161","EMH",2015-06-30,"Sales per employee","-"
+"162","EMH",2015-06-30,"Tax rate","-"
+"163","EMH",2015-06-30,"Book value per share","0.05"
+"164","EMH",2015-06-30,"Cash return","-0.12"
+"165","EMH",2015-06-30,"CF per share","-0.02"
+"166","EMH",2015-06-30,"Div payout 5 year","-"
+"167","EMH",2015-06-30,"Div payout tot ops","-"
+"168","EMH",2015-06-30,"Div rate","-"
+"169","EMH",2015-06-30,"Dividend yield","-"
+"170","EMH",2015-06-30,"EMH Valuation Ratios (30 June 2015)",NA
+"171","EMH",2015-06-30,"Growth ann sales per share 5 ye...","-"
+"172","EMH",2015-06-30,"Payout ratio","0.00"
+"173","EMH",2015-06-30,"Price to book","2.68"
+"174","EMH",2015-06-30,"Price to cash flow","-8.63"
+"175","EMH",2015-06-30,"Price to EPS","-5.34"
+"176","EMH",2015-06-30,"Price to free cash flow","-4.69"
+"177","EMH",2015-06-30,"Price to sales","-"
+"178","EMH",2015-06-30,"Ratio PE 5 year high","-32.08"
+"179","EMH",2015-06-30,"Ratio PE 5 year low","-1.58"
+"180","EMH",2015-06-30,"Sales per share","-"
+"181","EMH",2015-06-30,"Sustainable growth rate","-0.34"
+"182","EMH",2015-06-30,"Accounts Payable","0.18"
+"183","EMH",2015-06-30,"Accumulated Depreciation","0.00"
+"184","EMH",2015-06-30,"Capital Stock","6.79"
+"185","EMH",2015-06-30,"Cash and Cash Equivalents","0.89"
+"186","EMH",2015-06-30,"Cash,Cash Equivalents,and Sho...","0.89"
+"187","EMH",2015-06-30,"Common Stock Equity","4.14"
+"188","EMH",2015-06-30,"Current Assets","0.95"
+"189","EMH",2015-06-30,"Current Debt","0.02"
+"190","EMH",2015-06-30,"Current Debt and Capital Leas...","0.02"
+"191","EMH",2015-06-30,"Current Liabilities","0.22"
+"192","EMH",2015-06-30,"EMH Balance Sheet 30 June 2015 (AUD)",NA
+"193","EMH",2015-06-30,"Financial Liabilities, Curren...","0.02"
+"194","EMH",2015-06-30,"Goodwill and Other Intangible...","3.42"
+"195","EMH",2015-06-30,"Gross Property,Plant,and Equi...","488.00"
+"196","EMH",2015-06-30,"Invested Capital","4.17"
+"197","EMH",2015-06-30,"Net Property,Plant,and Equipm...","488.00"
+"198","EMH",2015-06-30,"Net Tangible Assets","0.73"
+"199","EMH",2015-06-30,"Ordinary Shares Number","75.14"
+"200","EMH",2015-06-30,"Other Intangible Assets","3.42"
+"201","EMH",2015-06-30,"Other Loans","0.02"
+"202","EMH",2015-06-30,"Other Receivables","374.00"
+"203","EMH",2015-06-30,"Other Reserves","0.22"
+"204","EMH",2015-06-30,"Payables","0.18"
+"205","EMH",2015-06-30,"Prepaid Assets and Others","0.03"
+"206","EMH",2015-06-30,"Retained Earnings","-2.87"
+"207","EMH",2015-06-30,"Stockholder's Equity","4.14"
+"208","EMH",2015-06-30,"Tangible Book Value","0.73"
+"209","EMH",2015-06-30,"Taxes Receivable","0.03"
+"210","EMH",2015-06-30,"Total Assets","4.37"
+"211","EMH",2015-06-30,"Total Capitalization","4.14"
+"212","EMH",2015-06-30,"Total Debt","0.02"
+"213","EMH",2015-06-30,"Total Equity","4.14"
+"214","EMH",2015-06-30,"Total Equity","4.14"
+"215","EMH",2015-06-30,"Total Liabilities","0.22"
+"216","EMH",2015-06-30,"Total Liabilities Inc MI","0.22"
+"217","EMH",2015-06-30,"Total Non-Current Assets","3.42"
+"218","EMH",2015-06-30,"Total Non-Current Liabilities","0.00"
+"219","EMH",2015-06-30,"Total Non-Current Liabilities...","0.00"
+"220","EMH",2015-06-30,"Trade and Other Receivables, ...","374.00"
+"221","EMH",2015-06-30,"Working Capital","0.73"
+"222","EMH",2015-06-30,"Capital Expenditure","-0.57"
+"223","EMH",2015-06-30,"Cash and Cash Equivalents,Beg...","0.38"
+"224","EMH",2015-06-30,"Cash and Cash Equivalents,End...","0.89"
+"225","EMH",2015-06-30,"Cash Flow from Financing Acti...","1.76"
+"226","EMH",2015-06-30,"Cash Flow from Investing Acti...","-0.57"
+"227","EMH",2015-06-30,"Cash Flow from Operating Acti...","-0.68"
+"228","EMH",2015-06-30,"Change in Cash","0.51"
+"229","EMH",2015-06-30,"Change in Other Current Asset...","8,629.00"
+"230","EMH",2015-06-30,"Change in Payables","-0.03"
+"231","EMH",2015-06-30,"Change in Receivables","1,303.00"
+"232","EMH",2015-06-30,"Changes in Working Capital","-0.02"
+"233","EMH",2015-06-30,"EMH Cash Flow 30 June 2015 (AUD)",NA
+"234","EMH",2015-06-30,"Free Cash Flow","-1.25"
+"235","EMH",2015-06-30,"Gain/Loss on Sale of Property...","0.00"
+"236","EMH",2015-06-30,"Impairment Loss/Reversal Reco...","0.00"
+"237","EMH",2015-06-30,"Issuance of Capital Stock","1.84"
+"238","EMH",2015-06-30,"Issuance/Payments of Common S...","1.84"
+"239","EMH",2015-06-30,"Issue Expenses","-0.08"
+"240","EMH",2015-06-30,"Net Foreign Currency Exchange...","-2,970.00"
+"241","EMH",2015-06-30,"Other Non-Cash Items","0.00"
+"242","EMH",2015-06-30,"Proceeds or Issuance of Commo...","1.84"
+"243","EMH",2015-06-30,"Profit on Disposals","0.00"
+"244","EMH",2015-06-30,"Purchase of Intangibles","-0.57"
+"245","EMH",2015-06-30,"Purchase/Sale of Intangibles,...","-0.57"
+"246","EMH",2015-06-30,"Purchase/Sale of Investments,...","0.00"
+"247","EMH",2015-06-30,"Sale of Investments","0.00"
+"248","EMH",2015-06-30,"Stock-Based Compensation","0.00"
+"249","EMH",2015-06-30,"Total Adjustments for Non-Cas...","-624.00"
+"250","EMH",2015-06-30,"FTSE",NA
+"251","EMH",2015-06-30,"FTSE 100",NA
+"252","EMH",2015-06-30,"FX",NA
+"253","EMH",2015-06-30,"GBPUSD",NA
+"254","EMH",2015-06-30,"GKP",NA
+"255","EMH",2015-06-30,"Gulf Keyst..",NA
+"256","EMH",2015-06-30,"IOF",NA
+"257","EMH",2015-06-30,"Iofina",NA
+"258","EMH",2015-06-30,"LSE",NA
+"259","EMH",2015-06-30,"LSE",NA
+"260","EMH",2015-06-30,"LSE",NA
+"261","EMH",2015-06-30,"LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..","LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell"
+"262","EMH",2015-06-30,"QPP",NA
+"263","EMH",2015-06-30,"Quindell",NA
+"264","EMH",2015-06-30,"UK Sterlin..",NA
+"265","EMH",2015-06-30,"UKX",NA

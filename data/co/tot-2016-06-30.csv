@@ -1,2 +1,356 @@
-"","ticker","date","name","est","sector","industry","industry_group","marcap","invested_capital","total_equity","total_debt","pretax_income","dividends","roic"
-"1","TOT",2016-06-30,NA,NA,NA,NA,NA,84040,40.8,40.8,NA,5.9,-3.78,0.0519607843137255
+"","ticker","date","variable","value"
+"1","TOT",2016-06-30,"Doing business in:","Australia (AU)"
+"2","TOT",2016-06-30,"End of fiscal year:","30 June 2016"
+"3","TOT",2016-06-30,"Place of incorporation:","Australia (AU)"
+"4","TOT",2016-06-30,"Tel.:","+61 284058866"
+"5","TOT",2016-06-30,"Trading currency:","AUD"
+"6","TOT",2016-06-30,"Web address:","http://www.360capital.com.au"
+"7","TOT",2016-06-30,"Year established:","2014"
+"8","TOT",2016-06-30,"Assets Turnover","10.88"
+"9","TOT",2016-06-30,"Book-Value pS","0.57"
+"10","TOT",2016-06-30,"Cash Flow pS","0.03"
+"11","TOT",2016-06-30,"Cash pS","0.02"
+"12","TOT",2016-06-30,"Current Ratio","4.84"
+"13","TOT",2016-06-30,"Dividend pS (DPS)","0.07"
+"14","TOT",2016-06-30,"Dividend Yield","6.25"
+"15","TOT",2016-06-30,"Domestic Sales","-"
+"16","TOT",2016-06-30,"Earnings pS (EPS)","0.33"
+"17","TOT",2016-06-30,"EBITDA Margin","52.13"
+"18","TOT",2016-06-30,"Effective Tax Rate","-"
+"19","TOT",2016-06-30,"Foreign Sales","-"
+"20","TOT",2016-06-30,"Free Cash Flow pS","0.03"
+"21","TOT",2016-06-30,"Gross gearing","1.29"
+"22","TOT",2016-06-30,"Gross Profit Margin","73.21"
+"23","TOT",2016-06-30,"Interest Cover","-"
+"24","TOT",2016-06-30,"Latest Shares Outstanding","30.66"
+"25","TOT",2016-06-30,"Leverage Ratio (Assets/Equity)","1.01"
+"26","TOT",2016-06-30,"LT Debt/Total Capital","-"
+"27","TOT",2016-06-30,"Market Capitalisation","84.04"
+"28","TOT",2016-06-30,"Net Debt","-0.56"
+"29","TOT",2016-06-30,"PE Ratio","3.57"
+"30","TOT",2016-06-30,"Pre-Tax Profit Margin","310.74"
+"31","TOT",2016-06-30,"Research & Devlopment (R&D) as ...","0.00"
+"32","TOT",2016-06-30,"Return on Assets (ROA)","0.13"
+"33","TOT",2016-06-30,"Return on Capital Invested (ROC...","0.13"
+"34","TOT",2016-06-30,"Return on Equity (ROE)","0.13"
+"35","TOT",2016-06-30,"Sales per Employee","-"
+"36","TOT",2016-06-30,"Selling, General & Adm/tive (SG...","14.37"
+"37","TOT",2016-06-30,"Spread","0.01"
+"38","TOT",2016-06-30,"Tangible Book-Value pS","0.54"
+"39","TOT",2016-06-30,"TOT KEY FIGURES (at previous day's close)",NA
+"40","TOT",2016-06-30,"Total Debt/Equity (Gearing Rati...","-"
+"41","TOT",2016-06-30,"Working Capital pS","0.57"
+"42","TOT",2016-06-30,"Yesterday's Close","1.17"
+"43","TOT",2016-06-30,"1 Month","1.18"
+"44","TOT",2016-06-30,"1 Week","1.18"
+"45","TOT",2016-06-30,"1 Year","1.25"
+"46","TOT",2016-06-30,"1 Year","1.08"
+"47","TOT",2016-06-30,"3 Months","1.25"
+"48","TOT",2016-06-30,"3 Months","1.14"
+"49","TOT",2016-06-30,"3 Years","1.35"
+"50","TOT",2016-06-30,"5 Years","1.35"
+"51","TOT",2016-06-30,"6 Months","1.25"
+"52","TOT",2016-06-30,"6 Months","1.13"
+"53","TOT",2016-06-30,"Period †","High"
+"54","TOT",2016-06-30,"Period †","Open"
+"55","TOT",2016-06-30,"","1 year"
+"56","TOT",2016-06-30,"","LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell
+			
+		
+
+	
+				
+					FTSE
+				
+			
+		
+				
+					UKX
+				
+			
+		
+				FTSE 100
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					IOF
+				
+			
+		
+				Iofina
+			
+		
+
+	
+				
+					FX
+				
+			
+		
+				
+					GBPUSD
+				
+			
+		
+				UK Sterlin..
+			
+		
+			
+
+						
+						Stocks you've viewed will appear in this box, letting you easily return to quotes you've seen previously.Register now to create your own custom streaming stock watchlist."
+"57","TOT",2016-06-30,"CFO growth","0.35"
+"58","TOT",2016-06-30,"Diluted continuous EPS growth","-"
+"59","TOT",2016-06-30,"Diluted EPS growth","-"
+"60","TOT",2016-06-30,"Dividend growth","1.60"
+"61","TOT",2016-06-30,"Equity per share growth","0.09"
+"62","TOT",2016-06-30,"FCF growth","0.35"
+"63","TOT",2016-06-30,"Net income cont growth","-"
+"64","TOT",2016-06-30,"Net income growth","-"
+"65","TOT",2016-06-30,"Operating income growth","-"
+"66","TOT",2016-06-30,"Operating revenue growth","-0.14"
+"67","TOT",2016-06-30,"Revenue growth","-0.14"
+"68","TOT",2016-06-30,"TOT Growth Ratios (30 June 2016)",NA
+"69","TOT",2016-06-30,"Basic EPS","0.33"
+"70","TOT",2016-06-30,"Basic EPS from Continuing Ope...","0.33"
+"71","TOT",2016-06-30,"Basic EPS from Discontinued O...","0.00"
+"72","TOT",2016-06-30,"Basic EPS,Continuing and Disc...","0.33"
+"73","TOT",2016-06-30,"Basic Weighted Average Shares...","71.83"
+"74","TOT",2016-06-30,"Calculated Tax Effect Of Unus...","2.11"
+"75","TOT",2016-06-30,"Cost of Revenue","1.02"
+"76","TOT",2016-06-30,"Cost of Revenue,Reconciled","1.02"
+"77","TOT",2016-06-30,"Diluted EPS","0.33"
+"78","TOT",2016-06-30,"Diluted EPS from Continuing O...","0.16"
+"79","TOT",2016-06-30,"Diluted EPS from Discontinued...","0.00"
+"80","TOT",2016-06-30,"Diluted EPS,Continuing and Di...","0.33"
+"81","TOT",2016-06-30,"Diluted Weighted Average Shar...","35.91"
+"82","TOT",2016-06-30,"Discontinued Operations","0.00"
+"83","TOT",2016-06-30,"Dividend Per Share","0.07"
+"84","TOT",2016-06-30,"Earning Before Interest and T...","1.98"
+"85","TOT",2016-06-30,"Earning Before Interest Tax D...","1.98"
+"86","TOT",2016-06-30,"General and Administrative Ex...","0.55"
+"87","TOT",2016-06-30,"Gross Profit","2.78"
+"88","TOT",2016-06-30,"Interest and Dividend Income","0.40"
+"89","TOT",2016-06-30,"Interest Income-Non Operating","0.40"
+"90","TOT",2016-06-30,"Interest Income/Expense,Net-N...","0.40"
+"91","TOT",2016-06-30,"Minority Interest","0.00"
+"92","TOT",2016-06-30,"Net Income","5.90"
+"93","TOT",2016-06-30,"Net Income Available to Commo...","5.90"
+"94","TOT",2016-06-30,"Net Income from Continuing an...","5.90"
+"95","TOT",2016-06-30,"Net Income from Continuing Op...","5.90"
+"96","TOT",2016-06-30,"Net Income from Continuing Op...","5.90"
+"97","TOT",2016-06-30,"Net Income Including Noncontr...","11.81"
+"98","TOT",2016-06-30,"Net Interest Income","0.40"
+"99","TOT",2016-06-30,"Non Operating Expense","0.40"
+"100","TOT",2016-06-30,"Non Operating Income","7.04"
+"101","TOT",2016-06-30,"Normalized Basic EPS","0.26"
+"102","TOT",2016-06-30,"Normalized Diluted EPS","0.03"
+"103","TOT",2016-06-30,"Normalized Income","0.97"
+"104","TOT",2016-06-30,"Operating Expenses","0.80"
+"105","TOT",2016-06-30,"Operating Income","1.98"
+"106","TOT",2016-06-30,"Operating Revenue","3.80"
+"107","TOT",2016-06-30,"Other Income/Expense,Net","9.43"
+"108","TOT",2016-06-30,"Other Special Charges,Other","-2.38"
+"109","TOT",2016-06-30,"Preferred Stock Dividends","0.00"
+"110","TOT",2016-06-30,"Pretax Income","11.81"
+"111","TOT",2016-06-30,"Provision for Income Tax","5.90"
+"112","TOT",2016-06-30,"Selling,General and Administr...","0.55"
+"113","TOT",2016-06-30,"Tax rate for calculations","0.30"
+"114","TOT",2016-06-30,"TOT Income Statement 30 June 2016 (AUD)",NA
+"115","TOT",2016-06-30,"Total Revenue","3.80"
+"116","TOT",2016-06-30,"TotalUnusualItems","7.04"
+"117","TOT",2016-06-30,"TotalUnusualItemsExcludingGoo...","7.04"
+"118","TOT",2016-06-30,"Unrealized Gain or Loss","7.04"
+"119","TOT",2016-06-30,"Assets turnover","0.08"
+"120","TOT",2016-06-30,"Capital expenditure sales ratio","-"
+"121","TOT",2016-06-30,"Cash conversion cycle","-"
+"122","TOT",2016-06-30,"Days in inventory","-"
+"123","TOT",2016-06-30,"Days in payment","174.61"
+"124","TOT",2016-06-30,"Days in sales","83.52"
+"125","TOT",2016-06-30,"FCF net income ratio","0.37"
+"126","TOT",2016-06-30,"FCF sales ratio","0.58"
+"127","TOT",2016-06-30,"Fixed assets turnover","-"
+"128","TOT",2016-06-30,"Inventory turnover","-"
+"129","TOT",2016-06-30,"Payable turnover","2.09"
+"130","TOT",2016-06-30,"Receivable turnover","4.37"
+"131","TOT",2016-06-30,"ROA","0.13"
+"132","TOT",2016-06-30,"ROE","0.13"
+"133","TOT",2016-06-30,"ROIC","0.13"
+"134","TOT",2016-06-30,"TOT Efficency Ratios (30 June 2016)",NA
+"135","TOT",2016-06-30,"Current ratio","4.84"
+"136","TOT",2016-06-30,"Debt equity ratio","-"
+"137","TOT",2016-06-30,"Debt total capital ratio","-"
+"138","TOT",2016-06-30,"Financial leverage","1.01"
+"139","TOT",2016-06-30,"Quick ratio","4.69"
+"140","TOT",2016-06-30,"TOT Financial Health Ratios (30 June 2016)",NA
+"141","TOT",2016-06-30,"Total debt to equity","-"
+"142","TOT",2016-06-30,"Avg gross margin","-"
+"143","TOT",2016-06-30,"Avg net profit","-"
+"144","TOT",2016-06-30,"Avg post tax margin","-"
+"145","TOT",2016-06-30,"Avg pre tax marginr","-"
+"146","TOT",2016-06-30,"Avg ret assets","-"
+"147","TOT",2016-06-30,"Avg ret commonr","-"
+"148","TOT",2016-06-30,"Avg ret invested capital","-"
+"149","TOT",2016-06-30,"Growth ann capital spending","-"
+"150","TOT",2016-06-30,"Growth ann gross profit","-"
+"151","TOT",2016-06-30,"TOT Avearge Growth Ratios Over 5 Years (30 June 2016)",NA
+"152","TOT",2016-06-30,"EBIT margin","0.52"
+"153","TOT",2016-06-30,"EBITDA margin","0.52"
+"154","TOT",2016-06-30,"EBT margin","3.11"
+"155","TOT",2016-06-30,"Gross margin","0.73"
+"156","TOT",2016-06-30,"Inc per employee tot ops","-"
+"157","TOT",2016-06-30,"Interest coverage","-"
+"158","TOT",2016-06-30,"Net margin","1.55"
+"159","TOT",2016-06-30,"Normalized net profit margin","0.26"
+"160","TOT",2016-06-30,"Operating margin","0.52"
+"161","TOT",2016-06-30,"Sales per employee","-"
+"162","TOT",2016-06-30,"Tax rate","0.50"
+"163","TOT",2016-06-30,"TOT Profitability Ratios (30 June 2016)",NA
+"164","TOT",2016-06-30,"Book value per share","1.60"
+"165","TOT",2016-06-30,"Cash return","0.12"
+"166","TOT",2016-06-30,"CF per share","0.12"
+"167","TOT",2016-06-30,"Div payout 5 year","-"
+"168","TOT",2016-06-30,"Div payout tot ops","-0.34"
+"169","TOT",2016-06-30,"Div rate","0.06"
+"170","TOT",2016-06-30,"Dividend yield","0.06"
+"171","TOT",2016-06-30,"Growth ann sales per share 5 ye...","-"
+"172","TOT",2016-06-30,"Payout ratio","-"
+"173","TOT",2016-06-30,"Price to book","0.72"
+"174","TOT",2016-06-30,"Price to cash flow","9.78"
+"175","TOT",2016-06-30,"Price to EPS","-10.89"
+"176","TOT",2016-06-30,"Price to free cash flow","9.78"
+"177","TOT",2016-06-30,"Price to sales","3.62"
+"178","TOT",2016-06-30,"Ratio PE 5 year high","-12.79"
+"179","TOT",2016-06-30,"Ratio PE 5 year low","-9.48"
+"180","TOT",2016-06-30,"Sales per share","0.32"
+"181","TOT",2016-06-30,"Sustainable growth rate","-"
+"182","TOT",2016-06-30,"TOT Valuation Ratios (30 June 2016)",NA
+"183","TOT",2016-06-30,"Accounts Payable","0.15"
+"184","TOT",2016-06-30,"Accumulated Gains/ Losses Not...","0.00"
+"185","TOT",2016-06-30,"Capital Stock","60.88"
+"186","TOT",2016-06-30,"Cash","1.09"
+"187","TOT",2016-06-30,"Cash and Cash Equivalents","1.09"
+"188","TOT",2016-06-30,"Cash,Cash Equivalents,and Sho...","1.09"
+"189","TOT",2016-06-30,"Common Stock","60.88"
+"190","TOT",2016-06-30,"Common Stock Equity","40.80"
+"191","TOT",2016-06-30,"Current Assets","2.58"
+"192","TOT",2016-06-30,"Current Liabilities","0.53"
+"193","TOT",2016-06-30,"Invested Capital","40.80"
+"194","TOT",2016-06-30,"Investments and Advances","38.75"
+"195","TOT",2016-06-30,"Net Tangible Assets","40.80"
+"196","TOT",2016-06-30,"Ordinary Shares Number","30.66"
+"197","TOT",2016-06-30,"Other Current Liabilities","-0.53"
+"198","TOT",2016-06-30,"Other Payable","0.92"
+"199","TOT",2016-06-30,"Payables","1.07"
+"200","TOT",2016-06-30,"Payables and Accrued Expenses","1.07"
+"201","TOT",2016-06-30,"Preferred Stock","0.00"
+"202","TOT",2016-06-30,"Prepaid Assets and Others","0.08"
+"203","TOT",2016-06-30,"Receivables","1.41"
+"204","TOT",2016-06-30,"Retained Earnings","-20.08"
+"205","TOT",2016-06-30,"Short Term Investments","0.00"
+"206","TOT",2016-06-30,"Stockholder's Equity","40.80"
+"207","TOT",2016-06-30,"Tangible Book Value","40.80"
+"208","TOT",2016-06-30,"TOT Balance Sheet 30 June 2016 (AUD)",NA
+"209","TOT",2016-06-30,"Total Assets","41.33"
+"210","TOT",2016-06-30,"Total Capitalization","40.80"
+"211","TOT",2016-06-30,"Total Equity","40.80"
+"212","TOT",2016-06-30,"Total Equity","40.80"
+"213","TOT",2016-06-30,"Total Liabilities","0.53"
+"214","TOT",2016-06-30,"Total Liabilities Inc MI","0.53"
+"215","TOT",2016-06-30,"Total Non-Current Assets","38.75"
+"216","TOT",2016-06-30,"Total Non-Current Liabilities","0.00"
+"217","TOT",2016-06-30,"Total Non-Current Liabilities...","0.00"
+"218","TOT",2016-06-30,"Working Capital","2.05"
+"219","TOT",2016-06-30,"Cash and Cash Equivalents,Beg...","12.02"
+"220","TOT",2016-06-30,"Cash and Cash Equivalents,End...","1.09"
+"221","TOT",2016-06-30,"Cash Dividends Paid","-3.78"
+"222","TOT",2016-06-30,"Cash Flow from Financing Acti...","-14.52"
+"223","TOT",2016-06-30,"Cash Flow from Investing Acti...","1.37"
+"224","TOT",2016-06-30,"Cash Flow from Operating Acti...","2.21"
+"225","TOT",2016-06-30,"Change in Cash","-10.93"
+"226","TOT",2016-06-30,"Effect of Exchange Rate Chang...","0.00"
+"227","TOT",2016-06-30,"Free Cash Flow","2.21"
+"228","TOT",2016-06-30,"Issuance of Capital Stock","0.00"
+"229","TOT",2016-06-30,"Issuance of Debt","0.00"
+"230","TOT",2016-06-30,"Issuance/Payments of Common S...","-20.62"
+"231","TOT",2016-06-30,"Issuance/Payments of Debt,Net","0.00"
+"232","TOT",2016-06-30,"Issuance/Payments of Long Ter...","0.00"
+"233","TOT",2016-06-30,"Other Financing Changes, Net","9.89"
+"234","TOT",2016-06-30,"Payments for Common Stock","-20.62"
+"235","TOT",2016-06-30,"Payments to Settle Long Term ...","0.00"
+"236","TOT",2016-06-30,"Proceeds or Issuance of Commo...","0.00"
+"237","TOT",2016-06-30,"Proceeds or Issuance of Long ...","0.00"
+"238","TOT",2016-06-30,"Purchase of Investments","-24.28"
+"239","TOT",2016-06-30,"Purchase/Acquisition of Busin...","0.00"
+"240","TOT",2016-06-30,"Purchase/Sale of Business,Net","0.00"
+"241","TOT",2016-06-30,"Purchase/Sale of Investments,...","1.37"
+"242","TOT",2016-06-30,"Repayment of Debt","0.00"
+"243","TOT",2016-06-30,"Repurchase of Capital Stock","-20.62"
+"244","TOT",2016-06-30,"Sale of Business","0.00"
+"245","TOT",2016-06-30,"Sale of Investments","25.66"
+"246","TOT",2016-06-30,"TOT Cash Flow 30 June 2016 (AUD)",NA
+"247","TOT",2016-06-30,"FTSE",NA
+"248","TOT",2016-06-30,"FTSE 100",NA
+"249","TOT",2016-06-30,"FX",NA
+"250","TOT",2016-06-30,"GBPUSD",NA
+"251","TOT",2016-06-30,"GKP",NA
+"252","TOT",2016-06-30,"Gulf Keyst..",NA
+"253","TOT",2016-06-30,"IOF",NA
+"254","TOT",2016-06-30,"Iofina",NA
+"255","TOT",2016-06-30,"LSE",NA
+"256","TOT",2016-06-30,"LSE",NA
+"257","TOT",2016-06-30,"LSE",NA
+"258","TOT",2016-06-30,"LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..","LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell"
+"259","TOT",2016-06-30,"QPP",NA
+"260","TOT",2016-06-30,"Quindell",NA
+"261","TOT",2016-06-30,"UK Sterlin..",NA
+"262","TOT",2016-06-30,"UKX",NA

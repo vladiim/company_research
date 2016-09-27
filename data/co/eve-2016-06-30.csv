@@ -1,2 +1,349 @@
-"","ticker","date","name","est","sector","industry","industry_group","marcap","invested_capital","total_equity","total_debt","pretax_income","dividends","roic"
-"1","EVE",2016-06-30,NA,NA,NA,NA,NA,7890,1.75,1.75,NA,-1.1,0,-0.628571428571429
+"","ticker","date","variable","value"
+"1","EVE",2016-06-30,"Auditor:","BDO Audit (WA) Pty Ltd"
+"2","EVE",2016-06-30,"Doing business in:","Australia (AU)"
+"3","EVE",2016-06-30,"End of fiscal year:","30 June 2016"
+"4","EVE",2016-06-30,"Fax:","+61 864655599"
+"5","EVE",2016-06-30,"Place of incorporation:","Australia (AU)"
+"6","EVE",2016-06-30,"Tel.:","+61 864655500"
+"7","EVE",2016-06-30,"Trading currency:","AUD"
+"8","EVE",2016-06-30,"Assets Turnover","-"
+"9","EVE",2016-06-30,"Book-Value pS","0.00"
+"10","EVE",2016-06-30,"Cash Flow pS","-0.00"
+"11","EVE",2016-06-30,"Cash pS","0.00"
+"12","EVE",2016-06-30,"Current Ratio","2.15"
+"13","EVE",2016-06-30,"Dividend pS (DPS)","-"
+"14","EVE",2016-06-30,"Dividend Yield","-"
+"15","EVE",2016-06-30,"Domestic Sales","-"
+"16","EVE",2016-06-30,"Earnings pS (EPS)","-0.00"
+"17","EVE",2016-06-30,"EBITDA Margin","-"
+"18","EVE",2016-06-30,"Effective Tax Rate","-"
+"19","EVE",2016-06-30,"EVE KEY FIGURES (at previous day's close)",NA
+"20","EVE",2016-06-30,"Foreign Sales","-"
+"21","EVE",2016-06-30,"Free Cash Flow pS","-0.00"
+"22","EVE",2016-06-30,"Gross gearing","8.91"
+"23","EVE",2016-06-30,"Gross Profit Margin","-8,332,280.00"
+"24","EVE",2016-06-30,"Interest Cover","-"
+"25","EVE",2016-06-30,"Latest Shares Outstanding","1,115.50"
+"26","EVE",2016-06-30,"Leverage Ratio (Assets/Equity)","1.10"
+"27","EVE",2016-06-30,"LT Debt/Total Capital","-"
+"28","EVE",2016-06-30,"Market Capitalisation","7.89"
+"29","EVE",2016-06-30,"Net Debt","-0.16"
+"30","EVE",2016-06-30,"PE Ratio","-7.14"
+"31","EVE",2016-06-30,"Pre-Tax Profit Margin","-"
+"32","EVE",2016-06-30,"Research & Devlopment (R&D) as ...","0.00"
+"33","EVE",2016-06-30,"Return on Assets (ROA)","-0.47"
+"34","EVE",2016-06-30,"Return on Capital Invested (ROC...","-0.50"
+"35","EVE",2016-06-30,"Return on Equity (ROE)","-0.50"
+"36","EVE",2016-06-30,"Sales per Employee","-"
+"37","EVE",2016-06-30,"Selling, General & Adm/tive (SG...","806,940.00"
+"38","EVE",2016-06-30,"Spread","0.00"
+"39","EVE",2016-06-30,"Tangible Book-Value pS","0.00"
+"40","EVE",2016-06-30,"Total Debt/Equity (Gearing Rati...","-"
+"41","EVE",2016-06-30,"Working Capital pS","0.00"
+"42","EVE",2016-06-30,"Yesterday's Close","0.01"
+"43","EVE",2016-06-30,"1 Month","0.01"
+"44","EVE",2016-06-30,"1 Week","0.01"
+"45","EVE",2016-06-30,"1 Year","0.01"
+"46","EVE",2016-06-30,"1 Year","0.02"
+"47","EVE",2016-06-30,"3 Months","0.01"
+"48","EVE",2016-06-30,"3 Years","0.00"
+"49","EVE",2016-06-30,"3 Years","0.02"
+"50","EVE",2016-06-30,"5 Years","0.06"
+"51","EVE",2016-06-30,"5 Years","0.04"
+"52","EVE",2016-06-30,"6 Months","0.01"
+"53","EVE",2016-06-30,"6 Months","0.02"
+"54","EVE",2016-06-30,"Period †","High"
+"55","EVE",2016-06-30,"Period †","Open"
+"56","EVE",2016-06-30,"","1 year"
+"57","EVE",2016-06-30,"","LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell
+			
+		
+
+	
+				
+					FTSE
+				
+			
+		
+				
+					UKX
+				
+			
+		
+				FTSE 100
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					IOF
+				
+			
+		
+				Iofina
+			
+		
+
+	
+				
+					FX
+				
+			
+		
+				
+					GBPUSD
+				
+			
+		
+				UK Sterlin..
+			
+		
+			
+
+						
+						Stocks you've viewed will appear in this box, letting you easily return to quotes you've seen previously.Register now to create your own custom streaming stock watchlist."
+"58","EVE",2016-06-30,"CFO growth","-"
+"59","EVE",2016-06-30,"Diluted continuous EPS growth","-"
+"60","EVE",2016-06-30,"Diluted EPS growth","-"
+"61","EVE",2016-06-30,"Dividend growth","-"
+"62","EVE",2016-06-30,"Equity per share growth","-0.63"
+"63","EVE",2016-06-30,"EVE Growth Ratios (30 June 2016)",NA
+"64","EVE",2016-06-30,"FCF growth","-"
+"65","EVE",2016-06-30,"Net income cont growth","-"
+"66","EVE",2016-06-30,"Net income growth","-"
+"67","EVE",2016-06-30,"Operating income growth","-"
+"68","EVE",2016-06-30,"Operating revenue growth","-0.98"
+"69","EVE",2016-06-30,"Revenue growth","-0.98"
+"70","EVE",2016-06-30,"Basic EPS","-0.00"
+"71","EVE",2016-06-30,"Basic EPS from Continuing Ope...","-0.00"
+"72","EVE",2016-06-30,"Basic EPS from Discontinued O...","-0.00"
+"73","EVE",2016-06-30,"Basic EPS,Continuing and Disc...","-0.00"
+"74","EVE",2016-06-30,"Basic Weighted Average Shares...","788.99"
+"75","EVE",2016-06-30,"Calculated Tax Effect Of Unus...","0.00"
+"76","EVE",2016-06-30,"Commission Expenses","0.24"
+"77","EVE",2016-06-30,"Cost of Revenue","0.42"
+"78","EVE",2016-06-30,"Cost of Revenue,Reconciled","0.42"
+"79","EVE",2016-06-30,"Depreciation","1,777.00"
+"80","EVE",2016-06-30,"Depreciation and Amortization","1,777.00"
+"81","EVE",2016-06-30,"Depreciation,Reconciled","1,777.00"
+"82","EVE",2016-06-30,"Diluted EPS","-0.00"
+"83","EVE",2016-06-30,"Diluted EPS from Continuing O...","-0.00"
+"84","EVE",2016-06-30,"Diluted EPS from Discontinued...","-0.00"
+"85","EVE",2016-06-30,"Diluted EPS,Continuing and Di...","-0.00"
+"86","EVE",2016-06-30,"Diluted Weighted Average Shar...","788.99"
+"87","EVE",2016-06-30,"Discontinued Operations","-0.10"
+"88","EVE",2016-06-30,"Earning Before Interest and T...","-1.01"
+"89","EVE",2016-06-30,"Earning Before Interest Tax D...","-1.01"
+"90","EVE",2016-06-30,"EVE Income Statement 30 June 2016 (AUD)",NA
+"91","EVE",2016-06-30,"General and Administrative Ex...","0.04"
+"92","EVE",2016-06-30,"Gross Profit","-0.42"
+"93","EVE",2016-06-30,"Minority Interest","0.00"
+"94","EVE",2016-06-30,"Net Income","-1.10"
+"95","EVE",2016-06-30,"Net Income Available to Commo...","-1.10"
+"96","EVE",2016-06-30,"Net Income from Continuing an...","-1.10"
+"97","EVE",2016-06-30,"Net Income from Continuing Op...","-1.01"
+"98","EVE",2016-06-30,"Net Income from Continuing Op...","-1.01"
+"99","EVE",2016-06-30,"Net Income Including Noncontr...","-1.10"
+"100","EVE",2016-06-30,"Non Operating Income","0.00"
+"101","EVE",2016-06-30,"Normalized Basic EPS","-0.00"
+"102","EVE",2016-06-30,"Normalized Diluted EPS","-0.00"
+"103","EVE",2016-06-30,"Normalized Income","-1.01"
+"104","EVE",2016-06-30,"Operating Expenses","0.59"
+"105","EVE",2016-06-30,"Operating Income","-1.01"
+"106","EVE",2016-06-30,"Operating Revenue","5.00"
+"107","EVE",2016-06-30,"Other Income/Expense,Net","0.00"
+"108","EVE",2016-06-30,"Preferred Stock Dividends","0.00"
+"109","EVE",2016-06-30,"Pretax Income","-1.01"
+"110","EVE",2016-06-30,"Provision for Income Tax","0.00"
+"111","EVE",2016-06-30,"Salary and Benefit","0.18"
+"112","EVE",2016-06-30,"Selling,General and Administr...","0.04"
+"113","EVE",2016-06-30,"Tax rate for calculations","0.00"
+"114","EVE",2016-06-30,"Total Revenue","5.00"
+"115","EVE",2016-06-30,"Assets turnover","0.00"
+"116","EVE",2016-06-30,"Capital expenditure sales ratio","-"
+"117","EVE",2016-06-30,"Cash conversion cycle","-"
+"118","EVE",2016-06-30,"Days in inventory","-"
+"119","EVE",2016-06-30,"Days in payment","69.96"
+"120","EVE",2016-06-30,"Days in sales","2,386,460.87"
+"121","EVE",2016-06-30,"EVE Efficency Ratios (30 June 2016)",NA
+"122","EVE",2016-06-30,"FCF net income ratio","-"
+"123","EVE",2016-06-30,"FCF sales ratio","-"
+"124","EVE",2016-06-30,"Fixed assets turnover","-"
+"125","EVE",2016-06-30,"Inventory turnover","-"
+"126","EVE",2016-06-30,"Payable turnover","5.22"
+"127","EVE",2016-06-30,"Receivable turnover","0.00"
+"128","EVE",2016-06-30,"ROA","-0.47"
+"129","EVE",2016-06-30,"ROE","-0.50"
+"130","EVE",2016-06-30,"ROIC","-0.50"
+"131","EVE",2016-06-30,"Current ratio","2.15"
+"132","EVE",2016-06-30,"Debt equity ratio","-"
+"133","EVE",2016-06-30,"Debt total capital ratio","-"
+"134","EVE",2016-06-30,"EVE Financial Health Ratios (30 June 2016)",NA
+"135","EVE",2016-06-30,"Financial leverage","1.10"
+"136","EVE",2016-06-30,"Quick ratio","2.15"
+"137","EVE",2016-06-30,"Total debt to equity","-"
+"138","EVE",2016-06-30,"Avg gross margin","-16,776.62"
+"139","EVE",2016-06-30,"Avg net profit","-50,369.99"
+"140","EVE",2016-06-30,"Avg post tax margin","-50,369.99"
+"141","EVE",2016-06-30,"Avg pre tax marginr","-46,549.07"
+"142","EVE",2016-06-30,"Avg ret assets","-0.63"
+"143","EVE",2016-06-30,"Avg ret commonr","-0.65"
+"144","EVE",2016-06-30,"Avg ret invested capital","-0.65"
+"145","EVE",2016-06-30,"EVE Avearge Growth Ratios Over 5 Years (30 June 2016)",NA
+"146","EVE",2016-06-30,"Growth ann capital spending","-"
+"147","EVE",2016-06-30,"Growth ann gross profit","-"
+"148","EVE",2016-06-30,"EBIT margin","-201,601.20"
+"149","EVE",2016-06-30,"EBITDA margin","-201,245.80"
+"150","EVE",2016-06-30,"EBT margin","-201,601.20"
+"151","EVE",2016-06-30,"EVE Profitability Ratios (30 June 2016)",NA
+"152","EVE",2016-06-30,"Gross margin","-83,322.80"
+"153","EVE",2016-06-30,"Inc per employee tot ops","-"
+"154","EVE",2016-06-30,"Interest coverage","-"
+"155","EVE",2016-06-30,"Net margin","-220,705.80"
+"156","EVE",2016-06-30,"Normalized net profit margin","-201,601.20"
+"157","EVE",2016-06-30,"Operating margin","-201,601.20"
+"158","EVE",2016-06-30,"Sales per employee","-"
+"159","EVE",2016-06-30,"Tax rate","-"
+"160","EVE",2016-06-30,"Book value per share","0.00"
+"161","EVE",2016-06-30,"Cash return","-0.04"
+"162","EVE",2016-06-30,"CF per share","-0.00"
+"163","EVE",2016-06-30,"Div payout 5 year","-"
+"164","EVE",2016-06-30,"Div payout tot ops","-"
+"165","EVE",2016-06-30,"Div rate","-"
+"166","EVE",2016-06-30,"Dividend yield","-"
+"167","EVE",2016-06-30,"EVE Valuation Ratios (30 June 2016)",NA
+"168","EVE",2016-06-30,"Growth ann sales per share 5 ye...","-"
+"169","EVE",2016-06-30,"Payout ratio","0.00"
+"170","EVE",2016-06-30,"Price to book","16.21"
+"171","EVE",2016-06-30,"Price to cash flow","-17.30"
+"172","EVE",2016-06-30,"Price to EPS","-6.43"
+"173","EVE",2016-06-30,"Price to free cash flow","-17.30"
+"174","EVE",2016-06-30,"Price to sales","-400.00"
+"175","EVE",2016-06-30,"Ratio PE 5 year high","-55.47"
+"176","EVE",2016-06-30,"Ratio PE 5 year low","-1.25"
+"177","EVE",2016-06-30,"Sales per share","0.00"
+"178","EVE",2016-06-30,"Sustainable growth rate","-0.20"
+"179","EVE",2016-06-30,"Accounts Payable","0.12"
+"180","EVE",2016-06-30,"Accumulated Gains/ Losses Not...","0.07"
+"181","EVE",2016-06-30,"Capital Stock","14.18"
+"182","EVE",2016-06-30,"Cash","0.33"
+"183","EVE",2016-06-30,"Cash and Cash Equivalents","0.33"
+"184","EVE",2016-06-30,"Cash,Cash Equivalents,and Sho...","0.33"
+"185","EVE",2016-06-30,"Common Stock","14.18"
+"186","EVE",2016-06-30,"Common Stock Equity","1.75"
+"187","EVE",2016-06-30,"Current Assets","0.37"
+"188","EVE",2016-06-30,"Current Liabilities","0.17"
+"189","EVE",2016-06-30,"EVE Balance Sheet 30 June 2016 (AUD)",NA
+"190","EVE",2016-06-30,"Invested Capital","1.75"
+"191","EVE",2016-06-30,"Investments and Advances","1.56"
+"192","EVE",2016-06-30,"Net Tangible Assets","1.75"
+"193","EVE",2016-06-30,"Ordinary Shares Number","1,115.50"
+"194","EVE",2016-06-30,"Other Payable","0.05"
+"195","EVE",2016-06-30,"Payables","0.17"
+"196","EVE",2016-06-30,"Payables and Accrued Expenses","0.17"
+"197","EVE",2016-06-30,"Preferred Stock","0.00"
+"198","EVE",2016-06-30,"Receivables","0.04"
+"199","EVE",2016-06-30,"Retained Earnings","-12.49"
+"200","EVE",2016-06-30,"Short Term Investments","0.00"
+"201","EVE",2016-06-30,"Stockholder's Equity","1.75"
+"202","EVE",2016-06-30,"Tangible Book Value","1.75"
+"203","EVE",2016-06-30,"Total Assets","1.92"
+"204","EVE",2016-06-30,"Total Capitalization","1.75"
+"205","EVE",2016-06-30,"Total Equity","1.75"
+"206","EVE",2016-06-30,"Total Equity","1.75"
+"207","EVE",2016-06-30,"Total Liabilities","0.17"
+"208","EVE",2016-06-30,"Total Liabilities Inc MI","0.17"
+"209","EVE",2016-06-30,"Total Non-Current Assets","1.56"
+"210","EVE",2016-06-30,"Total Non-Current Liabilities","0.00"
+"211","EVE",2016-06-30,"Total Non-Current Liabilities...","0.00"
+"212","EVE",2016-06-30,"Working Capital","0.20"
+"213","EVE",2016-06-30,"Cash and Cash Equivalents,Beg...","0.14"
+"214","EVE",2016-06-30,"Cash and Cash Equivalents,End...","0.33"
+"215","EVE",2016-06-30,"Cash Dividends Paid","0.00"
+"216","EVE",2016-06-30,"Cash Flow from Financing Acti...","2.56"
+"217","EVE",2016-06-30,"Cash Flow from Investing Acti...","-1.72"
+"218","EVE",2016-06-30,"Cash Flow from Operating Acti...","-0.65"
+"219","EVE",2016-06-30,"Change in Cash","0.19"
+"220","EVE",2016-06-30,"Effect of Exchange Rate Chang...","3,545.00"
+"221","EVE",2016-06-30,"EVE Cash Flow 30 June 2016 (AUD)",NA
+"222","EVE",2016-06-30,"Free Cash Flow","-0.65"
+"223","EVE",2016-06-30,"Issuance of Capital Stock","2.73"
+"224","EVE",2016-06-30,"Issuance of Debt","0.00"
+"225","EVE",2016-06-30,"Issuance/Payments of Common S...","2.73"
+"226","EVE",2016-06-30,"Issuance/Payments of Debt,Net","0.00"
+"227","EVE",2016-06-30,"Issuance/Payments of Long Ter...","0.00"
+"228","EVE",2016-06-30,"Other Financing Changes, Net","-0.17"
+"229","EVE",2016-06-30,"Other Investing Changes,Net","-0.10"
+"230","EVE",2016-06-30,"Payments to Settle Long Term ...","0.00"
+"231","EVE",2016-06-30,"Proceeds or Issuance of Commo...","2.73"
+"232","EVE",2016-06-30,"Proceeds or Issuance of Long ...","0.00"
+"233","EVE",2016-06-30,"Purchase of Investments","-1.63"
+"234","EVE",2016-06-30,"Purchase/Acquisition of Busin...","0.00"
+"235","EVE",2016-06-30,"Purchase/Sale of Business,Net","0.00"
+"236","EVE",2016-06-30,"Purchase/Sale of Investments,...","-1.63"
+"237","EVE",2016-06-30,"Repayment of Debt","0.00"
+"238","EVE",2016-06-30,"Sale of Business","0.00"
+"239","EVE",2016-06-30,"Sale of Investments","0.00"
+"240","EVE",2016-06-30,"FTSE",NA
+"241","EVE",2016-06-30,"FTSE 100",NA
+"242","EVE",2016-06-30,"FX",NA
+"243","EVE",2016-06-30,"GBPUSD",NA
+"244","EVE",2016-06-30,"GKP",NA
+"245","EVE",2016-06-30,"Gulf Keyst..",NA
+"246","EVE",2016-06-30,"IOF",NA
+"247","EVE",2016-06-30,"Iofina",NA
+"248","EVE",2016-06-30,"LSE",NA
+"249","EVE",2016-06-30,"LSE",NA
+"250","EVE",2016-06-30,"LSE",NA
+"251","EVE",2016-06-30,"LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..","LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell"
+"252","EVE",2016-06-30,"QPP",NA
+"253","EVE",2016-06-30,"Quindell",NA
+"254","EVE",2016-06-30,"UK Sterlin..",NA
+"255","EVE",2016-06-30,"UKX",NA

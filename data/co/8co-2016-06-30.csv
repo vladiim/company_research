@@ -1,2 +1,374 @@
-"","ticker","date","name","est","sector","industry","industry_group","marcap","invested_capital","total_equity","total_debt","pretax_income","dividends","roic"
-"1","8CO",2016-06-30,NA,NA,"Technology","Software - Application",NA,7970,7.16,5.92,1.24,-1.35,0,-0.18854748603352
+"","ticker","date","variable","value"
+"1","8CO",2016-06-30,"Address","Level 19, 520 Oxford Street  Suite 1904, Westfield Tower One, Bondi Junction, 2022"
+"2","8CO",2016-06-30,"Company sector name:","Technology"
+"3","8CO",2016-06-30,"End of fiscal year:","30 June 2016"
+"4","8CO",2016-06-30,"Industry group name","Application Software"
+"5","8CO",2016-06-30,"Industry name:","Software - Application"
+"6","8CO",2016-06-30,"Web address:","http://www.8common.com"
+"7","8CO",2016-06-30,"8CO KEY FIGURES (at previous day's close)",NA
+"8","8CO",2016-06-30,"Assets Turnover","-"
+"9","8CO",2016-06-30,"Book-Value pS","0.04"
+"10","8CO",2016-06-30,"Cash Flow pS","-0.02"
+"11","8CO",2016-06-30,"Cash pS","0.01"
+"12","8CO",2016-06-30,"Current Ratio","1.98"
+"13","8CO",2016-06-30,"Dividend pS (DPS)","-"
+"14","8CO",2016-06-30,"Dividend Yield","-"
+"15","8CO",2016-06-30,"Domestic Sales","-"
+"16","8CO",2016-06-30,"Earnings pS (EPS)","-0.02"
+"17","8CO",2016-06-30,"EBITDA Margin","-"
+"18","8CO",2016-06-30,"Effective Tax Rate","-"
+"19","8CO",2016-06-30,"Foreign Sales","-"
+"20","8CO",2016-06-30,"Free Cash Flow pS","-0.02"
+"21","8CO",2016-06-30,"Gross gearing","25.93"
+"22","8CO",2016-06-30,"Gross Profit Margin","-"
+"23","8CO",2016-06-30,"Interest Cover","-7.57"
+"24","8CO",2016-06-30,"Latest Shares Outstanding","58.00"
+"25","8CO",2016-06-30,"Leverage Ratio (Assets/Equity)","1.35"
+"26","8CO",2016-06-30,"LT Debt/Total Capital","-"
+"27","8CO",2016-06-30,"Market Capitalisation","7.97"
+"28","8CO",2016-06-30,"Net Debt","1.74"
+"29","8CO",2016-06-30,"PE Ratio","-5.89"
+"30","8CO",2016-06-30,"Pre-Tax Profit Margin","-"
+"31","8CO",2016-06-30,"Research & Devlopment (R&D) as ...","-"
+"32","8CO",2016-06-30,"Return on Assets (ROA)","-0.15"
+"33","8CO",2016-06-30,"Return on Capital Invested (ROC...","-0.18"
+"34","8CO",2016-06-30,"Return on Equity (ROE)","-0.22"
+"35","8CO",2016-06-30,"Sales per Employee","-"
+"36","8CO",2016-06-30,"Selling, General & Adm/tive (SG...","-"
+"37","8CO",2016-06-30,"Spread","0.10"
+"38","8CO",2016-06-30,"Tangible Book-Value pS","0.00"
+"39","8CO",2016-06-30,"Total Debt/Equity (Gearing Rati...","0.21"
+"40","8CO",2016-06-30,"Working Capital pS","0.11"
+"41","8CO",2016-06-30,"Yesterday's Close","0.15"
+"42","8CO",2016-06-30,"1 Month","0.15"
+"43","8CO",2016-06-30,"1 Month","0.16"
+"44","8CO",2016-06-30,"1 Week","0.11"
+"45","8CO",2016-06-30,"1 Week","0.16"
+"46","8CO",2016-06-30,"1 Year","0.24"
+"47","8CO",2016-06-30,"1 Year","0.20"
+"48","8CO",2016-06-30,"3 Months","0.17"
+"49","8CO",2016-06-30,"3 Months","0.13"
+"50","8CO",2016-06-30,"3 Years","0.30"
+"51","8CO",2016-06-30,"3 Years","0.28"
+"52","8CO",2016-06-30,"5 Years","0.30"
+"53","8CO",2016-06-30,"5 Years","0.28"
+"54","8CO",2016-06-30,"6 Months","0.24"
+"55","8CO",2016-06-30,"6 Months","0.19"
+"56","8CO",2016-06-30,"Period †","High"
+"57","8CO",2016-06-30,"Period †","Open"
+"58","8CO",2016-06-30,"","1 year"
+"59","8CO",2016-06-30,"","LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell
+			
+		
+
+	
+				
+					FTSE
+				
+			
+		
+				
+					UKX
+				
+			
+		
+				FTSE 100
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					IOF
+				
+			
+		
+				Iofina
+			
+		
+
+	
+				
+					FX
+				
+			
+		
+				
+					GBPUSD
+				
+			
+		
+				UK Sterlin..
+			
+		
+			
+
+						
+						Stocks you've viewed will appear in this box, letting you easily return to quotes you've seen previously.Register now to create your own custom streaming stock watchlist."
+"60","8CO",2016-06-30,"8CO Growth Ratios (30 June 2016)",NA
+"61","8CO",2016-06-30,"CFO growth","-"
+"62","8CO",2016-06-30,"Diluted continuous EPS growth","-"
+"63","8CO",2016-06-30,"Diluted EPS growth","-"
+"64","8CO",2016-06-30,"Dividend growth","-"
+"65","8CO",2016-06-30,"Equity per share growth","-0.15"
+"66","8CO",2016-06-30,"FCF growth","-"
+"67","8CO",2016-06-30,"Net income cont growth","-"
+"68","8CO",2016-06-30,"Net income growth","-"
+"69","8CO",2016-06-30,"Operating income growth","-"
+"70","8CO",2016-06-30,"Operating revenue growth","0.00"
+"71","8CO",2016-06-30,"Revenue growth","0.00"
+"72","8CO",2016-06-30,"8CO Income Statement 30 June 2016 (AUD)",NA
+"73","8CO",2016-06-30,"Basic EPS","-0.02"
+"74","8CO",2016-06-30,"Basic EPS from Continuing Ope...","-0.02"
+"75","8CO",2016-06-30,"Basic EPS from Discontinued O...","0.00"
+"76","8CO",2016-06-30,"Basic EPS,Continuing and Disc...","-0.02"
+"77","8CO",2016-06-30,"Basic Weighted Average Shares...","54.96"
+"78","8CO",2016-06-30,"Calculated Tax Effect Of Unus...","0.00"
+"79","8CO",2016-06-30,"Cost of Revenue","0.79"
+"80","8CO",2016-06-30,"Cost of Revenue,Reconciled","0.79"
+"81","8CO",2016-06-30,"Depreciation","0.59"
+"82","8CO",2016-06-30,"Depreciation and Amortization","0.59"
+"83","8CO",2016-06-30,"Depreciation,Reconciled","0.59"
+"84","8CO",2016-06-30,"Diluted EPS","-0.02"
+"85","8CO",2016-06-30,"Diluted EPS from Continuing O...","-0.02"
+"86","8CO",2016-06-30,"Diluted EPS from Discontinued...","0.00"
+"87","8CO",2016-06-30,"Diluted EPS,Continuing and Di...","-0.02"
+"88","8CO",2016-06-30,"Diluted Weighted Average Shar...","54.96"
+"89","8CO",2016-06-30,"Discontinued Operations","0.00"
+"90","8CO",2016-06-30,"Earning Before Interest and T...","-1.29"
+"91","8CO",2016-06-30,"Earning Before Interest Tax D...","-0.70"
+"92","8CO",2016-06-30,"General and Administrative Ex...","3.38"
+"93","8CO",2016-06-30,"Gross Profit","-0.79"
+"94","8CO",2016-06-30,"Interest and Dividend Income","0.00"
+"95","8CO",2016-06-30,"Interest Expense","0.09"
+"96","8CO",2016-06-30,"Interest Expense-Non Operatin...","0.09"
+"97","8CO",2016-06-30,"Interest Income/Expense,Net-N...","-0.09"
+"98","8CO",2016-06-30,"Minority Interest","0.00"
+"99","8CO",2016-06-30,"Net Income","-1.35"
+"100","8CO",2016-06-30,"Net Income Available to Commo...","-1.35"
+"101","8CO",2016-06-30,"Net Income from Continuing an...","-1.35"
+"102","8CO",2016-06-30,"Net Income from Continuing Op...","-1.35"
+"103","8CO",2016-06-30,"Net Income from Continuing Op...","-1.35"
+"104","8CO",2016-06-30,"Net Income Including Noncontr...","-1.35"
+"105","8CO",2016-06-30,"Net Interest Income","-0.09"
+"106","8CO",2016-06-30,"Non Operating Expense","-0.09"
+"107","8CO",2016-06-30,"Non Operating Income","3.68"
+"108","8CO",2016-06-30,"Normalized Basic EPS","-0.02"
+"109","8CO",2016-06-30,"Normalized Diluted EPS","-0.02"
+"110","8CO",2016-06-30,"Normalized Income","-1.35"
+"111","8CO",2016-06-30,"Operating Expenses","4.18"
+"112","8CO",2016-06-30,"Operating Income","-4.97"
+"113","8CO",2016-06-30,"Operating Revenue","0.00"
+"114","8CO",2016-06-30,"Other Income/Expense,Net","3.68"
+"115","8CO",2016-06-30,"Preferred Stock Dividends","0.00"
+"116","8CO",2016-06-30,"Pretax Income","-1.38"
+"117","8CO",2016-06-30,"Provision for Income Tax","-0.03"
+"118","8CO",2016-06-30,"Rent and Landing Fees","0.17"
+"119","8CO",2016-06-30,"Salary and Benefit","2.70"
+"120","8CO",2016-06-30,"Selling,General and Administr...","3.38"
+"121","8CO",2016-06-30,"Tax rate for calculations","0.02"
+"122","8CO",2016-06-30,"Total Revenue","0.00"
+"123","8CO",2016-06-30,"8CO Efficency Ratios (30 June 2016)",NA
+"124","8CO",2016-06-30,"Assets turnover","-"
+"125","8CO",2016-06-30,"Capital expenditure sales ratio","-"
+"126","8CO",2016-06-30,"Cash conversion cycle","-"
+"127","8CO",2016-06-30,"Days in inventory","-"
+"128","8CO",2016-06-30,"Days in payment","191.70"
+"129","8CO",2016-06-30,"Days in sales","-"
+"130","8CO",2016-06-30,"FCF net income ratio","-"
+"131","8CO",2016-06-30,"FCF sales ratio","-"
+"132","8CO",2016-06-30,"Fixed assets turnover","-"
+"133","8CO",2016-06-30,"Inventory turnover","-"
+"134","8CO",2016-06-30,"Payable turnover","1.90"
+"135","8CO",2016-06-30,"Receivable turnover","-"
+"136","8CO",2016-06-30,"ROA","-0.15"
+"137","8CO",2016-06-30,"ROE","-0.22"
+"138","8CO",2016-06-30,"ROIC","-0.18"
+"139","8CO",2016-06-30,"8CO Financial Health Ratios (30 June 2016)",NA
+"140","8CO",2016-06-30,"Current ratio","1.98"
+"141","8CO",2016-06-30,"Debt equity ratio","-"
+"142","8CO",2016-06-30,"Debt total capital ratio","-"
+"143","8CO",2016-06-30,"Financial leverage","1.35"
+"144","8CO",2016-06-30,"Quick ratio","0.34"
+"145","8CO",2016-06-30,"Total debt to equity","0.21"
+"146","8CO",2016-06-30,"8CO Avearge Growth Ratios Over 5 Years (30 June 2016)",NA
+"147","8CO",2016-06-30,"Avg gross margin","-"
+"148","8CO",2016-06-30,"Avg net profit","-"
+"149","8CO",2016-06-30,"Avg post tax margin","-"
+"150","8CO",2016-06-30,"Avg pre tax marginr","-"
+"151","8CO",2016-06-30,"Avg ret assets","-"
+"152","8CO",2016-06-30,"Avg ret commonr","-"
+"153","8CO",2016-06-30,"Avg ret invested capital","-"
+"154","8CO",2016-06-30,"Growth ann capital spending","-"
+"155","8CO",2016-06-30,"Growth ann gross profit","-"
+"156","8CO",2016-06-30,"8CO Profitability Ratios (30 June 2016)",NA
+"157","8CO",2016-06-30,"EBIT margin","-"
+"158","8CO",2016-06-30,"EBITDA margin","-"
+"159","8CO",2016-06-30,"EBT margin","-"
+"160","8CO",2016-06-30,"Gross margin","-"
+"161","8CO",2016-06-30,"Inc per employee tot ops","-"
+"162","8CO",2016-06-30,"Interest coverage","-13.86"
+"163","8CO",2016-06-30,"Net margin","-"
+"164","8CO",2016-06-30,"Normalized net profit margin","-"
+"165","8CO",2016-06-30,"Operating margin","-"
+"166","8CO",2016-06-30,"Sales per employee","-"
+"167","8CO",2016-06-30,"Tax rate","-"
+"168","8CO",2016-06-30,"8CO Valuation Ratios (30 June 2016)",NA
+"169","8CO",2016-06-30,"Book value per share","0.10"
+"170","8CO",2016-06-30,"Cash return","-0.00"
+"171","8CO",2016-06-30,"CF per share","-0.00"
+"172","8CO",2016-06-30,"Div payout 5 year","-"
+"173","8CO",2016-06-30,"Div payout tot ops","-"
+"174","8CO",2016-06-30,"Div rate","-"
+"175","8CO",2016-06-30,"Dividend yield","-"
+"176","8CO",2016-06-30,"Growth ann sales per share 5 ye...","-"
+"177","8CO",2016-06-30,"Payout ratio","0.00"
+"178","8CO",2016-06-30,"Price to book","1.87"
+"179","8CO",2016-06-30,"Price to cash flow","-107.53"
+"180","8CO",2016-06-30,"Price to EPS","-14.39"
+"181","8CO",2016-06-30,"Price to free cash flow","-156.25"
+"182","8CO",2016-06-30,"Price to sales","24.04"
+"183","8CO",2016-06-30,"Ratio PE 5 year high","-23.37"
+"184","8CO",2016-06-30,"Ratio PE 5 year low","-10.40"
+"185","8CO",2016-06-30,"Sales per share","0.01"
+"186","8CO",2016-06-30,"Sustainable growth rate","-0.11"
+"187","8CO",2016-06-30,"8CO Balance Sheet 30 June 2016 (AUD)",NA
+"188","8CO",2016-06-30,"Accounts Payable","0.68"
+"189","8CO",2016-06-30,"Accounts Receivable,Non-Curre...","0.00"
+"190","8CO",2016-06-30,"Accumulated Gains/ Losses Not...","0.12"
+"191","8CO",2016-06-30,"Capital Stock","7.04"
+"192","8CO",2016-06-30,"Cash","0.33"
+"193","8CO",2016-06-30,"Cash and Cash Equivalents","0.33"
+"194","8CO",2016-06-30,"Cash,Cash Equivalents,and Sho...","0.33"
+"195","8CO",2016-06-30,"Common Stock","7.04"
+"196","8CO",2016-06-30,"Common Stock Equity","5.92"
+"197","8CO",2016-06-30,"Current Assets","4.02"
+"198","8CO",2016-06-30,"Current Debt","1.24"
+"199","8CO",2016-06-30,"Current Debt and Capital Leas...","1.24"
+"200","8CO",2016-06-30,"Current Liabilities","2.03"
+"201","8CO",2016-06-30,"Deferred Liabilities,Current","4,624.00"
+"202","8CO",2016-06-30,"Deferred Non-Current Assets","0.20"
+"203","8CO",2016-06-30,"Deferred Taxes,Current Liabil...","4,624.00"
+"204","8CO",2016-06-30,"Deferred Taxes,Non-Current As...","0.20"
+"205","8CO",2016-06-30,"Goodwill","1.77"
+"206","8CO",2016-06-30,"Goodwill and Other Intangible...","3.74"
+"207","8CO",2016-06-30,"Gross Property,Plant,and Equi...","0.03"
+"208","8CO",2016-06-30,"Invested Capital","7.16"
+"209","8CO",2016-06-30,"Investments and Advances","0.00"
+"210","8CO",2016-06-30,"Net Property,Plant,and Equipm...","0.03"
+"211","8CO",2016-06-30,"Net Tangible Assets","2.18"
+"212","8CO",2016-06-30,"Ordinary Shares Number","58.00"
+"213","8CO",2016-06-30,"Other Current Assets","3.33"
+"214","8CO",2016-06-30,"Other Current Liabilities","0.10"
+"215","8CO",2016-06-30,"Other Intangible Assets","1.98"
+"216","8CO",2016-06-30,"Payables","0.68"
+"217","8CO",2016-06-30,"Payables and Accrued Expenses","0.68"
+"218","8CO",2016-06-30,"Preferred Stock","0.00"
+"219","8CO",2016-06-30,"Receivables","0.36"
+"220","8CO",2016-06-30,"Retained Earnings","-1.24"
+"221","8CO",2016-06-30,"Short Term Investments","0.00"
+"222","8CO",2016-06-30,"Stockholder's Equity","5.92"
+"223","8CO",2016-06-30,"Tangible Book Value","2.18"
+"224","8CO",2016-06-30,"Total Assets","7.99"
+"225","8CO",2016-06-30,"Total Capitalization","5.92"
+"226","8CO",2016-06-30,"Total Debt","1.24"
+"227","8CO",2016-06-30,"Total Equity","5.92"
+"228","8CO",2016-06-30,"Total Equity","5.92"
+"229","8CO",2016-06-30,"Total Liabilities","2.07"
+"230","8CO",2016-06-30,"Total Liabilities Inc MI","2.07"
+"231","8CO",2016-06-30,"Total Non-Current Assets","3.97"
+"232","8CO",2016-06-30,"Total Non-Current Liabilities","0.04"
+"233","8CO",2016-06-30,"Total Non-Current Liabilities...","0.04"
+"234","8CO",2016-06-30,"Working Capital","1.99"
+"235","8CO",2016-06-30,"8CO Cash Flow 30 June 2016 (AUD)",NA
+"236","8CO",2016-06-30,"Capital Expenditure","-0.02"
+"237","8CO",2016-06-30,"Cash and Cash Equivalents,Beg...","0.57"
+"238","8CO",2016-06-30,"Cash and Cash Equivalents,End...","0.33"
+"239","8CO",2016-06-30,"Cash Dividends Paid","0.00"
+"240","8CO",2016-06-30,"Cash Flow from Financing Acti...","1.02"
+"241","8CO",2016-06-30,"Cash Flow from Investing Acti...","-0.29"
+"242","8CO",2016-06-30,"Cash Flow from Operating Acti...","-0.98"
+"243","8CO",2016-06-30,"Change in Cash","-0.25"
+"244","8CO",2016-06-30,"Effect of Exchange Rate Chang...","0.01"
+"245","8CO",2016-06-30,"Free Cash Flow","-1.00"
+"246","8CO",2016-06-30,"Interest Paid, Supplemental D...","-0.09"
+"247","8CO",2016-06-30,"Issuance of Capital Stock","0.72"
+"248","8CO",2016-06-30,"Issuance of Debt","0.30"
+"249","8CO",2016-06-30,"Issuance/Payments of Common S...","0.72"
+"250","8CO",2016-06-30,"Issuance/Payments of Debt,Net","0.30"
+"251","8CO",2016-06-30,"Issuance/Payments of Long Ter...","0.30"
+"252","8CO",2016-06-30,"Other Investing Changes,Net","-0.27"
+"253","8CO",2016-06-30,"Payments to Settle Long Term ...","0.00"
+"254","8CO",2016-06-30,"Proceeds or Issuance of Commo...","0.72"
+"255","8CO",2016-06-30,"Proceeds or Issuance of Long ...","0.30"
+"256","8CO",2016-06-30,"Purchase of Intangibles","-0.02"
+"257","8CO",2016-06-30,"Purchase of Investments","0.00"
+"258","8CO",2016-06-30,"Purchase/Acquisition of Busin...","0.00"
+"259","8CO",2016-06-30,"Purchase/Sale of Business,Net","0.00"
+"260","8CO",2016-06-30,"Purchase/Sale of Intangibles,...","-0.02"
+"261","8CO",2016-06-30,"Purchase/Sale of Investments,...","0.00"
+"262","8CO",2016-06-30,"Repayment of Debt","0.00"
+"263","8CO",2016-06-30,"Sale of Business","0.00"
+"264","8CO",2016-06-30,"Sale of Investments","0.00"
+"265","8CO",2016-06-30,"FTSE",NA
+"266","8CO",2016-06-30,"FTSE 100",NA
+"267","8CO",2016-06-30,"FX",NA
+"268","8CO",2016-06-30,"GBPUSD",NA
+"269","8CO",2016-06-30,"GKP",NA
+"270","8CO",2016-06-30,"Gulf Keyst..",NA
+"271","8CO",2016-06-30,"IOF",NA
+"272","8CO",2016-06-30,"Iofina",NA
+"273","8CO",2016-06-30,"LSE",NA
+"274","8CO",2016-06-30,"LSE",NA
+"275","8CO",2016-06-30,"LSE",NA
+"276","8CO",2016-06-30,"LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..","LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell"
+"277","8CO",2016-06-30,"QPP",NA
+"278","8CO",2016-06-30,"Quindell",NA
+"279","8CO",2016-06-30,"UK Sterlin..",NA
+"280","8CO",2016-06-30,"UKX",NA

@@ -1,2 +1,369 @@
-"","ticker","date","name","est","sector","industry","industry_group","marcap","invested_capital","total_equity","total_debt","pretax_income","dividends","roic"
-"1","TIX",2016-06-30,NA,NA,"Financial Services","Asset Management",NA,535660,891.8,501.6,390.2,49.79,-42.37,0.00832025117739404
+"","ticker","date","variable","value"
+"1","TIX",2016-06-30,"Address","56 Pitt Street  Level 8, PO Box 5483, 2000"
+"2","TIX",2016-06-30,"Auditor:","Ernst & Young"
+"3","TIX",2016-06-30,"City/Country:","Sydney , Australia"
+"4","TIX",2016-06-30,"Company sector name:","Financial Services"
+"5","TIX",2016-06-30,"End of fiscal year:","30 June 2016"
+"6","TIX",2016-06-30,"Industry group name","Asset Management"
+"7","TIX",2016-06-30,"Industry name:","Asset Management"
+"8","TIX",2016-06-30,"Assets Turnover","12.29"
+"9","TIX",2016-06-30,"Book-Value pS","2.53"
+"10","TIX",2016-06-30,"Cash Flow pS","0.20"
+"11","TIX",2016-06-30,"Cash pS","0.02"
+"12","TIX",2016-06-30,"Current Ratio","1.46"
+"13","TIX",2016-06-30,"Dividend pS (DPS)","0.22"
+"14","TIX",2016-06-30,"Dividend Yield","7.83"
+"15","TIX",2016-06-30,"Domestic Sales","-"
+"16","TIX",2016-06-30,"Earnings pS (EPS)","0.26"
+"17","TIX",2016-06-30,"EBITDA Margin","86.02"
+"18","TIX",2016-06-30,"Effective Tax Rate","-"
+"19","TIX",2016-06-30,"Foreign Sales","-"
+"20","TIX",2016-06-30,"Free Cash Flow pS","0.20"
+"21","TIX",2016-06-30,"Gross gearing","45.67"
+"22","TIX",2016-06-30,"Gross Profit Margin","76.50"
+"23","TIX",2016-06-30,"Interest Cover","4.36"
+"24","TIX",2016-06-30,"Latest Shares Outstanding","211.96"
+"25","TIX",2016-06-30,"Leverage Ratio (Assets/Equity)","1.84"
+"26","TIX",2016-06-30,"LT Debt/Total Capital","0.44"
+"27","TIX",2016-06-30,"Market Capitalisation","535.66"
+"28","TIX",2016-06-30,"Net Debt","417.22"
+"29","TIX",2016-06-30,"PE Ratio","10.74"
+"30","TIX",2016-06-30,"Pre-Tax Profit Margin","66.29"
+"31","TIX",2016-06-30,"Research & Devlopment (R&D) as ...","0.00"
+"32","TIX",2016-06-30,"Return on Assets (ROA)","0.06"
+"33","TIX",2016-06-30,"Return on Capital Invested (ROC...","0.09"
+"34","TIX",2016-06-30,"Return on Equity (ROE)","0.12"
+"35","TIX",2016-06-30,"Sales per Employee","-"
+"36","TIX",2016-06-30,"Selling, General & Adm/tive (SG...","1.25"
+"37","TIX",2016-06-30,"Spread","0.01"
+"38","TIX",2016-06-30,"Tangible Book-Value pS","4.55"
+"39","TIX",2016-06-30,"TIX KEY FIGURES (at previous day's close)",NA
+"40","TIX",2016-06-30,"Total Debt/Equity (Gearing Rati...","0.78"
+"41","TIX",2016-06-30,"Working Capital pS","4.65"
+"42","TIX",2016-06-30,"Yesterday's Close","2.76"
+"43","TIX",2016-06-30,"1 Month","2.88"
+"44","TIX",2016-06-30,"1 Month","2.84"
+"45","TIX",2016-06-30,"1 Week","2.79"
+"46","TIX",2016-06-30,"1 Week","2.62"
+"47","TIX",2016-06-30,"1 Year","2.88"
+"48","TIX",2016-06-30,"1 Year","2.40"
+"49","TIX",2016-06-30,"3 Months","2.88"
+"50","TIX",2016-06-30,"3 Months","2.70"
+"51","TIX",2016-06-30,"3 Years","2.88"
+"52","TIX",2016-06-30,"3 Years","2.13"
+"53","TIX",2016-06-30,"5 Years","2.88"
+"54","TIX",2016-06-30,"5 Years","0.47"
+"55","TIX",2016-06-30,"6 Months","2.88"
+"56","TIX",2016-06-30,"6 Months","2.57"
+"57","TIX",2016-06-30,"Period †","High"
+"58","TIX",2016-06-30,"Period †","Open"
+"59","TIX",2016-06-30,"","1 year"
+"60","TIX",2016-06-30,"","LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell
+			
+		
+
+	
+				
+					FTSE
+				
+			
+		
+				
+					UKX
+				
+			
+		
+				FTSE 100
+			
+		
+
+	
+				
+					LSE
+				
+			
+		
+				
+					IOF
+				
+			
+		
+				Iofina
+			
+		
+
+	
+				
+					FX
+				
+			
+		
+				
+					GBPUSD
+				
+			
+		
+				UK Sterlin..
+			
+		
+			
+
+						
+						Stocks you've viewed will appear in this box, letting you easily return to quotes you've seen previously.Register now to create your own custom streaming stock watchlist."
+"61","TIX",2016-06-30,"CFO growth","0.50"
+"62","TIX",2016-06-30,"Diluted continuous EPS growth","-0.28"
+"63","TIX",2016-06-30,"Diluted EPS growth","-0.28"
+"64","TIX",2016-06-30,"Dividend growth","0.03"
+"65","TIX",2016-06-30,"Equity per share growth","0.01"
+"66","TIX",2016-06-30,"FCF growth","0.50"
+"67","TIX",2016-06-30,"Net income cont growth","0.13"
+"68","TIX",2016-06-30,"Net income growth","0.13"
+"69","TIX",2016-06-30,"Operating income growth","0.09"
+"70","TIX",2016-06-30,"Operating revenue growth","0.50"
+"71","TIX",2016-06-30,"Revenue growth","0.50"
+"72","TIX",2016-06-30,"TIX Growth Ratios (30 June 2016)",NA
+"73","TIX",2016-06-30,"Basic EPS","0.26"
+"74","TIX",2016-06-30,"Basic EPS from Continuing Ope...","0.26"
+"75","TIX",2016-06-30,"Basic EPS from Discontinued O...","0.00"
+"76","TIX",2016-06-30,"Basic EPS,Continuing and Disc...","0.26"
+"77","TIX",2016-06-30,"Basic Weighted Average Shares...","194.08"
+"78","TIX",2016-06-30,"Calculated Tax Effect Of Unus...","0.00"
+"79","TIX",2016-06-30,"Cost of Revenue","17.65"
+"80","TIX",2016-06-30,"Cost of Revenue,Reconciled","17.65"
+"81","TIX",2016-06-30,"Diluted EPS","0.26"
+"82","TIX",2016-06-30,"Diluted EPS from Continuing O...","0.26"
+"83","TIX",2016-06-30,"Diluted EPS from Discontinued...","0.00"
+"84","TIX",2016-06-30,"Diluted EPS,Continuing and Di...","0.26"
+"85","TIX",2016-06-30,"Diluted Weighted Average Shar...","194.08"
+"86","TIX",2016-06-30,"Discontinued Operations","0.00"
+"87","TIX",2016-06-30,"Dividend Per Share","0.22"
+"88","TIX",2016-06-30,"Earning Before Interest and T...","64.61"
+"89","TIX",2016-06-30,"Earning Before Interest Tax D...","64.61"
+"90","TIX",2016-06-30,"General and Administrative Ex...","0.94"
+"91","TIX",2016-06-30,"Gross Profit","57.46"
+"92","TIX",2016-06-30,"Interest and Dividend Income","0.15"
+"93","TIX",2016-06-30,"Interest Expense","14.82"
+"94","TIX",2016-06-30,"Interest Expense-Non Operatin...","14.82"
+"95","TIX",2016-06-30,"Interest Income-Non Operating","0.15"
+"96","TIX",2016-06-30,"Interest Income/Expense,Net-N...","-14.67"
+"97","TIX",2016-06-30,"Minority Interest","0.00"
+"98","TIX",2016-06-30,"Net Income","49.79"
+"99","TIX",2016-06-30,"Net Income Available to Commo...","49.79"
+"100","TIX",2016-06-30,"Net Income from Continuing an...","49.79"
+"101","TIX",2016-06-30,"Net Income from Continuing Op...","49.79"
+"102","TIX",2016-06-30,"Net Income from Continuing Op...","49.79"
+"103","TIX",2016-06-30,"Net Income Including Noncontr...","49.79"
+"104","TIX",2016-06-30,"Net Interest Income","-14.67"
+"105","TIX",2016-06-30,"Non Operating Expense","-14.67"
+"106","TIX",2016-06-30,"Non Operating Income","28.90"
+"107","TIX",2016-06-30,"Normalized Basic EPS","0.11"
+"108","TIX",2016-06-30,"Normalized Diluted EPS","0.11"
+"109","TIX",2016-06-30,"Normalized Income","20.89"
+"110","TIX",2016-06-30,"Operating Expenses","21.90"
+"111","TIX",2016-06-30,"Operating Income","35.56"
+"112","TIX",2016-06-30,"Operating Revenue","75.11"
+"113","TIX",2016-06-30,"Other Income/Expense,Net","28.90"
+"114","TIX",2016-06-30,"Preferred Stock Dividends","0.00"
+"115","TIX",2016-06-30,"Pretax Income","49.79"
+"116","TIX",2016-06-30,"Provision for Income Tax","0.00"
+"117","TIX",2016-06-30,"Selling,General and Administr...","0.94"
+"118","TIX",2016-06-30,"Tax rate for calculations","0.00"
+"119","TIX",2016-06-30,"TIX Income Statement 30 June 2016 (AUD)",NA
+"120","TIX",2016-06-30,"Total Revenue","75.11"
+"121","TIX",2016-06-30,"TotalUnusualItems","28.90"
+"122","TIX",2016-06-30,"TotalUnusualItemsExcludingGoo...","28.90"
+"123","TIX",2016-06-30,"Unrealized Gain or Loss","28.90"
+"124","TIX",2016-06-30,"Assets turnover","0.10"
+"125","TIX",2016-06-30,"Capital expenditure sales ratio","-"
+"126","TIX",2016-06-30,"Cash conversion cycle","-"
+"127","TIX",2016-06-30,"Days in inventory","-"
+"128","TIX",2016-06-30,"Days in payment","17.33"
+"129","TIX",2016-06-30,"Days in sales","13.86"
+"130","TIX",2016-06-30,"FCF net income ratio","0.79"
+"131","TIX",2016-06-30,"FCF sales ratio","0.53"
+"132","TIX",2016-06-30,"Fixed assets turnover","-"
+"133","TIX",2016-06-30,"Inventory turnover","-"
+"134","TIX",2016-06-30,"Payable turnover","21.06"
+"135","TIX",2016-06-30,"Receivable turnover","26.33"
+"136","TIX",2016-06-30,"ROA","0.06"
+"137","TIX",2016-06-30,"ROE","0.12"
+"138","TIX",2016-06-30,"ROIC","0.09"
+"139","TIX",2016-06-30,"TIX Efficency Ratios (30 June 2016)",NA
+"140","TIX",2016-06-30,"Current ratio","1.46"
+"141","TIX",2016-06-30,"Debt equity ratio","0.78"
+"142","TIX",2016-06-30,"Debt total capital ratio","0.44"
+"143","TIX",2016-06-30,"Financial leverage","1.84"
+"144","TIX",2016-06-30,"Quick ratio","0.29"
+"145","TIX",2016-06-30,"TIX Financial Health Ratios (30 June 2016)",NA
+"146","TIX",2016-06-30,"Total debt to equity","0.78"
+"147","TIX",2016-06-30,"Avg gross margin","-"
+"148","TIX",2016-06-30,"Avg net profit","-"
+"149","TIX",2016-06-30,"Avg post tax margin","-"
+"150","TIX",2016-06-30,"Avg pre tax marginr","-"
+"151","TIX",2016-06-30,"Avg ret assets","0.06"
+"152","TIX",2016-06-30,"Avg ret commonr","0.12"
+"153","TIX",2016-06-30,"Avg ret invested capital","0.09"
+"154","TIX",2016-06-30,"Growth ann capital spending","-"
+"155","TIX",2016-06-30,"Growth ann gross profit","-"
+"156","TIX",2016-06-30,"TIX Avearge Growth Ratios Over 5 Years (30 June 2016)",NA
+"157","TIX",2016-06-30,"EBIT margin","0.86"
+"158","TIX",2016-06-30,"EBITDA margin","0.86"
+"159","TIX",2016-06-30,"EBT margin","0.66"
+"160","TIX",2016-06-30,"Gross margin","0.76"
+"161","TIX",2016-06-30,"Inc per employee tot ops","-"
+"162","TIX",2016-06-30,"Interest coverage","4.36"
+"163","TIX",2016-06-30,"Net margin","0.66"
+"164","TIX",2016-06-30,"Normalized net profit margin","0.28"
+"165","TIX",2016-06-30,"Operating margin","0.47"
+"166","TIX",2016-06-30,"Sales per employee","-"
+"167","TIX",2016-06-30,"Tax rate","-"
+"168","TIX",2016-06-30,"TIX Profitability Ratios (30 June 2016)",NA
+"169","TIX",2016-06-30,"Book value per share","2.24"
+"170","TIX",2016-06-30,"Cash return","0.06"
+"171","TIX",2016-06-30,"CF per share","0.22"
+"172","TIX",2016-06-30,"Div payout 5 year","-"
+"173","TIX",2016-06-30,"Div payout tot ops","0.91"
+"174","TIX",2016-06-30,"Div rate","0.22"
+"175","TIX",2016-06-30,"Dividend yield","0.08"
+"176","TIX",2016-06-30,"Growth ann sales per share 5 ye...","-"
+"177","TIX",2016-06-30,"Payout ratio","0.92"
+"178","TIX",2016-06-30,"Price to book","1.23"
+"179","TIX",2016-06-30,"Price to cash flow","12.30"
+"180","TIX",2016-06-30,"Price to EPS","11.49"
+"181","TIX",2016-06-30,"Price to free cash flow","12.30"
+"182","TIX",2016-06-30,"Price to sales","6.89"
+"183","TIX",2016-06-30,"Ratio PE 5 year high","12.04"
+"184","TIX",2016-06-30,"Ratio PE 5 year low","5.94"
+"185","TIX",2016-06-30,"Sales per share","0.40"
+"186","TIX",2016-06-30,"Sustainable growth rate","0.01"
+"187","TIX",2016-06-30,"TIX Valuation Ratios (30 June 2016)",NA
+"188","TIX",2016-06-30,"Accounts Payable","1.66"
+"189","TIX",2016-06-30,"Accumulated Gains/ Losses Not...","0.00"
+"190","TIX",2016-06-30,"Capital Stock","538.55"
+"191","TIX",2016-06-30,"Cash","4.45"
+"192","TIX",2016-06-30,"Cash and Cash Equivalents","4.45"
+"193","TIX",2016-06-30,"Cash,Cash Equivalents,and Sho...","4.45"
+"194","TIX",2016-06-30,"Common Stock","538.55"
+"195","TIX",2016-06-30,"Common Stock Equity","501.60"
+"196","TIX",2016-06-30,"Current Assets","30.37"
+"197","TIX",2016-06-30,"Current Liabilities","20.81"
+"198","TIX",2016-06-30,"Goodwill","10.50"
+"199","TIX",2016-06-30,"Goodwill and Other Intangible...","10.50"
+"200","TIX",2016-06-30,"Invested Capital","891.80"
+"201","TIX",2016-06-30,"Investments and Advances","0.00"
+"202","TIX",2016-06-30,"Long Term Debt","390.20"
+"203","TIX",2016-06-30,"Long Term Debt and Capital Le...","390.20"
+"204","TIX",2016-06-30,"Net Tangible Assets","491.10"
+"205","TIX",2016-06-30,"Ordinary Shares Number","211.96"
+"206","TIX",2016-06-30,"Other Current Assets","22.80"
+"207","TIX",2016-06-30,"Other Current Liabilities","11.50"
+"208","TIX",2016-06-30,"Other Non-Current Assets","882.40"
+"209","TIX",2016-06-30,"Other Non-Current Liabilities","10.66"
+"210","TIX",2016-06-30,"Other Payable","7.65"
+"211","TIX",2016-06-30,"Payables","9.31"
+"212","TIX",2016-06-30,"Payables and Accrued Expenses","9.31"
+"213","TIX",2016-06-30,"Preferred Stock","0.00"
+"214","TIX",2016-06-30,"Prepaid Assets and Others","1.57"
+"215","TIX",2016-06-30,"Receivables","1.54"
+"216","TIX",2016-06-30,"Retained Earnings","-36.96"
+"217","TIX",2016-06-30,"Short Term Investments","0.00"
+"218","TIX",2016-06-30,"Stockholder's Equity","501.60"
+"219","TIX",2016-06-30,"Tangible Book Value","491.10"
+"220","TIX",2016-06-30,"TIX Balance Sheet 30 June 2016 (AUD)",NA
+"221","TIX",2016-06-30,"Total Assets","923.27"
+"222","TIX",2016-06-30,"Total Capitalization","891.80"
+"223","TIX",2016-06-30,"Total Debt","390.20"
+"224","TIX",2016-06-30,"Total Equity","501.60"
+"225","TIX",2016-06-30,"Total Equity","501.60"
+"226","TIX",2016-06-30,"Total Liabilities","421.67"
+"227","TIX",2016-06-30,"Total Liabilities Inc MI","421.67"
+"228","TIX",2016-06-30,"Total Non-Current Assets","892.90"
+"229","TIX",2016-06-30,"Total Non-Current Liabilities","400.87"
+"230","TIX",2016-06-30,"Total Non-Current Liabilities...","400.87"
+"231","TIX",2016-06-30,"Working Capital","9.56"
+"232","TIX",2016-06-30,"Cash and Cash Equivalents,Beg...","6.33"
+"233","TIX",2016-06-30,"Cash and Cash Equivalents,End...","4.45"
+"234","TIX",2016-06-30,"Cash Dividends Paid","-42.37"
+"235","TIX",2016-06-30,"Cash Flow from Financing Acti...","-24.98"
+"236","TIX",2016-06-30,"Cash Flow from Investing Acti...","-16.37"
+"237","TIX",2016-06-30,"Cash Flow from Operating Acti...","39.47"
+"238","TIX",2016-06-30,"Change in Cash","-1.88"
+"239","TIX",2016-06-30,"Effect of Exchange Rate Chang...","0.00"
+"240","TIX",2016-06-30,"Free Cash Flow","39.47"
+"241","TIX",2016-06-30,"Interest Paid, Supplemental D...","-12.96"
+"242","TIX",2016-06-30,"Issuance of Capital Stock","0.00"
+"243","TIX",2016-06-30,"Issuance of Debt","172.10"
+"244","TIX",2016-06-30,"Issuance/Payments of Common S...","0.00"
+"245","TIX",2016-06-30,"Issuance/Payments of Debt,Net","18.50"
+"246","TIX",2016-06-30,"Issuance/Payments of Long Ter...","18.50"
+"247","TIX",2016-06-30,"Other Financing Changes, Net","-1.11"
+"248","TIX",2016-06-30,"Other Investing Changes,Net","-0.73"
+"249","TIX",2016-06-30,"Payments to Settle Long Term ...","-153.60"
+"250","TIX",2016-06-30,"Proceeds or Issuance of Commo...","0.00"
+"251","TIX",2016-06-30,"Proceeds or Issuance of Long ...","172.10"
+"252","TIX",2016-06-30,"Purchase of Investments","-11.01"
+"253","TIX",2016-06-30,"Purchase/Acquisition of Busin...","-14.99"
+"254","TIX",2016-06-30,"Purchase/Sale of Business,Net","-14.99"
+"255","TIX",2016-06-30,"Purchase/Sale of Investments,...","-0.65"
+"256","TIX",2016-06-30,"Repayment of Debt","-153.60"
+"257","TIX",2016-06-30,"Sale of Business","0.00"
+"258","TIX",2016-06-30,"Sale of Investments","10.36"
+"259","TIX",2016-06-30,"TIX Cash Flow 30 June 2016 (AUD)",NA
+"260","TIX",2016-06-30,"FTSE",NA
+"261","TIX",2016-06-30,"FTSE 100",NA
+"262","TIX",2016-06-30,"FX",NA
+"263","TIX",2016-06-30,"GBPUSD",NA
+"264","TIX",2016-06-30,"GKP",NA
+"265","TIX",2016-06-30,"Gulf Keyst..",NA
+"266","TIX",2016-06-30,"IOF",NA
+"267","TIX",2016-06-30,"Iofina",NA
+"268","TIX",2016-06-30,"LSE",NA
+"269","TIX",2016-06-30,"LSE",NA
+"270","TIX",2016-06-30,"LSE",NA
+"271","TIX",2016-06-30,"LSE
+				
+			
+		
+				
+					GKP
+				
+			
+		
+				Gulf Keyst..","LSE
+				
+			
+		
+				
+					QPP
+				
+			
+		
+				Quindell"
+"272","TIX",2016-06-30,"QPP",NA
+"273","TIX",2016-06-30,"Quindell",NA
+"274","TIX",2016-06-30,"UK Sterlin..",NA
+"275","TIX",2016-06-30,"UKX",NA
