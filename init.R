@@ -13,6 +13,7 @@ suppressMessages(local({
   library(RColorBrewer)
   library(xts)
   library(XML)
+  library(parallel)
 }))
 
 # ----------- # # ----------- # # ----------- #

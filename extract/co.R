@@ -1,6 +1,9 @@
 extract.allCo <- function() {
-  asx <- read.csv('data/ASXListedCompanies.csv')
-  lapply(asx$ASX.code, extract.andSaveAusFund)
+  asx   <- read.csv('data/ASXListedCompanies.csv')
+  cores <- detectCores() - 1
+  cl    <- makeForkCluster(cores)
+  parLapply(cl, asx$ASX.code, extract.andSaveAusFund)
+  stopCluster(cl)
 }
 
 extract.fin <- function() {
