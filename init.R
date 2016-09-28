@@ -14,6 +14,8 @@ suppressMessages(local({
   library(xts)
   library(XML)
   library(parallel)
+  # library(pdftools)
+  library("tabulizer")
 }))
 
 # ----------- # # ----------- # # ----------- #

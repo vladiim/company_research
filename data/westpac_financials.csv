@@ -1,0 +1,185 @@
+"","ticker","year","variable","value"
+"1","WBC","2015","Net interest income ",14267
+"2","WBC","2015","Non-interest income ",7375
+"3","WBC","2015","Net operating income before operating expenses and impairment charges ",21642
+"4","WBC","2015","Operating expenses ",-9473
+"5","WBC","2015","Impairment charges ",-753
+"6","WBC","2015","Profit before income tax ",11416
+"7","WBC","2015","Income tax expense ",-3348
+"8","WBC","2015","Profit attributable to non-controlling interests ",-56
+"9","WBC","2015","Net profit attributable to owners of Westpac Banking Corporation ",8012
+"10","WBC","2015","Loans ",623316
+"11","WBC","2015","Other assets ",188840
+"12","WBC","2015","Total assets ",812156
+"13","WBC","2015","Deposits and other borrowings ",475328
+"14","WBC","2015","Debt issues ",171054
+"15","WBC","2015","Loan capital ",13840
+"16","WBC","2015","Other liabilities ",98019
+"17","WBC","2015","Total liabilities ",758241
+"18","WBC","2015","Total shareholders’ equity and non-controlling interests ",53915
+"19","WBC","2015","Dividends per ordinary share (cents) ",187
+"20","WBC","2015","Special dividends per ordinary share (cents) ",0
+"21","WBC","2015","Dividend payout ratio (%)3 ",73.4
+"22","WBC","2015","Return on average ordinary equity (%) ",16.2
+"23","WBC","2015","Basic earnings per share (cents) ",256.3
+"24","WBC","2015","Net tangible assets per ordinary share ($)4 ",13.08
+"25","WBC","2015","High ",40.07
+"26","WBC","2015","Low ",29.1
+"27","WBC","2015","Close ",29.7
+"28","WBC","2015","Operating expenses to operating income ratio (%) ",43.8
+"29","WBC","2015","Net interest margin (%) ",2.09
+"30","WBC","2015","Total equity to total assets (%) ",6.6
+"31","WBC","2015","Total equity to total average assets (%) ",6.8
+"32","WBC","2015","Common equity Tier 1 (%)5 ",9.5
+"33","WBC","2015","Tier 1 ratio (%)6 ",11.4
+"34","WBC","2015","Total capital ratio (%)6 ",13.3
+"35","WBC","2015","Net impaired assets to equity and collectively assessed provisions (%) ",1.8
+"36","WBC","2015","(basis points) ",53
+"37","WBC","2015","Full-time equivalent employees (number at financial year end)7 ",32620
+"38","WBC","2014","Net interest income ",13542
+"39","WBC","2014","Non-interest income ",6395
+"40","WBC","2014","Net operating income before operating expenses and impairment charges ",19937
+"41","WBC","2014","Operating expenses ",-8547
+"42","WBC","2014","Impairment charges ",-650
+"43","WBC","2014","Profit before income tax ",10740
+"44","WBC","2014","Income tax expense ",-3115
+"45","WBC","2014","Profit attributable to non-controlling interests ",-64
+"46","WBC","2014","Net profit attributable to owners of Westpac Banking Corporation ",7561
+"47","WBC","2014","Loans ",580343
+"48","WBC","2014","Other assets ",190499
+"49","WBC","2014","Total assets ",770842
+"50","WBC","2014","Deposits and other borrowings ",460822
+"51","WBC","2014","Debt issues ",152251
+"52","WBC","2014","Loan capital ",10858
+"53","WBC","2014","Other liabilities ",97574
+"54","WBC","2014","Total liabilities ",721505
+"55","WBC","2014","Total shareholders’ equity and non-controlling interests ",49337
+"56","WBC","2014","Dividends per ordinary share (cents) ",182
+"57","WBC","2014","Special dividends per ordinary share (cents) ",0
+"58","WBC","2014","Dividend payout ratio (%)3 ",74.7
+"59","WBC","2014","Return on average ordinary equity (%) ",16.3
+"60","WBC","2014","Basic earnings per share (cents) ",243.7
+"61","WBC","2014","Net tangible assets per ordinary share ($)4 ",11.57
+"62","WBC","2014","High ",35.99
+"63","WBC","2014","Low ",30
+"64","WBC","2014","Close ",32.14
+"65","WBC","2014","Operating expenses to operating income ratio (%) ",42.9
+"66","WBC","2014","Net interest margin (%) ",2.09
+"67","WBC","2014","Total equity to total assets (%) ",6.4
+"68","WBC","2014","Total equity to total average assets (%) ",6.7
+"69","WBC","2014","Common equity Tier 1 (%)5 ",9
+"70","WBC","2014","Tier 1 ratio (%)6 ",10.6
+"71","WBC","2014","Total capital ratio (%)6 ",12.3
+"72","WBC","2014","Net impaired assets to equity and collectively assessed provisions (%) ",2.5
+"73","WBC","2014","(basis points) ",60
+"74","WBC","2014","Full-time equivalent employees (number at financial year end)7 ",33586
+"75","WBC","2013","Net interest income ",12821
+"76","WBC","2013","Non-interest income ",5774
+"77","WBC","2013","Net operating income before operating expenses and impairment charges ",18595
+"78","WBC","2013","Operating expenses ",-7976
+"79","WBC","2013","Impairment charges ",-847
+"80","WBC","2013","Profit before income tax ",9772
+"81","WBC","2013","Income tax expense ",-2947
+"82","WBC","2013","Profit attributable to non-controlling interests ",-74
+"83","WBC","2013","Net profit attributable to owners of Westpac Banking Corporation ",6751
+"84","WBC","2013","Loans ",536164
+"85","WBC","2013","Other assets ",164933
+"86","WBC","2013","Total assets ",701097
+"87","WBC","2013","Deposits and other borrowings ",424482
+"88","WBC","2013","Debt issues ",144133
+"89","WBC","2013","Loan capital ",9330
+"90","WBC","2013","Other liabilities ",75615
+"91","WBC","2013","Total liabilities ",653560
+"92","WBC","2013","Total shareholders’ equity and non-controlling interests ",47537
+"93","WBC","2013","Dividends per ordinary share (cents) ",174
+"94","WBC","2013","Special dividends per ordinary share (cents) ",20
+"95","WBC","2013","Dividend payout ratio (%)3 ",79.7
+"96","WBC","2013","Return on average ordinary equity (%) ",15.2
+"97","WBC","2013","Basic earnings per share (cents) ",218.3
+"98","WBC","2013","Net tangible assets per ordinary share ($)4 ",11.09
+"99","WBC","2013","High ",34.79
+"100","WBC","2013","Low ",24.23
+"101","WBC","2013","Close ",32.73
+"102","WBC","2013","Operating expenses to operating income ratio (%) ",42.9
+"103","WBC","2013","Net interest margin (%) ",2.14
+"104","WBC","2013","Total equity to total assets (%) ",6.8
+"105","WBC","2013","Total equity to total average assets (%) ",6.9
+"106","WBC","2013","Common equity Tier 1 (%)5 ",9.1
+"107","WBC","2013","Tier 1 ratio (%)6 ",10.7
+"108","WBC","2013","Total capital ratio (%)6 ",12.3
+"109","WBC","2013","Net impaired assets to equity and collectively assessed provisions (%) ",4.1
+"110","WBC","2013","(basis points) ",73
+"111","WBC","2013","Full-time equivalent employees (number at financial year end)7 ",33045
+"112","WBC","2012","Net interest income ",12502
+"113","WBC","2012","Non-interest income ",5481
+"114","WBC","2012","Net operating income before operating expenses and impairment charges ",17983
+"115","WBC","2012","Operating expenses ",-7957
+"116","WBC","2012","Impairment charges ",-1212
+"117","WBC","2012","Profit before income tax ",8814
+"118","WBC","2012","Income tax expense ",-2812
+"119","WBC","2012","Profit attributable to non-controlling interests ",-66
+"120","WBC","2012","Net profit attributable to owners of Westpac Banking Corporation ",5936
+"121","WBC","2012","Loans ",514445
+"122","WBC","2012","Other assets ",164167
+"123","WBC","2012","Total assets ",678612
+"124","WBC","2012","Deposits and other borrowings ",394991
+"125","WBC","2012","Debt issues ",147847
+"126","WBC","2012","Loan capital ",9537
+"127","WBC","2012","Other liabilities ",79972
+"128","WBC","2012","Total liabilities ",632347
+"129","WBC","2012","Total shareholders’ equity and non-controlling interests ",46265
+"130","WBC","2012","Dividends per ordinary share (cents) ",166
+"131","WBC","2012","Special dividends per ordinary share (cents) ",0
+"132","WBC","2012","Dividend payout ratio (%)3 ",85.3
+"133","WBC","2012","Return on average ordinary equity (%) ",13.9
+"134","WBC","2012","Basic earnings per share (cents) ",194.7
+"135","WBC","2012","Net tangible assets per ordinary share ($)4 ",10.49
+"136","WBC","2012","High ",24.99
+"137","WBC","2012","Low ",19
+"138","WBC","2012","Close ",24.85
+"139","WBC","2012","Operating expenses to operating income ratio (%) ",44.2
+"140","WBC","2012","Net interest margin (%) ",2.16
+"141","WBC","2012","Total equity to total assets (%) ",6.8
+"142","WBC","2012","Total equity to total average assets (%) ",6.9
+"143","WBC","2012","Common equity Tier 1 (%)5 ",8.2
+"144","WBC","2012","Tier 1 ratio (%)6 ",10.3
+"145","WBC","2012","Total capital ratio (%)6 ",11.7
+"146","WBC","2012","Net impaired assets to equity and collectively assessed provisions (%) ",5.6
+"147","WBC","2012","(basis points) ",82
+"148","WBC","2012","Full-time equivalent employees (number at financial year end)7 ",33418
+"149","WBC","2011","Net interest income ",11996
+"150","WBC","2011","Non-interest income ",4917
+"151","WBC","2011","Net operating income before operating expenses and impairment charges ",16913
+"152","WBC","2011","Operating expenses ",-7406
+"153","WBC","2011","Impairment charges ",-993
+"154","WBC","2011","Profit before income tax ",8514
+"155","WBC","2011","Income tax expense ",-1455
+"156","WBC","2011","Profit attributable to non-controlling interests ",-68
+"157","WBC","2011","Net profit attributable to owners of Westpac Banking Corporation ",6991
+"158","WBC","2011","Loans ",496609
+"159","WBC","2011","Other assets ",173619
+"160","WBC","2011","Total assets ",670228
+"161","WBC","2011","Deposits and other borrowings ",370278
+"162","WBC","2011","Debt issues ",165931
+"163","WBC","2011","Loan capital ",8173
+"164","WBC","2011","Other liabilities ",82038
+"165","WBC","2011","Total liabilities ",626420
+"166","WBC","2011","Total shareholders’ equity and non-controlling interests ",43808
+"167","WBC","2011","Dividends per ordinary share (cents) ",156
+"168","WBC","2011","Special dividends per ordinary share (cents) ",0
+"169","WBC","2011","Dividend payout ratio (%)3 ",67
+"170","WBC","2011","Return on average ordinary equity (%) ",17.8
+"171","WBC","2011","Basic earnings per share (cents) ",233
+"172","WBC","2011","Net tangible assets per ordinary share ($)4 ",9.96
+"173","WBC","2011","High ",25.6
+"174","WBC","2011","Low ",17.84
+"175","WBC","2011","Close ",20.34
+"176","WBC","2011","Operating expenses to operating income ratio (%) ",43.8
+"177","WBC","2011","Net interest margin (%) ",2.19
+"178","WBC","2011","Total equity to total assets (%) ",6.5
+"179","WBC","2011","Total equity to total average assets (%) ",7
+"180","WBC","2011","Tier 1 ratio (%)6 ",9.7
+"181","WBC","2011","Total capital ratio (%)6 ",11
+"182","WBC","2011","Net impaired assets to equity and collectively assessed provisions (%) ",6.3
+"183","WBC","2011","(basis points) ",88
+"184","WBC","2011","Full-time equivalent employees (number at financial year end)7 ",33898

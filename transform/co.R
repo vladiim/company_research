@@ -4,5 +4,10 @@ transform.co <- function() {
 }
 
 transform.coROIC <- function() {
-  
+  d <- transform.co() # %>%
+  d$roic <- lapply(d, transform.individualROIC)
+}
+
+transform.individualROIC <- function(d) {
+
 }
