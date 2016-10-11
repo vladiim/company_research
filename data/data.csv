@@ -1,0 +1,162 @@
+ticker,year,variable,value,notes,source
+WBC,2011,Net Profit After Tax,6991000000.000,,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2012,Net Profit After Tax,5936000000.000,,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2013,Net Profit After Tax,6751000000.000,,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2014,Net Profit After Tax,7561000000.000,,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2015,Net Profit After Tax,8012000000.000,,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2011,Equity,43808000.000,,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2012,Equity,46265000.000,,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2013,Equity,47537000.000,,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2014,Equity,49337000.000,,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2015,Equity,53915000.000,,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2011,Debt,174104000000.000,Debt issues + loan capital,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2012,Debt,153463000000.000,Debt issues + loan capital,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2013,Debt,153463000000.000,Debt issues + loan capital,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2014,Debt,163109000000.000,Debt issues + loan capital,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2015,Debt,184894000000.000,Debt issues + loan capital,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2011,Shares,2997000000.000,Weighted average number of ordinary shares,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/2013_WBC_Annual_Report.pdf
+WBC,2012,Shares,3043000000.000,Weighted average number of ordinary shares,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/2013_WBC_Annual_Report.pdf
+WBC,2013,Shares,3087000000.000,Weighted average number of ordinary shares,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/2013_WBC_Annual_Report.pdf
+WBC,2014,Shares,3098000000.000,Weighted average number of ordinary shares,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2015,Shares,3124000000.000,Weighted average number of ordinary shares,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2011,Dividend Per Share,1.560,Dividend + special dividend,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/2013_WBC_Annual_Report.pdf
+WBC,2012,Dividend Per Share,1.660,Dividend + special dividend,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/2013_WBC_Annual_Report.pdf
+WBC,2013,Dividend Per Share,1.940,Dividend + special dividend,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/2013_WBC_Annual_Report.pdf
+WBC,2014,Dividend Per Share,1.820,Dividend + special dividend,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2015,Dividend Per Share,1.870,Dividend + special dividend,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2011,Revenue,38098000000.000,Interest income,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2012,Revenue,36873000000.000,Interest income,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2013,Revenue,33009000000.000,Interest income,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2014,Revenue,32248000000.000,Interest income,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2015,Revenue,32295000000.000,Interest income,https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/ic/Bookmarked_-_WBC_AR2015_000106_02112015_FINAL_v_03_Low_Res.pdf
+WBC,2011,ROIC,0.013,Calculation,
+WBC,2012,ROIC,0.006,Calculation,
+WBC,2013,ROIC,0.005,Calculation,
+WBC,2014,ROIC,0.012,Calculation,
+WBC,2015,ROIC,0.012,Calculation,
+CBA,2011,Net Profit After Tax,6394000000.000,"Net profit after income tax attributable to Equity holders of the Bank (""statutory basis"")",https://www.commbank.com.au/content/dam/commbank/about-us/shareholders/pdfs/annual-reports/2014-annual-report-website.pdf
+CBA,2012,Net Profit After Tax,7016000000.000,"Net profit after income tax attributable to Equity holders of the Bank (""statutory basis"")",https://www.commbank.com.au/content/dam/commbank/about-us/shareholders/pdfs/annual-reports/2014-annual-report-website.pdf
+CBA,2013,Net Profit After Tax,7618000000.000,"Net profit after income tax attributable to Equity holders of the Bank (""statutory basis"")",https://www.commbank.com.au/content/dam/commbank/about-us/shareholders/pdfs/annual-reports/2014-annual-report-website.pdf
+CBA,2014,Net Profit After Tax,8631000000.000,"Net profit after income tax attributable to Equity holders of the Bank (""statutory basis"")",https://www.commbank.com.au/content/dam/commbank/about-us/shareholders/pdfs/annual-reports/2014-annual-report-website.pdf
+CBA,2015,Net Profit After Tax,9063000000.000,"Net profit after income tax attributable to Equity holders of the Bank (""statutory basis"")",http://www.republicast.com/publications/cbaar2016/
+CBA,2016,Net Profit After Tax,9227000000.000,"Net profit after income tax attributable to Equity holders of the Bank (""statutory basis"")",http://www.republicast.com/publications/cbaar2016/
+CBA,2011,Equity,37287000000.000,Shareholders' Equity,https://www.commbank.com.au/content/dam/commbank/about-us/shareholders/pdfs/annual-reports/2014-annual-report-website.pdf
+CBA,2012,Equity,41620000000.000,Shareholders' Equity,http://www.republicast.com/publications/cbaar2016/
+CBA,2013,Equity,45537000000.000,Shareholders' Equity,http://www.republicast.com/publications/cbaar2016/
+CBA,2014,Equity,49348000000.000,Shareholders' Equity,http://www.republicast.com/publications/cbaar2016/
+CBA,2015,Equity,52993000000.000,Shareholders' Equity,http://www.republicast.com/publications/cbaar2016/
+CBA,2016,Equity,60756000000.000,Shareholders' Equity,http://www.republicast.com/publications/cbaar2016/
+CBA,2011,Debt,167336000000.000,Debt issues + Other interest bearing liabilities,https://www.commbank.com.au/content/dam/commbank/about-us/shareholders/pdfs/annual-reports/2012_Commonwealth_Bank_Annual_Report.pdf
+CBA,2012,Debt,173133000000.000,Debt issues + Other interest bearing liabilities,https://www.commbank.com.au/content/dam/commbank/about-us/shareholders/pdfs/annual-reports/2012_Commonwealth_Bank_Annual_Report.pdf
+CBA,2013,Debt,183177000000.000,Debt issues + Other interest bearing liabilities,https://www.commbank.com.au/content/dam/commbank/about-us/shareholders/pdfs/annual-reports/2014-annual-report-website.pdf
+CBA,2014,Debt,189325000000.000,Debt issues + Other interest bearing liabilities,https://www.commbank.com.au/content/dam/commbank/about-us/shareholders/pdfs/annual-reports/2014-annual-report-website.pdf
+CBA,2015,Debt,213895000000.000,Debt issues + Other interest bearing liabilities,http://www.republicast.com/publications/cbaar2016/
+CBA,2016,Debt,216817000000.000,Debt issues + Other interest bearing liabilities,http://www.republicast.com/publications/cbaar2016/
+CBA,2011,Shares,1564000000.000,Weighted average no. of shares (cash basis),https://www.commbank.com.au/content/dam/commbank/about-us/shareholders/pdfs/annual-reports/2012_Commonwealth_Bank_Annual_Report.pdf
+CBA,2012,Shares,1573000000.000,Weighted average no. of shares (cash basis),http://www.republicast.com/publications/cbaar2016/
+CBA,2013,Shares,1601000000.000,Weighted average no. of shares (cash basis),http://www.republicast.com/publications/cbaar2016/
+CBA,2014,Shares,1621000000.000,Weighted average no. of shares (cash basis),http://www.republicast.com/publications/cbaar2016/
+CBA,2015,Shares,1630000000.000,Weighted average no. of shares (cash basis),http://www.republicast.com/publications/cbaar2016/
+CBA,2016,Shares,1693000000.000,Weighted average no. of shares (cash basis),http://www.republicast.com/publications/cbaar2016/
+CBA,2011,Dividend Per Share,3.200,Dividends per share - fully franked (cents),https://www.commbank.com.au/content/dam/commbank/about-us/shareholders/pdfs/annual-reports/2012_Commonwealth_Bank_Annual_Report.pdf
+CBA,2012,Dividend Per Share,3.340,Dividends per share - fully franked (cents),http://www.republicast.com/publications/cbaar2016/
+CBA,2013,Dividend Per Share,3.640,Dividends per share - fully franked (cents),http://www.republicast.com/publications/cbaar2016/
+CBA,2014,Dividend Per Share,4.010,Dividends per share - fully franked (cents),http://www.republicast.com/publications/cbaar2016/
+CBA,2015,Dividend Per Share,4.200,Dividends per share - fully franked (cents),http://www.republicast.com/publications/cbaar2016/
+CBA,2016,Dividend Per Share,4.200,Dividends per share - fully franked (cents),http://www.republicast.com/publications/cbaar2016/
+CBA,2011,Revenue,46401000000.000,Total income,https://www.commbank.com.au/content/dam/commbank/about-us/shareholders/pdfs/annual-reports/2012_Commonwealth_Bank_Annual_Report.pdf
+CBA,2012,Revenue,47143000000.000,Total income,https://www.commbank.com.au/content/dam/commbank/about-us/shareholders/pdfs/annual-reports/2014-annual-report-website.pdf
+CBA,2013,Revenue,44802000000.000,Total income,https://www.commbank.com.au/content/dam/commbank/about-us/shareholders/pdfs/annual-reports/2014-annual-report-website.pdf
+CBA,2014,Revenue,44312000000.000,Total income,https://www.commbank.com.au/content/dam/commbank/about-us/shareholders/pdfs/annual-reports/2014-annual-report-website.pdf
+CBA,2015,Revenue,45327000000.000,Total income,http://www.republicast.com/publications/cbaar2016/
+CBA,2016,Revenue,44379000000.000,Total income,http://www.republicast.com/publications/cbaar2016/
+CBA,2011,ROIC,0.007,Calculation,
+CBA,2012,ROIC,0.008,Calculation,
+CBA,2013,ROIC,0.008,Calculation,
+CBA,2014,ROIC,0.009,Calculation,
+CBA,2015,ROIC,0.008,Calculation,
+CBA,2016,ROIC,0.008,Calculation,
+NAB,2011,Net Profit After Tax,5220000000.000,Net profit for the period,http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2012,Net Profit After Tax,4083000000.000,Net profit for the period,http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2013,Net Profit After Tax,5363000000.000,Net profit for the period,http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2014,Net Profit After Tax,5298000000.000,Net profit for the period,http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2015,Net Profit After Tax,6392000000.000,Net profit for the period,http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2016,Net Profit After Tax,,,
+NAB,2011,Equity,42188000000.000,Total equity,http://www.nab.com.au/content/dam/nabrwd/legacy/about-us/shareholder-centre/Report-archive/2011AnnualFinancialReview.pdf
+NAB,2012,Equity,43803000000.000,Total equity,http://www.nab.com.au/content/dam/nabrwd/legacy/about-us/shareholder-centre/annual-reports/pdf-reports/annual-financial-report-2013.pdf
+NAB,2013,Equity,46620000000.000,Total equity,http://www.nab.com.au/content/dam/nabrwd/legacy/about-us/shareholder-centre/annual-reports/pdf-reports/annual-financial-report-2013.pdf
+NAB,2014,Equity,47908000000.000,Total equity,http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2015,Equity,55513000000.000,Total equity,http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2016,Equity,,,
+NAB,2011,Debt,102262000000.000,"Bonds, notes and subordinated debt + Other debt issues",http://www.nab.com.au/content/dam/nabrwd/legacy/about-us/shareholder-centre/Report-archive/2011AnnualFinancialReview.pdf
+NAB,2012,Debt,105155000000.000,"Bonds, notes and subordinated debt + Other debt issues",http://www.nab.com.au/content/dam/nabrwd/legacy/about-us/shareholder-centre/annual-reports/pdf-reports/annual-financial-report-2013.pdf
+NAB,2013,Debt,113666000000.000,"Bonds, notes and subordinated debt + Other debt issues",http://www.nab.com.au/content/dam/nabrwd/legacy/about-us/shareholder-centre/annual-reports/pdf-reports/annual-financial-report-2013.pdf
+NAB,2014,Debt,122851000000.000,"Bonds, notes and subordinated debt + Other debt issues",http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2015,Debt,136810000000.000,"Bonds, notes and subordinated debt + Other debt issues",http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2016,Debt,,,
+NAB,2011,Shares,2121905000.000,Total weighted average ordinary shares (basic),http://www.nab.com.au/content/dam/nabrwd/legacy/about-us/shareholder-centre/Report-archive/2011AnnualFinancialReview.pdf
+NAB,2012,Shares,2188873000.000,Total weighted average ordinary shares (basic),http://www.nab.com.au/content/dam/nabrwd/legacy/about-us/shareholder-centre/annual-reports/pdf-reports/annual-financial-report-2013.pdf
+NAB,2013,Shares,2282185000.000,Total weighted average ordinary shares (basic),http://www.nab.com.au/content/dam/nabrwd/legacy/about-us/shareholder-centre/annual-reports/pdf-reports/annual-financial-report-2013.pdf
+NAB,2014,Shares,2329985000.000,Total weighted average ordinary shares (basic),http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2015,Shares,2438782000.000,Total weighted average ordinary shares (basic),http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2016,Shares,,,
+NAB,2011,Dividend Per Share,1.720,,http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2012,Dividend Per Share,1.800,,http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2013,Dividend Per Share,1.900,,http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2014,Dividend Per Share,1.980,,http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2015,Dividend Per Share,1.980,,http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2016,Dividend Per Share,,,
+NAB,2011,Revenue,30109000000.000,Interest income (company),http://www.nab.com.au/content/dam/nabrwd/legacy/about-us/shareholder-centre/Report-archive/2011AnnualFinancialReview.pdf
+NAB,2012,Revenue,30487000000.000,Interest income (company),http://www.nab.com.au/content/dam/nabrwd/legacy/about-us/shareholder-centre/annual-reports/pdf-reports/annual-financial-report-2013.pdf
+NAB,2013,Revenue,26905000000.000,Interest income (company),http://www.nab.com.au/content/dam/nabrwd/legacy/about-us/shareholder-centre/annual-reports/pdf-reports/annual-financial-report-2013.pdf
+NAB,2014,Revenue,26840000000.000,Interest income (company),http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2015,Revenue,30419000000.000,Interest income (company),http://www.nab.com.au/content/dam/nabrwd/About-Us/shareholder%20centre/documents/annual-financial-report-2015.pdf
+NAB,2016,Revenue,,,
+NAB,2011,ROIC,0.011,Calculation,
+NAB,2012,ROIC,0.001,Calculation,
+NAB,2013,ROIC,0.006,Calculation,
+NAB,2014,ROIC,0.004,Calculation,
+NAB,2015,ROIC,0.008,Calculation,
+NAB,2016,ROIC,#DIV/0!,Calculation,
+ANZ,2011,Net Profit After Tax,5355000000.000,Profit attributable to shareholders of the Company,https://www.shareholder.anz.com/sites/default/files/anz_shareholder_review_online_revised_151203.pdf
+ANZ,2012,Net Profit After Tax,5661000000.000,Profit attributable to shareholders of the Company,https://www.shareholder.anz.com/sites/default/files/anz_shareholder_review_online_revised_151203.pdf
+ANZ,2013,Net Profit After Tax,6310000000.000,Profit attributable to shareholders of the Company,https://www.shareholder.anz.com/sites/default/files/anz_shareholder_review_online_revised_151203.pdf
+ANZ,2014,Net Profit After Tax,7271000000.000,Profit attributable to shareholders of the Company,https://www.shareholder.anz.com/sites/default/files/anz_shareholder_review_online_revised_151203.pdf
+ANZ,2015,Net Profit After Tax,7493000000.000,Profit attributable to shareholders of the Company,https://www.shareholder.anz.com/sites/default/files/anz_shareholder_review_online_revised_151203.pdf
+ANZ,2016,Net Profit After Tax,,,
+ANZ,2011,Equity,37954000000.000,Total equity,https://www.shareholder.anz.com/sites/default/files/anz_shareholder_review_online_revised_151203.pdf
+ANZ,2012,Equity,41220000000.000,Total equity,https://www.shareholder.anz.com/sites/default/files/anz_shareholder_review_online_revised_151203.pdf
+ANZ,2013,Equity,45603000000.000,Total equity,https://www.shareholder.anz.com/sites/default/files/anz_shareholder_review_online_revised_151203.pdf
+ANZ,2014,Equity,49284000000.000,Total equity,https://www.shareholder.anz.com/sites/default/files/anz_shareholder_review_online_revised_151203.pdf
+ANZ,2015,Equity,57353000000.000,Total equity,https://www.shareholder.anz.com/sites/default/files/anz_shareholder_review_online_revised_151203.pdf
+ANZ,2016,Equity,,,
+ANZ,2011,Debt,,,
+ANZ,2012,Debt,,,https://www.shareholder.anz.com/sites/default/files/event_files/2013%20Annual%20Report%20Final.pdf
+ANZ,2013,Debt,,,https://www.shareholder.anz.com/sites/default/files/event_files/2013%20Annual%20Report%20Final.pdf
+ANZ,2014,Debt,3139000000.000,Debt issuances and subordinated debt + Other (company),https://www.shareholder.anz.com/sites/default/files/2015_annual_report.pdf
+ANZ,2015,Debt,3232000000.000,Debt issuances and subordinated debt + Other (company),https://www.shareholder.anz.com/sites/default/files/2015_annual_report.pdf
+ANZ,2016,Debt,,,
+ANZ,2011,Shares,,,
+ANZ,2012,Shares,,,
+ANZ,2013,Shares,,,
+ANZ,2014,Shares,2719700000.000,Weighted average number of ordinary shares,https://www.shareholder.anz.com/sites/default/files/2015_annual_report.pdf
+ANZ,2015,Shares,2759000000.000,Weighted average number of ordinary shares,https://www.shareholder.anz.com/sites/default/files/2015_annual_report.pdf
+ANZ,2016,Shares,,,
+ANZ,2011,Dividend Per Share,1.400,Dividend (cps),https://www.shareholder.anz.com/sites/default/files/anz_shareholder_review_online_revised_151203.pdf
+ANZ,2012,Dividend Per Share,1.450,Dividend (cps),https://www.shareholder.anz.com/sites/default/files/anz_shareholder_review_online_revised_151203.pdf
+ANZ,2013,Dividend Per Share,1.640,Dividend (cps),https://www.shareholder.anz.com/sites/default/files/anz_shareholder_review_online_revised_151203.pdf
+ANZ,2014,Dividend Per Share,1.780,Dividend (cps),https://www.shareholder.anz.com/sites/default/files/anz_shareholder_review_online_revised_151203.pdf
+ANZ,2015,Dividend Per Share,1.810,Dividend (cps),https://www.shareholder.anz.com/sites/default/files/anz_shareholder_review_online_revised_151203.pdf
+ANZ,2016,Dividend Per Share,,,
+ANZ,2011,Revenue,,,
+ANZ,2012,Revenue,,,
+ANZ,2013,Revenue,,,
+ANZ,2014,Revenue,25560000000.000,Interest income (company),https://www.shareholder.anz.com/sites/default/files/2015_annual_report.pdf
+ANZ,2015,Revenue,26665000000.000,Interest income (company),https://www.shareholder.anz.com/sites/default/files/2015_annual_report.pdf
+ANZ,2016,Revenue,,,
+ANZ,2011,ROIC,0.141,Calculation,
+ANZ,2012,ROIC,0.137,Calculation,
+ANZ,2013,ROIC,0.138,Calculation,
+ANZ,2014,ROIC,0.046,Calculation,
+ANZ,2015,ROIC,0.041,Calculation,
+ANZ,2016,ROIC,#DIV/0!,,
